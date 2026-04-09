@@ -15,28 +15,28 @@
         "numeric_score": null
       },
       {
-        "pos": "T2",
+        "pos": "1",
         "player": "Patrick Reed",
-        "score": "-3",
-        "today": "-3",
-        "thru": "7",
+        "score": "-5",
+        "today": "-5",
+        "thru": "8",
         "r1": "--",
         "r2": "--",
         "r3": "--",
         "r4": "--",
-        "numeric_score": -3
+        "numeric_score": -5
       },
       {
-        "pos": "T6",
+        "pos": "",
         "player": "Jake Knapp",
-        "score": "-1",
-        "today": "-1",
-        "thru": "9",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": -1
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
       },
       {
         "pos": "",
@@ -63,16 +63,16 @@
         "numeric_score": null
       },
       {
-        "pos": "61",
+        "pos": "",
         "player": "Aldrich Potgieter",
-        "score": "+10",
-        "today": "+10",
-        "thru": "14",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": 10
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
       },
       {
         "pos": "",
@@ -112,7 +112,7 @@
       }
     ],
     "best4_total": null,
-    "scores_entered": 3,
+    "scores_entered": 1,
     "roster_loaded": 9
   },
   {
@@ -131,16 +131,16 @@
         "numeric_score": null
       },
       {
-        "pos": "T6",
+        "pos": "T4",
         "player": "Akshay Bhatia",
-        "score": "-1",
-        "today": "-1",
-        "thru": "7",
+        "score": "-2",
+        "today": "-2",
+        "thru": "8",
         "r1": "--",
         "r2": "--",
         "r3": "--",
         "r4": "--",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "",
@@ -331,20 +331,20 @@
         "numeric_score": null
       },
       {
-        "pos": "T6",
+        "pos": "",
         "player": "José María Olazábal",
-        "score": "-1",
-        "today": "-1",
-        "thru": "14",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": -1
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
       }
     ],
     "best4_total": null,
-    "scores_entered": 1,
+    "scores_entered": 0,
     "roster_loaded": 9
   },
   {
@@ -387,16 +387,16 @@
         "numeric_score": null
       },
       {
-        "pos": "",
+        "pos": "T9",
         "player": "Shane Lowry",
-        "score": "",
-        "today": "",
-        "thru": "",
-        "r1": "",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": null
+        "score": "-1",
+        "today": "-1",
+        "thru": "9",
+        "r1": "--",
+        "r2": "--",
+        "r3": "--",
+        "r4": "--",
+        "numeric_score": -1
       },
       {
         "pos": "",
@@ -460,7 +460,7 @@
       }
     ],
     "best4_total": null,
-    "scores_entered": 0,
+    "scores_entered": 1,
     "roster_loaded": 9
   },
   {
@@ -515,32 +515,20 @@
         "numeric_score": null
       },
       {
-        "pos": "1",
+        "pos": "T2",
         "player": "Kurt Kitayama",
-        "score": "-4",
-        "today": "-4",
-        "thru": "10",
+        "score": "-3",
+        "today": "-3",
+        "thru": "11",
         "r1": "--",
         "r2": "--",
         "r3": "--",
         "r4": "--",
-        "numeric_score": -4
+        "numeric_score": -3
       },
       {
-        "pos": "T6",
+        "pos": "T9",
         "player": "Andrew Novak",
-        "score": "-1",
-        "today": "-1",
-        "thru": "3",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": -1
-      },
-      {
-        "pos": "T6",
-        "player": "Sam Stevens",
         "score": "-1",
         "today": "-1",
         "thru": "4",
@@ -549,6 +537,18 @@
         "r3": "--",
         "r4": "--",
         "numeric_score": -1
+      },
+      {
+        "pos": "T4",
+        "player": "Sam Stevens",
+        "score": "-2",
+        "today": "-2",
+        "thru": "5",
+        "r1": "--",
+        "r2": "--",
+        "r3": "--",
+        "r4": "--",
+        "numeric_score": -2
       },
       {
         "pos": "",
@@ -587,7 +587,7 @@
         "player": "Tommy Fleetwood",
         "score": "-3",
         "today": "-3",
-        "thru": "7",
+        "thru": "8",
         "r1": "--",
         "r2": "--",
         "r3": "--",
@@ -655,16 +655,16 @@
         "numeric_score": null
       },
       {
-        "pos": "",
+        "pos": "T9",
         "player": "Michael Kim",
-        "score": "",
-        "today": "",
-        "thru": "",
-        "r1": "",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": null
+        "score": "-1",
+        "today": "-1",
+        "thru": "2",
+        "r1": "--",
+        "r2": "--",
+        "r3": "--",
+        "r4": "--",
+        "numeric_score": -1
       },
       {
         "pos": "",
@@ -692,7 +692,7 @@
       }
     ],
     "best4_total": null,
-    "scores_entered": 1,
+    "scores_entered": 2,
     "roster_loaded": 9
   },
   {
@@ -783,39 +783,39 @@
         "numeric_score": null
       },
       {
-        "pos": "T2",
+        "pos": "T4",
         "player": "Brian Campbell",
-        "score": "-3",
-        "today": "-3",
-        "thru": "3",
+        "score": "-2",
+        "today": "-2",
+        "thru": "4",
         "r1": "--",
         "r2": "--",
         "r3": "--",
         "r4": "--",
-        "numeric_score": -3
+        "numeric_score": -2
       },
       {
-        "pos": "T6",
+        "pos": "",
         "player": "Mateo Pulcini (a)",
-        "score": "-1",
-        "today": "-1",
-        "thru": "2",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": -1
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
       }
     ],
     "best4_total": null,
-    "scores_entered": 2,
+    "scores_entered": 1,
     "roster_loaded": 9
   },
   {
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "T6",
+        "pos": "T9",
         "player": "Xander Schauffele",
         "score": "-1",
         "today": "-1",
@@ -875,16 +875,16 @@
         "numeric_score": null
       },
       {
-        "pos": "T6",
+        "pos": "T4",
         "player": "Nick Taylor",
-        "score": "-1",
-        "today": "-1",
-        "thru": "9",
+        "score": "-2",
+        "today": "-2",
+        "thru": "10",
         "r1": "--",
         "r2": "--",
         "r3": "--",
         "r4": "--",
-        "numeric_score": -1
+        "numeric_score": -2
       },
       {
         "pos": "",
@@ -955,11 +955,11 @@
         "numeric_score": null
       },
       {
-        "pos": "5",
+        "pos": "T4",
         "player": "Sam Burns",
         "score": "-2",
         "today": "-2",
-        "thru": "9",
+        "thru": "10",
         "r1": "--",
         "r2": "--",
         "r3": "--",
@@ -1003,7 +1003,7 @@
         "numeric_score": null
       },
       {
-        "pos": "T6",
+        "pos": "T9",
         "player": "Haotong Li",
         "score": "-1",
         "today": "-1",
@@ -1107,16 +1107,16 @@
         "numeric_score": null
       },
       {
-        "pos": "",
+        "pos": "T9",
         "player": "Brian Harman",
-        "score": "",
-        "today": "",
-        "thru": "",
-        "r1": "",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": null
+        "score": "-1",
+        "today": "-1",
+        "thru": "1",
+        "r1": "--",
+        "r2": "--",
+        "r3": "--",
+        "r4": "--",
+        "numeric_score": -1
       },
       {
         "pos": "",
@@ -1155,16 +1155,16 @@
         "numeric_score": null
       },
       {
-        "pos": "60",
+        "pos": "",
         "player": "Naoyuki Kataoka",
-        "score": "+9",
-        "today": "+9",
-        "thru": "15",
-        "r1": "--",
-        "r2": "--",
-        "r3": "--",
-        "r4": "--",
-        "numeric_score": 9
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
       }
     ],
     "best4_total": null,
