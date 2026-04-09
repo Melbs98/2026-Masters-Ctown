@@ -23,7 +23,7 @@ def score_to_number(value):
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    wb = load_workbook(WORKBOOK_PATH, data_only=False)
+    wb = load_workbook(WORKBOOK_PATH, data_only=True)
     scores_ws = wb["Scores"]
     teams_ws = wb["Team_Scoring"]
 
