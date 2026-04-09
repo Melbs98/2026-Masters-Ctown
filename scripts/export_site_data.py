@@ -26,21 +26,40 @@ def score_to_number(value):
     except ValueError:
         return None
 
-def is_real_score_row(pos, player, score):
-    if not player or not score:
+def is_real_score_row(pos, player, score, thru):
+    if not player or score is None:
         return False
 
     player = str(player).strip()
     pos = str(pos).strip() if pos is not None else ""
     score = str(score).strip().upper()
+    thru = str(thru).strip().upper() if thru is not None else ""
 
-    if len(player) < 3:
+    # Reject obvious junk/header rows
+    banned_players = {
+        "PLAYER", "YARDS", "TOURNAMENTS", "PREVIOUS WINNER", "HIDDEN"
+    }
+    if player.upper() in banned_players:
         return False
-    if player in {"PLAYER", "Yards", "Tournaments", "Previous Winner"}:
+
+    # Reject year/number rows like 2025, 2012, etc.
+    if player.isdigit():
         return False
-    if not POS_PATTERN.match(pos):
+
+    # Reject rows where player contains digits
+    if any(ch.isdigit() for ch in player):
         return False
-    if not SCORE_PATTERN.match(score):
+
+    # Position should be like 1, T2, CUT, WD, DQ
+    if not re.fullmatch(r"(T?\d+|CUT|WD|DQ)", pos):
+        return False
+
+    # Score should be golf-like
+    if not re.fullmatch(r"(E|[+-]?\d+|CUT|WD|DQ)", score):
+        return False
+
+    # Thru should be hole number, F, CUT, WD, DQ, or empty
+    if thru and not re.fullmatch(r"(\d+|F|CUT|WD|DQ)", thru):
         return False
 
     return True
@@ -55,32 +74,33 @@ def main():
     scores_lookup = {}
     score_rows = []
 
-    for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=10, values_only=True):
-        pos = row[1]
-        player = row[2]
-        score = row[3]
+for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=10, values_only=True):
+    pos = row[1]
+    player = row[2]
+    score = row[3]
+    thru = row[5]
 
-        if not is_real_score_row(pos, player, score):
-            continue
+    if not is_real_score_row(pos, player, score, thru):
+        continue
 
-        player_name = str(player).strip()
-        numeric_score = score_to_number(score)
+    player_name = str(player).strip()
+    numeric_score = score_to_number(score)
 
-        entry = {
-            "pos": str(pos).strip(),
-            "player": player_name,
-            "score": str(score).strip(),
-            "today": "" if row[4] is None else str(row[4]).strip(),
-            "thru": "" if row[5] is None else str(row[5]).strip(),
-            "r1": "" if row[6] is None else str(row[6]).strip(),
-            "r2": "" if row[7] is None else str(row[7]).strip(),
-            "r3": "" if row[8] is None else str(row[8]).strip(),
-            "r4": "" if row[9] is None else str(row[9]).strip(),
-            "numeric_score": numeric_score,
-        }
+    entry = {
+        "pos": str(pos).strip(),
+        "player": player_name,
+        "score": str(score).strip(),
+        "today": "" if row[4] is None else str(row[4]).strip(),
+        "thru": "" if row[5] is None else str(row[5]).strip(),
+        "r1": "" if row[6] is None else str(row[6]).strip(),
+        "r2": "" if row[7] is None else str(row[7]).strip(),
+        "r3": "" if row[8] is None else str(row[8]).strip(),
+        "r4": "" if row[9] is None else str(row[9]).strip(),
+        "numeric_score": numeric_score,
+    }
 
-        scores_lookup[player_name] = entry
-        score_rows.append(entry)
+    scores_lookup[player_name] = entry
+    score_rows.append(entry)
 
     teams_map = OrderedDict()
 
