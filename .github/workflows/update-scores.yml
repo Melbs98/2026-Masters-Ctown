@@ -1,0 +1,58 @@
+name: Update Masters Scores
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17,32,47 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: pip install -r requirements.txt
+
+      - name: Update Excel scores
+        run: python scripts/update_scores.py
+
+      - name: Export website data
+        run: python scripts/export_site_data.py
+
+      - name: Commit updated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data
+          git diff --staged --quiet || git commit -m "Update Masters scores"
+
+      - name: Push changes
+        run: git push
+
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+
+      - name: Deploy site
+        uses: actions/deploy-pages@v4
