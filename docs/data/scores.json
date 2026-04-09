@@ -13,6 +13,18 @@
   },
   {
     "pos": "2",
+    "player": "Rory McIlroy",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "52.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "3",
     "player": "Kurt Kitayama",
     "score": "-3",
     "today": "",
@@ -24,7 +36,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "3",
+    "pos": "4",
     "player": "Jason Day",
     "score": "-3",
     "today": "",
@@ -36,7 +48,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "4",
+    "pos": "5",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
@@ -48,24 +60,12 @@
     "numeric_score": -3
   },
   {
-    "pos": "5",
+    "pos": "6",
     "player": "Patrick Reed",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "61.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "6",
-    "player": "Rory McIlroy",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "49.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -113,7 +113,7 @@
     "score": "-2",
     "today": "",
     "thru": "",
-    "r1": "54.0",
+    "r1": "59.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -125,7 +125,7 @@
     "score": "-2",
     "today": "",
     "thru": "",
-    "r1": "25.0",
+    "r1": "30.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -221,7 +221,7 @@
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "19.0",
+    "r1": "22.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -241,18 +241,6 @@
   },
   {
     "pos": "21",
-    "player": "Brooks Koepka",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "15.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "22",
     "player": "Sepp Straka",
     "score": "-1",
     "today": "",
@@ -264,7 +252,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Robert MacIntyre",
     "score": "-1",
     "today": "",
@@ -276,7 +264,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "24",
+    "pos": "23",
     "player": "Max Homa",
     "score": "E",
     "today": "",
@@ -288,7 +276,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "25",
+    "pos": "24",
     "player": "Matt McCarty",
     "score": "E",
     "today": "",
@@ -300,7 +288,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Kristoffer Reitan",
     "score": "E",
     "today": "",
@@ -312,7 +300,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "27",
+    "pos": "26",
     "player": "Keegan Bradley",
     "score": "E",
     "today": "",
@@ -324,19 +312,19 @@
     "numeric_score": 0
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "64.0",
+    "r1": "68.0",
     "r2": "",
     "r3": "",
     "r4": "",
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Akshay Bhatia",
     "score": "E",
     "today": "",
@@ -348,19 +336,19 @@
     "numeric_score": 0
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Matt Fitzpatrick",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "56.0",
+    "r1": "61.0",
     "r2": "",
     "r3": "",
     "r4": "",
     "numeric_score": 0
   },
   {
-    "pos": "31",
+    "pos": "30",
     "player": "Russell Henley",
     "score": "E",
     "today": "",
@@ -372,7 +360,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "32",
+    "pos": "31",
     "player": "Brian Campbell",
     "score": "E",
     "today": "",
@@ -384,7 +372,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "33",
+    "pos": "32",
     "player": "Tom McKibbin",
     "score": "E",
     "today": "",
@@ -396,19 +384,19 @@
     "numeric_score": 0
   },
   {
-    "pos": "34",
+    "pos": "33",
     "player": "Wyndham Clark",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "40.0",
+    "r1": "44.0",
     "r2": "",
     "r3": "",
     "r4": "",
     "numeric_score": 0
   },
   {
-    "pos": "35",
+    "pos": "34",
     "player": "Zach Johnson",
     "score": "E",
     "today": "",
@@ -420,7 +408,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "36",
+    "pos": "35",
     "player": "Ethan Fang",
     "score": "E",
     "today": "",
@@ -432,7 +420,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "37",
+    "pos": "36",
     "player": "Harry Hall",
     "score": "E",
     "today": "",
@@ -444,7 +432,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Michael Brennan",
     "score": "E",
     "today": "",
@@ -456,12 +444,24 @@
     "numeric_score": 0
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Tyrrell Hatton",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "23.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "39",
+    "player": "Brooks Koepka",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "20.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -677,7 +677,7 @@
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "54.0",
+    "r1": "58.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -737,7 +737,7 @@
     "score": "+3",
     "today": "",
     "thru": "",
-    "r1": "59.0",
+    "r1": "64.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -769,11 +769,11 @@
   },
   {
     "pos": "65",
-    "player": "Mateo Pulcini",
+    "player": "Min Woo Lee",
     "score": "+3",
     "today": "",
     "thru": "",
-    "r1": "43.0",
+    "r1": "35.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -781,18 +781,6 @@
   },
   {
     "pos": "66",
-    "player": "Min Woo Lee",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "30.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "67",
     "player": "Maverick McNealy",
     "score": "+3",
     "today": "",
@@ -804,7 +792,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "68",
+    "pos": "67",
     "player": "Marco Penge",
     "score": "+3",
     "today": "",
@@ -816,7 +804,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "69",
+    "pos": "68",
     "player": "Johnny Keefer",
     "score": "+4",
     "today": "",
@@ -828,7 +816,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "70",
+    "pos": "69",
     "player": "Jackson Herrington",
     "score": "+4",
     "today": "",
@@ -840,7 +828,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "71",
+    "pos": "70",
     "player": "Bubba Watson",
     "score": "+4",
     "today": "",
@@ -852,12 +840,24 @@
     "numeric_score": 4
   },
   {
-    "pos": "72",
+    "pos": "71",
     "player": "Alex Noren",
     "score": "+4",
     "today": "",
     "thru": "",
-    "r1": "51.0",
+    "r1": "56.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "72",
+    "player": "Patrick Cantlay",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "56.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -865,18 +865,6 @@
   },
   {
     "pos": "73",
-    "player": "Patrick Cantlay",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "51.0",
-    "r2": "",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "74",
     "player": "Sungjae Im",
     "score": "+4",
     "today": "",
@@ -888,12 +876,24 @@
     "numeric_score": 4
   },
   {
+    "pos": "74",
+    "player": "Mateo Pulcini",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "48.0",
+    "r2": "",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
     "pos": "75",
     "player": "Fifa Laopakdee",
     "score": "+4",
     "today": "",
     "thru": "",
-    "r1": "31.0",
+    "r1": "36.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -953,7 +953,7 @@
     "score": "+6",
     "today": "",
     "thru": "",
-    "r1": "46.0",
+    "r1": "50.0",
     "r2": "",
     "r3": "",
     "r4": "",
@@ -1025,7 +1025,7 @@
     "score": "+7",
     "today": "",
     "thru": "",
-    "r1": "59.0",
+    "r1": "63.0",
     "r2": "",
     "r3": "",
     "r4": "",
