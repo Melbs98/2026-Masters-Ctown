@@ -9,6 +9,14 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 WORKBOOK_PATH = REPO_ROOT / "data" / "2026 Masters Draft & Scoreboard.xlsx"
 OUT_DIR = REPO_ROOT / "docs" / "data"
 
+def normalize_player_name(name):
+    if name is None:
+        return ""
+    text = str(name).strip()
+    text = re.sub(r"\s*\((a|A)\)\s*", "", text)
+    text = re.sub(r"\s+", " ", text)
+    return text
+
 def score_to_number(value):
     if value is None or value == "":
         return None
@@ -72,12 +80,12 @@ def main():
         if not is_real_score_row(pos, player, score, thru):
             continue
 
-        player_name = str(player).strip()
+        lookup_name = normalize_player_name(player)
         numeric_score = score_to_number(score)
 
         entry = {
             "pos": str(pos).strip(),
-            "player": player_name,
+            "player": str(player).strip(),
             "score": str(score).strip(),
             "today": "" if row[4] is None else str(row[4]).strip(),
             "thru": "" if row[5] is None else str(row[5]).strip(),
@@ -88,7 +96,7 @@ def main():
             "numeric_score": numeric_score,
         }
 
-        scores_lookup[player_name] = entry
+        scores_lookup[lookup_name] = entry
         score_rows.append(entry)
 
     teams_map = OrderedDict()
@@ -101,7 +109,7 @@ def main():
             continue
 
         team_name = str(team).strip()
-        player_name = str(player).strip()
+        player_name = normalize_player_name(player)
 
         if team_name not in teams_map:
             teams_map[team_name] = []
