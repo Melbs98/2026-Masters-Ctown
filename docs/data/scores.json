@@ -246,7 +246,7 @@
     "today": "",
     "thru": "",
     "r1": "73.0",
-    "r2": "31.0",
+    "r2": "34.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -318,7 +318,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "56.0",
+    "r2": "61.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -554,14 +554,14 @@
   {
     "pos": "47",
     "player": "Bryson DeChambeau",
-    "score": "+4",
+    "score": "+3",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "39.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 4
+    "numeric_score": 3
   },
   {
     "pos": "48",
@@ -602,14 +602,14 @@
   {
     "pos": "51",
     "player": "Si Woo Kim",
-    "score": "+3",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 3
+    "numeric_score": 4
   },
   {
     "pos": "52",
@@ -666,7 +666,7 @@
     "today": "",
     "thru": "",
     "r1": "75.0",
-    "r2": "22.0",
+    "r2": "28.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -714,7 +714,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "53.0",
+    "r2": "57.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
@@ -786,7 +786,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "28.0",
+    "r2": "33.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -890,14 +890,14 @@
   {
     "pos": "75",
     "player": "Fred Couples",
-    "score": "+6",
+    "score": "+9",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "75.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 6
+    "numeric_score": 9
   },
   {
     "pos": "76",
