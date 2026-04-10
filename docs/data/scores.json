@@ -78,7 +78,7 @@
     "today": "",
     "thru": "",
     "r1": "69.0",
-    "r2": "0.0",
+    "r2": "4.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -294,7 +294,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "16.0",
+    "r2": "20.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -433,24 +433,24 @@
   },
   {
     "pos": "37",
-    "player": "Keegan Bradley",
+    "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "5.0",
+    "r1": "73.0",
+    "r2": "4.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
   },
   {
     "pos": "38",
-    "player": "Dustin Johnson",
+    "player": "Keegan Bradley",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "0.0",
+    "r1": "72.0",
+    "r2": "5.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -630,7 +630,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "46.0",
+    "r2": "51.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -1002,7 +1002,7 @@
     "today": "",
     "thru": "",
     "r1": "79.0",
-    "r2": "22.0",
+    "r2": "25.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
