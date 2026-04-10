@@ -318,7 +318,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "4.0",
+    "r2": "9.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -421,24 +421,24 @@
   },
   {
     "pos": "36",
-    "player": "Dustin Johnson",
+    "player": "Keegan Bradley",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "4.0",
+    "r1": "72.0",
+    "r2": "10.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
   },
   {
     "pos": "37",
-    "player": "Keegan Bradley",
+    "player": "Dustin Johnson",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "5.0",
+    "r1": "73.0",
+    "r2": "4.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -637,18 +637,6 @@
   },
   {
     "pos": "54",
-    "player": "Bubba Watson",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "13.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "55",
     "player": "Bryson DeChambeau",
     "score": "+4",
     "today": "",
@@ -660,7 +648,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "56",
+    "pos": "55",
     "player": "Danny Willett",
     "score": "+5",
     "today": "",
@@ -672,7 +660,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "57",
+    "pos": "56",
     "player": "Jon Rahm",
     "score": "+5",
     "today": "",
@@ -684,7 +672,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "58",
+    "pos": "57",
     "player": "Jackson Herrington",
     "score": "+5",
     "today": "",
@@ -696,13 +684,25 @@
     "numeric_score": 5
   },
   {
-    "pos": "59",
+    "pos": "58",
     "player": "Rasmus Højgaard",
     "score": "+5",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "19.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "59",
+    "player": "Bubba Watson",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "17.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
@@ -889,18 +889,6 @@
   },
   {
     "pos": "75",
-    "player": "Nico Echavarria",
-    "score": "+7",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "13.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 7
-  },
-  {
-    "pos": "76",
     "player": "Michael Kim",
     "score": "+8",
     "today": "",
@@ -912,19 +900,19 @@
     "numeric_score": 8
   },
   {
-    "pos": "77",
+    "pos": "76",
     "player": "Ethan Fang",
     "score": "+8",
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "74.0",
+    "r2": "78.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
   },
   {
-    "pos": "78",
+    "pos": "77",
     "player": "Fred Couples",
     "score": "+8",
     "today": "",
@@ -936,13 +924,25 @@
     "numeric_score": 8
   },
   {
-    "pos": "79",
+    "pos": "78",
     "player": "Brandon Holtz",
     "score": "+8",
     "today": "",
     "thru": "",
     "r1": "81.0",
-    "r2": "12.0",
+    "r2": "15.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 8
+  },
+  {
+    "pos": "79",
+    "player": "Nico Echavarria",
+    "score": "+8",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "17.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -954,7 +954,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "69.0",
+    "r2": "73.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
@@ -966,7 +966,7 @@
     "today": "",
     "thru": "",
     "r1": "80.0",
-    "r2": "28.0",
+    "r2": "33.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
@@ -1021,24 +1021,24 @@
   },
   {
     "pos": "86",
-    "player": "Min Woo Lee",
+    "player": "Fifa Laopakdee",
     "score": "+11",
     "today": "",
     "thru": "",
-    "r1": "78.0",
-    "r2": "69.0",
+    "r1": "80.0",
+    "r2": "67.0",
     "r3": "",
     "r4": "",
     "numeric_score": 11
   },
   {
     "pos": "87",
-    "player": "Fifa Laopakdee",
+    "player": "Min Woo Lee",
     "score": "+11",
     "today": "",
     "thru": "",
-    "r1": "80.0",
-    "r2": "64.0",
+    "r1": "78.0",
+    "r2": "69.0",
     "r3": "",
     "r4": "",
     "numeric_score": 11
@@ -1062,7 +1062,7 @@
     "today": "",
     "thru": "",
     "r1": "84.0",
-    "r2": "28.0",
+    "r2": "33.0",
     "r3": "",
     "r4": "",
     "numeric_score": 13
