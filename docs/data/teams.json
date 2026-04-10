@@ -87,7 +87,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Kristoffer Reitan",
         "score": "-4",
         "today": "",
@@ -161,7 +161,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "59.0",
+        "r2": "63.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -191,7 +191,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Haotong Li",
         "score": "-4",
         "today": "",
@@ -237,14 +237,14 @@
       {
         "pos": "1",
         "player": "Rory McIlroy",
-        "score": "-11",
+        "score": "-12",
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "62.0",
+        "r2": "65.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -11
+        "numeric_score": -12
       },
       {
         "pos": "18",
@@ -343,7 +343,7 @@
         "numeric_score": 9
       }
     ],
-    "best4_total": -11,
+    "best4_total": -12,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -607,7 +607,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Jason Day",
         "score": "-4",
         "today": "",
@@ -747,7 +747,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -943,13 +943,13 @@
         "numeric_score": 5
       },
       {
-        "pos": "12",
+        "pos": "8",
         "player": "Cameron Young",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "63.0",
+        "r2": "67.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
