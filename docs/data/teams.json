@@ -119,7 +119,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -247,16 +247,16 @@
         "numeric_score": -1
       },
       {
-        "pos": "23",
+        "pos": "30",
         "player": "Jordan Spieth",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "68.0",
+        "r2": "73.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "39",
@@ -265,7 +265,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "66.0",
+        "r2": "70.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -343,7 +343,7 @@
         "numeric_score": null
       }
     ],
-    "best4_total": -8,
+    "best4_total": -7,
     "scores_entered": 8,
     "roster_loaded": 9
   },
@@ -387,7 +387,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "25",
+        "pos": "24",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Nick Taylor",
         "score": "E",
         "today": "",
@@ -595,7 +595,7 @@
         "numeric_score": -8
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Hideki Matsuyama",
         "score": "E",
         "today": "",
@@ -801,7 +801,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "18.0",
+        "r2": "22.0",
         "r3": "",
         "r4": "",
         "numeric_score": 7
@@ -839,7 +839,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
@@ -1059,7 +1059,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Cameron Young",
         "score": "E",
         "today": "",
