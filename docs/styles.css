@@ -149,19 +149,24 @@ body {
 .payout-item {
   border: 1px solid #ddd;
   border-radius: 10px;
-  padding: 12px;
+  padding: 12px 16px;
   background: #fafafa;
 }
 
 .payout-item h3 {
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
   font-size: 16px;
 }
 
 .payout-winner {
   display: flex;
   justify-content: space-between;
-  gap: 12px;
+  align-items: center;
+  gap: 16px;
   padding: 4px 0;
+}
+
+.payout-winner strong {
+  white-space: nowrap;
 }
