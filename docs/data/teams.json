@@ -173,7 +173,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "48.0",
+        "r2": "52.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -533,7 +533,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "34.0",
+        "r2": "38.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -667,7 +667,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "82",
+        "pos": "81",
         "player": "Sami Välimäki",
         "score": "+10",
         "today": "",
@@ -701,14 +701,14 @@
       {
         "pos": "42",
         "player": "Matt Fitzpatrick",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "32.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": 2
       },
       {
         "pos": "4",
@@ -717,7 +717,7 @@
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "30.0",
+        "r2": "34.0",
         "r3": "",
         "r4": "",
         "numeric_score": -5
@@ -753,7 +753,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "52.0",
+        "r2": "56.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
@@ -807,7 +807,7 @@
         "numeric_score": 8
       }
     ],
-    "best4_total": -4,
+    "best4_total": -5,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -833,7 +833,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "29.0",
+        "r2": "33.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
@@ -887,16 +887,16 @@
         "numeric_score": null
       },
       {
-        "pos": "78",
+        "pos": "82",
         "player": "Max Greyserman",
-        "score": "+9",
+        "score": "+10",
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "54.0",
+        "r2": "59.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 9
+        "numeric_score": 10
       },
       {
         "pos": "90",
@@ -917,7 +917,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "52.0",
+        "r2": "56.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -1027,7 +1027,7 @@
         "numeric_score": 18
       },
       {
-        "pos": "79",
+        "pos": "78",
         "player": "Mike Weir",
         "score": "+10",
         "today": "",
