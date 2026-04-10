@@ -93,7 +93,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "56.0",
+        "r2": "59.0",
         "r3": "",
         "r4": "",
         "numeric_score": -5
@@ -411,7 +411,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Dustin Johnson",
         "score": "-1",
         "today": "",
@@ -533,7 +533,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "53.0",
+        "r2": "57.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -643,13 +643,13 @@
         "numeric_score": -4
       },
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "52.0",
+        "r2": "56.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -901,14 +901,14 @@
       {
         "pos": "90",
         "player": "Brandon Holtz",
-        "score": "+17",
+        "score": "+16",
         "today": "",
         "thru": "",
         "r1": "81.0",
-        "r2": "64.0",
+        "r2": "68.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 17
+        "numeric_score": 16
       },
       {
         "pos": "54",
