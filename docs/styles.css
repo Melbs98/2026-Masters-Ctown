@@ -140,3 +140,28 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+#payouts-list {
+  display: grid;
+  gap: 12px;
+}
+
+.payout-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 12px;
+  background: #fafafa;
+}
+
+.payout-item h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.payout-winner {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px 0;
+}
