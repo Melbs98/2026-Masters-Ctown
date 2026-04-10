@@ -78,7 +78,7 @@
     "today": "",
     "thru": "",
     "r1": "69.0",
-    "r2": "4.0",
+    "r2": "9.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -306,13 +306,25 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "9.0",
+    "r2": "13.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
   },
   {
     "pos": "27",
+    "player": "Dustin Johnson",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "8.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "28",
     "player": "Tommy Fleetwood",
     "score": "E",
     "today": "",
@@ -324,7 +336,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "28",
+    "pos": "29",
     "player": "Hideki Matsuyama",
     "score": "E",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Sergio García",
     "score": "+1",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Ludvig Åberg",
     "score": "+1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Justin Thomas",
     "score": "+1",
     "today": "",
@@ -420,7 +432,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Gary Woodland",
     "score": "+1",
     "today": "",
@@ -432,25 +444,13 @@
     "numeric_score": 1
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Keegan Bradley",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "10.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "38",
-    "player": "Dustin Johnson",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "4.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -918,7 +918,7 @@
     "today": "",
     "thru": "",
     "r1": "78.0",
-    "r2": "66.0",
+    "r2": "70.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -1033,24 +1033,24 @@
   },
   {
     "pos": "87",
-    "player": "Fifa Laopakdee",
-    "score": "+11",
-    "today": "",
-    "thru": "",
-    "r1": "80.0",
-    "r2": "67.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 11
-  },
-  {
-    "pos": "88",
     "player": "Min Woo Lee",
     "score": "+11",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "69.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 11
+  },
+  {
+    "pos": "88",
+    "player": "Fifa Laopakdee",
+    "score": "+11",
+    "today": "",
+    "thru": "",
+    "r1": "80.0",
+    "r2": "67.0",
     "r3": "",
     "r4": "",
     "numeric_score": 11
