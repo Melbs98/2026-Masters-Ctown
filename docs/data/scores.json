@@ -229,18 +229,6 @@
   },
   {
     "pos": "20",
-    "player": "Russell Henley",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "61.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "21",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -252,7 +240,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "22",
+    "pos": "21",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -264,13 +252,25 @@
     "numeric_score": -1
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Matt Fitzpatrick",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "65.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "23",
+    "player": "Russell Henley",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "66.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -445,18 +445,6 @@
   },
   {
     "pos": "38",
-    "player": "Viktor Hovland",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "54.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "39",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -468,7 +456,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Adam Scott",
     "score": "+2",
     "today": "",
@@ -480,7 +468,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "41",
+    "pos": "40",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -492,7 +480,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Keegan Bradley",
     "score": "+2",
     "today": "",
@@ -504,13 +492,25 @@
     "numeric_score": 2
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Gary Woodland",
     "score": "+2",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "75.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "43",
+    "player": "Viktor Hovland",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "60.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
