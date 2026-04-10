@@ -155,13 +155,13 @@
         "numeric_score": -6
       },
       {
-        "pos": "43",
+        "pos": "44",
         "player": "Patrick Cantlay",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "49.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -259,7 +259,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -619,7 +619,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
@@ -631,7 +631,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -955,19 +955,19 @@
         "numeric_score": 11
       },
       {
-        "pos": "44",
+        "pos": "38",
         "player": "Viktor Hovland",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "51.0",
+        "r2": "54.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 2
+        "numeric_score": 1
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Keegan Bradley",
         "score": "+2",
         "today": "",
@@ -1003,7 +1003,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Sam Stevens",
         "score": "+2",
         "today": "",
@@ -1039,7 +1039,7 @@
         "numeric_score": 10
       }
     ],
-    "best4_total": 10,
+    "best4_total": 9,
     "scores_entered": 9,
     "roster_loaded": 9
   },
