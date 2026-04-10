@@ -109,18 +109,6 @@
   },
   {
     "pos": "10",
-    "player": "Xander Schauffele",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "38.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "11",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -132,7 +120,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "12",
+    "pos": "11",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -144,7 +132,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "13",
+    "pos": "12",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -156,7 +144,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "14",
+    "pos": "13",
     "player": "Sam Burns",
     "score": "-3",
     "today": "",
@@ -168,13 +156,25 @@
     "numeric_score": -3
   },
   {
-    "pos": "15",
+    "pos": "14",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "70.0",
     "r2": "46.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "15",
+    "player": "Xander Schauffele",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "43.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -565,6 +565,18 @@
   },
   {
     "pos": "48",
+    "player": "Viktor Hovland",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "36.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "49",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -576,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Jon Rahm",
     "score": "+4",
     "today": "",
@@ -588,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -600,7 +612,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "52",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -612,7 +624,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+4",
     "today": "",
@@ -624,25 +636,13 @@
     "numeric_score": 4
   },
   {
-    "pos": "53",
+    "pos": "54",
     "player": "Patrick Cantlay",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "77.0",
     "r2": "31.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "54",
-    "player": "Viktor Hovland",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "33.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -774,7 +774,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "33.0",
+    "r2": "37.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -841,6 +841,18 @@
   },
   {
     "pos": "71",
+    "player": "Jackson Herrington",
+    "score": "+8",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "76.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 8
+  },
+  {
+    "pos": "72",
     "player": "Michael Kim",
     "score": "+8",
     "today": "",
@@ -852,25 +864,13 @@
     "numeric_score": 8
   },
   {
-    "pos": "72",
+    "pos": "73",
     "player": "Ethan Fang",
     "score": "+8",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "78.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 8
-  },
-  {
-    "pos": "73",
-    "player": "Jackson Herrington",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "72.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -973,6 +973,18 @@
   },
   {
     "pos": "82",
+    "player": "Sami Välimäki",
+    "score": "+11",
+    "today": "",
+    "thru": "",
+    "r1": "80.0",
+    "r2": "75.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 11
+  },
+  {
+    "pos": "83",
     "player": "Min Woo Lee",
     "score": "+11",
     "today": "",
@@ -984,25 +996,13 @@
     "numeric_score": 11
   },
   {
-    "pos": "83",
+    "pos": "84",
     "player": "Johnny Keefer",
     "score": "+11",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "79.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 11
-  },
-  {
-    "pos": "84",
-    "player": "Sami Välimäki",
-    "score": "+11",
-    "today": "",
-    "thru": "",
-    "r1": "80.0",
-    "r2": "71.0",
     "r3": "",
     "r4": "",
     "numeric_score": 11
@@ -1058,14 +1058,14 @@
   {
     "pos": "89",
     "player": "Ángel Cabrera",
-    "score": "+15",
+    "score": "+16",
     "today": "",
     "thru": "",
     "r1": "79.0",
-    "r2": "76.0",
+    "r2": "81.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 15
+    "numeric_score": 16
   },
   {
     "pos": "90",
