@@ -174,7 +174,7 @@
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "23.0",
+    "r2": "27.0",
     "r3": "",
     "r4": "",
     "numeric_score": -2
@@ -698,41 +698,17 @@
   {
     "pos": "59",
     "player": "Bryson DeChambeau",
-    "score": "+5",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "24.0",
+    "r2": "27.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 5
+    "numeric_score": 4
   },
   {
     "pos": "60",
-    "player": "Alex Noren",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "16.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 5
-  },
-  {
-    "pos": "61",
-    "player": "Nicolai Højgaard",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "74.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "62",
     "player": "Zach Johnson",
     "score": "+6",
     "today": "",
@@ -744,19 +720,7 @@
     "numeric_score": 6
   },
   {
-    "pos": "63",
-    "player": "Rasmus Neergaard-Petersen",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "57.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "64",
+    "pos": "61",
     "player": "Ryan Fox",
     "score": "+6",
     "today": "",
@@ -768,25 +732,61 @@
     "numeric_score": 6
   },
   {
-    "pos": "65",
-    "player": "Casey Jarvis",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "45.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "66",
+    "pos": "62",
     "player": "Bubba Watson",
     "score": "+6",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "42.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "63",
+    "player": "Alex Noren",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "21.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "64",
+    "player": "Nicolai Højgaard",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "74.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "65",
+    "player": "Rasmus Neergaard-Petersen",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "57.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "66",
+    "player": "Casey Jarvis",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "45.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
