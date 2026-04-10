@@ -3,16 +3,16 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "29",
+        "pos": "22",
         "player": "Matt Fitzpatrick",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "59.0",
+        "r2": "61.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": -1
       },
       {
         "pos": "2",
@@ -27,7 +27,7 @@
         "numeric_score": -7
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Jake Knapp",
         "score": "-2",
         "today": "",
@@ -111,7 +111,7 @@
         "numeric_score": 9
       }
     ],
-    "best4_total": -13,
+    "best4_total": -14,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -119,7 +119,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "25",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -351,7 +351,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "27",
+        "pos": "30",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -399,7 +399,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Max Homa",
         "score": "-2",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "25",
+        "pos": "28",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -551,7 +551,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "26",
+        "pos": "29",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -595,16 +595,16 @@
         "numeric_score": -8
       },
       {
-        "pos": "19",
+        "pos": "15",
         "player": "Hideki Matsuyama",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "54.0",
+        "r2": "58.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "52",
@@ -643,13 +643,13 @@
         "numeric_score": 2
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "67.0",
+        "r2": "71.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -691,7 +691,7 @@
         "numeric_score": 9
       }
     ],
-    "best4_total": -8,
+    "best4_total": -9,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -699,7 +699,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Xander Schauffele",
         "score": "-2",
         "today": "",
@@ -711,7 +711,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Collin Morikawa",
         "score": "-1",
         "today": "",
@@ -735,7 +735,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "24",
+        "pos": "26",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -821,7 +821,7 @@
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "60.0",
+        "r2": "63.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -839,16 +839,16 @@
         "numeric_score": 4
       },
       {
-        "pos": "30",
+        "pos": "24",
         "player": "Russell Henley",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "59.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": -1
       },
       {
         "pos": "45",
@@ -923,7 +923,7 @@
         "numeric_score": 4
       }
     ],
-    "best4_total": 7,
+    "best4_total": 6,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -1059,7 +1059,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Cameron Young",
         "score": "-3",
         "today": "",
