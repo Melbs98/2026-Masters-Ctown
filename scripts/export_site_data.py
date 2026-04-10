@@ -3,12 +3,18 @@ import json
 import re
 import unicodedata
 from datetime import datetime, timezone
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 from openpyxl import load_workbook
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 WORKBOOK_PATH = REPO_ROOT / "data" / "2026 Masters Draft & Scoreboard.xlsx"
 OUT_DIR = REPO_ROOT / "docs" / "data"
+
+# 1 = after Day 1
+# 2 = after Day 2
+# 3 = after Day 3
+# 4 = final
+CURRENT_STAGE = 2
 
 ALIASES = {
     "sam stevens": "samuel stevens",
@@ -87,6 +93,7 @@ def is_real_score_row(pos, player, score, thru):
     return True
 
 def split_payout(label, winners, total_amount):
+    winners = sorted(set(winners))
     if not winners:
         return None
 
@@ -108,6 +115,7 @@ def rank_with_ties(items, score_key):
         score = valid[i][score_key]
         tied = [valid[i]]
         i += 1
+
         while i < len(valid) and valid[i][score_key] == score:
             tied.append(valid[i])
             i += 1
@@ -136,6 +144,18 @@ def main():
 
     scores_lookup = {}
     score_rows = []
+    player_to_teams = defaultdict(set)
+
+    for row in draft_ws.iter_rows(min_row=2, max_row=draft_ws.max_row, min_col=1, max_col=5, values_only=True):
+        team = row[3]
+        player = row[4]
+
+        if not team or not player:
+            continue
+
+        team_name = str(team).strip()
+        player_name = normalize_player_name(player)
+        player_to_teams[player_name].add(team_name)
 
     for row in scores_ws.iter_rows(min_row=2, max_row=scores_ws.max_row, min_col=1, max_col=10, values_only=True):
         pos = row[1]
@@ -176,21 +196,12 @@ def main():
         score_rows.append(entry)
 
     teams_map = OrderedDict()
+    for team_name in sorted({t for teams in player_to_teams.values() for t in teams}):
+        teams_map[team_name] = []
 
-    for row in draft_ws.iter_rows(min_row=2, max_row=draft_ws.max_row, min_col=1, max_col=5, values_only=True):
-        team = row[3]
-        player = row[4]
-
-        if not team or not player:
-            continue
-
-        team_name = str(team).strip()
-        player_name = normalize_player_name(player)
-
-        if team_name not in teams_map:
-            teams_map[team_name] = []
-
-        teams_map[team_name].append(player_name)
+    for player_name, teams_for_player in player_to_teams.items():
+        for team_name in teams_for_player:
+            teams_map[team_name].append(player_name)
 
     teams = []
     team_day2 = []
@@ -263,69 +274,91 @@ def main():
 
     payouts = []
 
-    # Leader after Day 2 - $50
-    day2_players = [{"name": s["player"], "score": s["day2_total"]} for s in score_rows if s["day2_total"] is not None]
-    if day2_players:
-        best_day2 = min(p["score"] for p in day2_players)
-        winners = [p["name"] for p in day2_players if p["score"] == best_day2]
-        item = split_payout("Leader after Day 2", winners, 50)
-        if item:
-            payouts.append(item)
+    # STAGE 2
+    if CURRENT_STAGE >= 2:
+        day2_players = [s for s in score_rows if s["day2_total"] is not None]
+        if day2_players:
+            best_day2 = min(p["day2_total"] for p in day2_players)
+            winning_players = [p for p in day2_players if p["day2_total"] == best_day2]
 
-    # Best 4-man team after Day 2 - $50
-    valid_team_day2 = [t for t in team_day2 if t["score"] is not None]
-    if valid_team_day2:
-        best_score = min(t["score"] for t in valid_team_day2)
-        winners = [t["name"] for t in valid_team_day2 if t["score"] == best_score]
-        item = split_payout("Best 4-Man Team after Day 2", winners, 50)
-        if item:
-            payouts.append(item)
+            winning_teams = []
+            for p in winning_players:
+                lookup_name = normalize_player_name(p["player"])
+                winning_teams.extend(player_to_teams.get(lookup_name, []))
 
-    # Leader after Day 3 - $50
-    day3_players = [{"name": s["player"], "score": s["day3_total"]} for s in score_rows if s["day3_total"] is not None]
-    if day3_players:
-        best_day3 = min(p["score"] for p in day3_players)
-        winners = [p["name"] for p in day3_players if p["score"] == best_day3]
-        item = split_payout("Leader after Day 3", winners, 50)
-        if item:
-            payouts.append(item)
+            item = split_payout("Leader after Day 2", winning_teams, 50)
+            if item:
+                payouts.append(item)
 
-    # Best 3-man team after Day 3 - $50
-    valid_team_day3 = [t for t in team_day3 if t["score"] is not None]
-    if valid_team_day3:
-        best_score = min(t["score"] for t in valid_team_day3)
-        winners = [t["name"] for t in valid_team_day3 if t["score"] == best_score]
-        item = split_payout("Best 3-Man Team after Day 3", winners, 50)
-        if item:
-            payouts.append(item)
+        valid_team_day2 = [t for t in team_day2 if t["score"] is not None]
+        if valid_team_day2:
+            best_score = min(t["score"] for t in valid_team_day2)
+            winners = [t["name"] for t in valid_team_day2 if t["score"] == best_score]
+            item = split_payout("Best 4-Man Team after Day 2", winners, 50)
+            if item:
+                payouts.append(item)
 
-    # Final overall payouts: 1st $275, 2nd $150, 3rd $100
-    final_team_rank_items = [{"name": t["team"], "final_score": t["best4_total"]} for t in teams if t["best4_total"] is not None]
-    ranked = rank_with_ties(final_team_rank_items, "final_score")
+    # STAGE 3
+    if CURRENT_STAGE >= 3:
+        day3_players = [s for s in score_rows if s["day3_total"] is not None]
+        if day3_players:
+            best_day3 = min(p["day3_total"] for p in day3_players)
+            winning_players = [p for p in day3_players if p["day3_total"] == best_day3]
 
-    first_group = get_group_starting_at_place(ranked, 1)
-    if first_group:
-        payouts.append(split_payout("1st Overall", [i["name"] for i in first_group["items"]], 275))
+            winning_teams = []
+            for p in winning_players:
+                lookup_name = normalize_player_name(p["player"])
+                winning_teams.extend(player_to_teams.get(lookup_name, []))
 
-    second_group = get_group_starting_at_place(ranked, 2)
-    third_group = get_group_starting_at_place(ranked, 3)
+            item = split_payout("Leader after Day 3", winning_teams, 50)
+            if item:
+                payouts.append(item)
 
-    if second_group:
-        if len(second_group["items"]) > 1:
-            combined = 150 + 100
-            payouts.append(split_payout("Tied for 2nd Overall", [i["name"] for i in second_group["items"]], combined))
-        else:
-            payouts.append(split_payout("2nd Overall", [i["name"] for i in second_group["items"]], 150))
-            if third_group:
-                payouts.append(split_payout("3rd Overall", [i["name"] for i in third_group["items"]], 100))
+        valid_team_day3 = [t for t in team_day3 if t["score"] is not None]
+        if valid_team_day3:
+            best_score = min(t["score"] for t in valid_team_day3)
+            winners = [t["name"] for t in valid_team_day3 if t["score"] == best_score]
+            item = split_payout("Best 3-Man Team after Day 3", winners, 50)
+            if item:
+                payouts.append(item)
 
-    # Final best 3-man team - $175
-    if valid_team_day3:
-        best_score = min(t["score"] for t in valid_team_day3)
-        winners = [t["name"] for t in valid_team_day3 if t["score"] == best_score]
-        payouts.append(split_payout("Final Best 3-Man Team", winners, 175))
+    # FINAL
+    if CURRENT_STAGE >= 4:
+        final_team_rank_items = [{"name": t["team"], "final_score": t["best4_total"]} for t in teams if t["best4_total"] is not None]
+        ranked = rank_with_ties(final_team_rank_items, "final_score")
 
-    payouts = [p for p in payouts if p is not None]
+        first_group = get_group_starting_at_place(ranked, 1)
+        if first_group:
+            item = split_payout("1st Overall", [i["name"] for i in first_group["items"]], 275)
+            if item:
+                payouts.append(item)
+
+        second_group = get_group_starting_at_place(ranked, 2)
+        third_group = get_group_starting_at_place(ranked, 3)
+
+        if second_group:
+            if len(second_group["items"]) > 1:
+                combined = 150 + 100
+                item = split_payout("Tied for 2nd Overall", [i["name"] for i in second_group["items"]], combined)
+                if item:
+                    payouts.append(item)
+            else:
+                item = split_payout("2nd Overall", [i["name"] for i in second_group["items"]], 150)
+                if item:
+                    payouts.append(item)
+
+                if third_group:
+                    item = split_payout("3rd Overall", [i["name"] for i in third_group["items"]], 100)
+                    if item:
+                        payouts.append(item)
+
+        valid_team_day3 = [t for t in team_day3 if t["score"] is not None]
+        if valid_team_day3:
+            best_score = min(t["score"] for t in valid_team_day3)
+            winners = [t["name"] for t in valid_team_day3 if t["score"] == best_score]
+            item = split_payout("Final Best 3-Man Team", winners, 175)
+            if item:
+                payouts.append(item)
 
     with open(OUT_DIR / "teams.json", "w", encoding="utf-8") as f:
         json.dump(teams_sorted, f, indent=2, ensure_ascii=False)
@@ -337,11 +370,7 @@ def main():
         json.dump({"items": payouts}, f, indent=2, ensure_ascii=False)
 
     with open(OUT_DIR / "meta.json", "w", encoding="utf-8") as f:
-        json.dump(
-            {"last_updated": datetime.now(timezone.utc).isoformat()},
-            f,
-            indent=2
-        )
+        json.dump({"last_updated": datetime.now(timezone.utc).isoformat()}, f, indent=2)
 
     print("Exported website data with payouts.")
 
