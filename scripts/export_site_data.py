@@ -13,6 +13,7 @@ ALIASES = {
     "sam stevens": "samuel stevens",
     "nico echavarria": "nicolas echavarria",
     "johnny keefer": "john keefer",
+    "Ludvig Åberg": "Ludvig Aberg"
 }
 
 def normalize_player_name(name):
