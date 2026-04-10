@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 import re
+import unicodedata
 from datetime import datetime, timezone
 from collections import OrderedDict
 from openpyxl import load_workbook
@@ -13,26 +14,42 @@ ALIASES = {
     "sam stevens": "samuel stevens",
     "nico echavarria": "nicolas echavarria",
     "johnny keefer": "john keefer",
-    "Ludvig Åberg": "Ludvig Aberg"
 }
 
 def normalize_player_name(name):
     if name is None:
         return ""
+
     text = str(name).strip()
+
+    # Remove amateur marker like "(a)"
     text = re.sub(r"\s*\((a|A)\)\s*", "", text)
+
+    # Remove accents/diacritics, e.g. Åberg -> Aberg, García -> Garcia
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+
+    # Normalize case and spacing
+    text = text.lower().strip()
     text = re.sub(r"\s+", " ", text)
-    return text
+
+    # Apply aliases after normalization
+    return ALIASES.get(text, text)
 
 def score_to_number(value):
     if value is None or value == "":
         return None
+
     text = str(value).strip().upper()
+
     if text in {"E", "(E)"}:
         return 0
+
     if text in {"CUT", "WD", "DQ"}:
         return None
+
     text = text.replace("(", "").replace(")", "")
+
     try:
         return int(text)
     except ValueError:
