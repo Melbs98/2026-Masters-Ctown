@@ -15,7 +15,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Chris Gotterup",
         "score": "-2",
         "today": "",
@@ -39,7 +39,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
@@ -57,7 +57,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "35.0",
+        "r2": "39.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -93,7 +93,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "34.0",
+        "r2": "38.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
@@ -179,16 +179,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "11",
+        "pos": "7",
         "player": "Ben Griffin",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "45.0",
+        "r2": "49.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "73",
@@ -227,7 +227,7 @@
         "numeric_score": null
       }
     ],
-    "best4_total": -7,
+    "best4_total": -8,
     "scores_entered": 8,
     "roster_loaded": 9
   },
@@ -259,7 +259,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Jason Day",
         "score": "-3",
         "today": "",
@@ -381,7 +381,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "47.0",
+        "r2": "52.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -589,13 +589,13 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "4.0",
+        "r2": "9.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Patrick Reed",
         "score": "-3",
         "today": "",
@@ -717,7 +717,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "49.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -1119,13 +1119,13 @@
         "numeric_score": 4
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Carlos Ortiz",
         "score": "+9",
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "37.0",
+        "r2": "41.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
