@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "label": "1st Overall",
+      "winners": [
+        {
+          "name": "Doc & Sam",
+          "amount": 137.5
+        },
+        {
+          "name": "Strommens",
+          "amount": 137.5
+        }
+      ]
+    }
+  ]
+}
