@@ -97,6 +97,18 @@
   },
   {
     "pos": "9",
+    "player": "Tommy Fleetwood",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "37.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "10",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -120,7 +132,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Max Homa",
     "score": "-3",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Kristoffer Reitan",
     "score": "-3",
     "today": "",
@@ -156,25 +168,13 @@
     "numeric_score": -3
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "70.0",
     "r2": "39.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "15",
-    "player": "Tommy Fleetwood",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "34.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -421,6 +421,18 @@
   },
   {
     "pos": "36",
+    "player": "Ryan Gerard",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "48.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "37",
     "player": "Matt Fitzpatrick",
     "score": "+1",
     "today": "",
@@ -432,7 +444,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Collin Morikawa",
     "score": "+1",
     "today": "",
@@ -444,7 +456,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -456,7 +468,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "39",
+    "pos": "40",
     "player": "Adam Scott",
     "score": "+2",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Gary Woodland",
     "score": "+2",
     "today": "",
@@ -492,25 +504,13 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Jake Knapp",
     "score": "+2",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "48.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "43",
-    "player": "Ryan Gerard",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "46.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
