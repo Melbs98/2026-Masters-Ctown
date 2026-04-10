@@ -193,18 +193,6 @@
   },
   {
     "pos": "17",
-    "player": "Hideki Matsuyama",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "42.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "18",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -216,7 +204,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "19",
+    "pos": "18",
     "player": "Dustin Johnson",
     "score": "-1",
     "today": "",
@@ -228,7 +216,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "20",
+    "pos": "19",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -240,19 +228,19 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
-    "player": "Russell Henley",
+    "pos": "20",
+    "player": "Hideki Matsuyama",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "45.0",
+    "r1": "72.0",
+    "r2": "46.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
   },
   {
-    "pos": "22",
+    "pos": "21",
     "player": "Ludvig Åberg",
     "score": "E",
     "today": "",
@@ -264,7 +252,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -276,7 +264,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "24",
+    "pos": "23",
     "player": "Brian Campbell",
     "score": "E",
     "today": "",
@@ -288,7 +276,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "25",
+    "pos": "24",
     "player": "Scottie Scheffler",
     "score": "E",
     "today": "",
@@ -300,7 +288,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Jake Knapp",
     "score": "E",
     "today": "",
@@ -312,7 +300,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "27",
+    "pos": "26",
     "player": "Matt Fitzpatrick",
     "score": "E",
     "today": "",
@@ -324,7 +312,31 @@
     "numeric_score": 0
   },
   {
+    "pos": "27",
+    "player": "Collin Morikawa",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "45.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
     "pos": "28",
+    "player": "Russell Henley",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "46.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "29",
     "player": "Cameron Young",
     "score": "E",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Jordan Spieth",
     "score": "+1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Matt McCarty",
     "score": "+1",
     "today": "",
@@ -420,25 +432,13 @@
     "numeric_score": 1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Ryan Gerard",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "57.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "37",
-    "player": "Collin Morikawa",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "43.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -522,7 +522,7 @@
     "today": "",
     "thru": "",
     "r1": "69.0",
-    "r2": "70.0",
+    "r2": "74.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
