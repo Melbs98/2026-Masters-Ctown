@@ -108,8 +108,20 @@ async function main() {
   renderTeams(teams);
   renderScores(scores);
 
-  document.getElementById("updated").textContent =
-    `Last updated: ${meta.last_updated}`;
+const date = new Date(meta.last_updated);
+
+const formatted = date.toLocaleString("en-US", {
+  timeZone: "America/Chicago",
+  year: "numeric",
+  month: "short",
+  day: "numeric",
+  hour: "numeric",
+  minute: "2-digit",
+  second: "2-digit",
+});
+
+document.getElementById("updated").textContent =
+  `Last updated (CDT): ${formatted}`;
 }
 
 main().catch(error => {
