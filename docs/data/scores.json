@@ -37,6 +37,18 @@
   },
   {
     "pos": "4",
+    "player": "Kristoffer Reitan",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "56.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "5",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
@@ -48,7 +60,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "5",
+    "pos": "6",
     "player": "Wyndham Clark",
     "score": "-4",
     "today": "",
@@ -60,25 +72,13 @@
     "numeric_score": -4
   },
   {
-    "pos": "6",
+    "pos": "7",
     "player": "Haotong Li",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "69.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
-    "pos": "7",
-    "player": "Kristoffer Reitan",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "52.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
@@ -325,6 +325,18 @@
   },
   {
     "pos": "28",
+    "player": "Matt Fitzpatrick",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "42.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "29",
     "player": "Collin Morikawa",
     "score": "E",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Russell Henley",
     "score": "E",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Jordan Spieth",
     "score": "+1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -420,25 +432,13 @@
     "numeric_score": 1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Ryan Gerard",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "53.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "37",
-    "player": "Matt Fitzpatrick",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "39.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -530,14 +530,14 @@
   {
     "pos": "45",
     "player": "Kurt Kitayama",
-    "score": "+1",
+    "score": "+3",
     "today": "",
     "thru": "",
     "r1": "69.0",
     "r2": "67.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 1
+    "numeric_score": 3
   },
   {
     "pos": "46",
@@ -558,7 +558,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "39.0",
+    "r2": "43.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
@@ -757,30 +757,18 @@
   },
   {
     "pos": "64",
-    "player": "Rasmus Neergaard-Petersen",
+    "player": "Casey Jarvis",
     "score": "+6",
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "69.0",
+    "r2": "62.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
   },
   {
     "pos": "65",
-    "player": "Casey Jarvis",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "57.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "66",
     "player": "Alex Noren",
     "score": "+6",
     "today": "",
@@ -792,13 +780,25 @@
     "numeric_score": 6
   },
   {
-    "pos": "67",
+    "pos": "66",
     "player": "Robert MacIntyre",
     "score": "+7",
     "today": "",
     "thru": "",
     "r1": "80.0",
     "r2": "71.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 7
+  },
+  {
+    "pos": "67",
+    "player": "Rasmus Neergaard-Petersen",
+    "score": "+7",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "74.0",
     "r3": "",
     "r4": "",
     "numeric_score": 7
@@ -877,24 +877,24 @@
   },
   {
     "pos": "74",
-    "player": "José María Olazábal",
-    "score": "+8",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "74.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 8
-  },
-  {
-    "pos": "75",
     "player": "Fred Couples",
     "score": "+9",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "75.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 9
+  },
+  {
+    "pos": "75",
+    "player": "José María Olazábal",
+    "score": "+9",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "79.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
@@ -1021,19 +1021,19 @@
   },
   {
     "pos": "86",
-    "player": "Aldrich Potgieter",
-    "score": "+14",
+    "player": "Naoyuki Kataoka",
+    "score": "+15",
     "today": "",
     "thru": "",
     "r1": "84.0",
-    "r2": "70.0",
+    "r2": "75.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 14
+    "numeric_score": 15
   },
   {
     "pos": "87",
-    "player": "Naoyuki Kataoka",
+    "player": "Aldrich Potgieter",
     "score": "+15",
     "today": "",
     "thru": "",
