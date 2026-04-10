@@ -49,6 +49,18 @@
   },
   {
     "pos": "5",
+    "player": "Jason Day",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "54.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -5
+  },
+  {
+    "pos": "6",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
@@ -60,7 +72,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "6",
+    "pos": "7",
     "player": "Wyndham Clark",
     "score": "-4",
     "today": "",
@@ -72,7 +84,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Haotong Li",
     "score": "-4",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Sam Burns",
     "score": "-4",
     "today": "",
@@ -96,25 +108,13 @@
     "numeric_score": -4
   },
   {
-    "pos": "9",
-    "player": "Jason Day",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "51.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -4
-  },
-  {
     "pos": "10",
     "player": "Tommy Fleetwood",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "71.0",
-    "r2": "44.0",
+    "r2": "49.0",
     "r3": "",
     "r4": "",
     "numeric_score": -4
@@ -162,7 +162,7 @@
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "51.0",
+    "r2": "55.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -570,7 +570,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "34.0",
+    "r2": "38.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
@@ -582,7 +582,7 @@
     "today": "",
     "thru": "",
     "r1": "75.0",
-    "r2": "36.0",
+    "r2": "40.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
@@ -733,6 +733,18 @@
   },
   {
     "pos": "62",
+    "player": "Alex Noren",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "40.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "63",
     "player": "Nicolai Højgaard",
     "score": "+6",
     "today": "",
@@ -744,25 +756,13 @@
     "numeric_score": 6
   },
   {
-    "pos": "63",
+    "pos": "64",
     "player": "Zach Johnson",
     "score": "+6",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "75.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "64",
-    "player": "Alex Noren",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "37.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
