@@ -133,6 +133,18 @@
   },
   {
     "pos": "12",
+    "player": "Cameron Young",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "56.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "13",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -156,7 +168,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -168,25 +180,13 @@
     "numeric_score": -3
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Hideki Matsuyama",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "58.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
-    "pos": "16",
-    "player": "Cameron Young",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "52.0",
+    "r2": "61.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -217,6 +217,18 @@
   },
   {
     "pos": "19",
+    "player": "Russell Henley",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "61.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "20",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
@@ -228,7 +240,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "20",
+    "pos": "21",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -240,7 +252,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -252,37 +264,25 @@
     "numeric_score": -1
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Matt Fitzpatrick",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "61.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "23",
-    "player": "Collin Morikawa",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "58.0",
+    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
   },
   {
     "pos": "24",
-    "player": "Russell Henley",
+    "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "59.0",
+    "r1": "74.0",
+    "r2": "61.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
