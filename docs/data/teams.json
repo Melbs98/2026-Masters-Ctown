@@ -137,7 +137,7 @@
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "53.0",
+        "r2": "58.0",
         "r3": "",
         "r4": "",
         "numeric_score": -6
@@ -527,7 +527,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Ryan Gerard",
         "score": "+1",
         "today": "",
@@ -759,13 +759,13 @@
         "numeric_score": 2
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Dustin Johnson",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "61.0",
+        "r2": "64.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -881,7 +881,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "74.0",
+        "r2": "78.0",
         "r3": "",
         "r4": "",
         "numeric_score": 13
