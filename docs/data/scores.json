@@ -517,6 +517,18 @@
   },
   {
     "pos": "44",
+    "player": "Viktor Hovland",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "46.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "45",
     "player": "Maverick McNealy",
     "score": "+3",
     "today": "",
@@ -528,25 +540,13 @@
     "numeric_score": 3
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "75.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "46",
-    "player": "Viktor Hovland",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "44.0",
     "r3": "",
     "r4": "",
     "numeric_score": 3
