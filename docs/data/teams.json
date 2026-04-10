@@ -9,7 +9,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "65.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
         "numeric_score": -5
@@ -39,7 +39,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -87,7 +87,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -235,7 +235,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
@@ -247,7 +247,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -381,13 +381,13 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "64.0",
+        "r2": "68.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -485,7 +485,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "65.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -585,14 +585,14 @@
       {
         "pos": "1",
         "player": "Rory McIlroy",
-        "score": "-8",
+        "score": "-7",
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "13.0",
+        "r2": "18.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -8
+        "numeric_score": -7
       },
       {
         "pos": "28",
@@ -691,7 +691,7 @@
         "numeric_score": 9
       }
     ],
-    "best4_total": -5,
+    "best4_total": -4,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -723,7 +723,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Jake Knapp",
         "score": "-1",
         "today": "",
@@ -979,16 +979,16 @@
         "numeric_score": 3
       },
       {
-        "pos": "18",
+        "pos": "24",
         "player": "Kurt Kitayama",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "42.0",
+        "r2": "47.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -1
+        "numeric_score": 0
       },
       {
         "pos": "67",
@@ -1039,7 +1039,7 @@
         "numeric_score": 10
       }
     ],
-    "best4_total": 6,
+    "best4_total": 7,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -1065,7 +1065,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "15.0",
+        "r2": "19.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
