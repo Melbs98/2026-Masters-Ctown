@@ -9,6 +9,12 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 WORKBOOK_PATH = REPO_ROOT / "data" / "2026 Masters Draft & Scoreboard.xlsx"
 OUT_DIR = REPO_ROOT / "docs" / "data"
 
+ALIASES = {
+    "sam stevens": "samuel stevens",
+    "nico echavarria": "nicolas echavarria",
+    "johnny keefer": "john keefer",
+}
+
 def normalize_player_name(name):
     if name is None:
         return ""
