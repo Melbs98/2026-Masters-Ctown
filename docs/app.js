@@ -61,10 +61,40 @@ function formatLastUpdated(isoString) {
   return `Last updated: ${formattedTime} (${relativeTime})`;
 }
 
-function displayBestTotal(value, label = "Best Total") {
+function displayBestTotal(value) {
   if (value === null || value === undefined || value === "") return "-";
   if (value > 0) return `+${value}`;
   return String(value);
+}
+
+function formatMoney(amount) {
+  return `$${Number(amount).toFixed(2).replace(".00", "")}`;
+}
+
+function renderPayouts(payouts) {
+  const container = document.getElementById("payouts-list");
+  container.innerHTML = "";
+
+  if (!payouts.items || payouts.items.length === 0) {
+    container.innerHTML = "<p>No payouts available yet.</p>";
+    return;
+  }
+
+  payouts.items.forEach(item => {
+    const block = document.createElement("div");
+    block.className = "payout-item";
+
+    const winnersHtml = item.winners.map(winner => {
+      return `<div class="payout-winner"><span>${winner.name}</span><strong>${formatMoney(winner.amount)}</strong></div>`;
+    }).join("");
+
+    block.innerHTML = `
+      <h3>${item.label}</h3>
+      <div>${winnersHtml}</div>
+    `;
+
+    container.appendChild(block);
+  });
 }
 
 function renderTeams(teams) {
@@ -75,11 +105,8 @@ function renderTeams(teams) {
     const card = document.createElement("div");
     card.className = "team-card";
 
-    const totalValue =
-      team.best3_total ?? team.best4_total ?? null;
-
-    const totalLabel =
-      team.best3_total !== undefined ? "Best 3 Total" : "Best 4 Total";
+    const totalValue = team.best3_total ?? team.best4_total ?? null;
+    const totalLabel = team.best3_total !== undefined ? "Best 3 Total" : "Best 4 Total";
 
     const golfersRows = team.golfers.map(golfer => {
       const score = golfer.score ?? "";
@@ -146,17 +173,18 @@ function updateTimestamp(meta) {
 }
 
 async function main() {
-  const [teams, scores, meta] = await Promise.all([
+  const [teams, scores, payouts, meta] = await Promise.all([
     loadJson("./data/teams.json"),
     loadJson("./data/scores.json"),
+    loadJson("./data/payouts.json"),
     loadJson("./data/meta.json")
   ]);
 
+  renderPayouts(payouts);
   renderTeams(teams);
   renderScores(scores);
   updateTimestamp(meta);
 
-  // Refresh the "X minutes ago" text every 30 seconds
   setInterval(() => updateTimestamp(meta), 30000);
 }
 
