@@ -325,6 +325,18 @@
   },
   {
     "pos": "28",
+    "player": "Collin Morikawa",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "34.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "29",
     "player": "Russell Henley",
     "score": "E",
     "today": "",
@@ -336,7 +348,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -348,7 +360,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -360,7 +372,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -372,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Jordan Spieth",
     "score": "+1",
     "today": "",
@@ -384,7 +396,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -396,7 +408,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -408,7 +420,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Kurt Kitayama",
     "score": "+1",
     "today": "",
@@ -420,7 +432,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Ryan Gerard",
     "score": "+1",
     "today": "",
@@ -432,25 +444,13 @@
     "numeric_score": 1
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Matt Fitzpatrick",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "35.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "38",
-    "player": "Collin Morikawa",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "31.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
