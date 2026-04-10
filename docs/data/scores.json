@@ -258,7 +258,7 @@
     "today": "",
     "thru": "",
     "r1": "73.0",
-    "r2": "35.0",
+    "r2": "39.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -522,7 +522,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "34.0",
+    "r2": "38.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
@@ -565,6 +565,18 @@
   },
   {
     "pos": "48",
+    "player": "Maverick McNealy",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "54.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "49",
     "player": "Charl Schwartzel",
     "score": "+3",
     "today": "",
@@ -576,7 +588,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Cameron Smith",
     "score": "+3",
     "today": "",
@@ -588,7 +600,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Viktor Hovland",
     "score": "+3",
     "today": "",
@@ -600,25 +612,13 @@
     "numeric_score": 3
   },
   {
-    "pos": "51",
+    "pos": "52",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "65.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "52",
-    "player": "Maverick McNealy",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "51.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -666,7 +666,7 @@
     "today": "",
     "thru": "",
     "r1": "78.0",
-    "r2": "46.0",
+    "r2": "51.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
@@ -781,6 +781,18 @@
   },
   {
     "pos": "66",
+    "player": "Rasmus Neergaard-Petersen",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "33.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "67",
     "player": "José María Olazábal",
     "score": "+6",
     "today": "",
@@ -792,19 +804,19 @@
     "numeric_score": 6
   },
   {
-    "pos": "67",
+    "pos": "68",
     "player": "Ryan Fox",
     "score": "+6",
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "24.0",
+    "r2": "28.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
   },
   {
-    "pos": "68",
+    "pos": "69",
     "player": "Casey Jarvis",
     "score": "+6",
     "today": "",
@@ -816,7 +828,7 @@
     "numeric_score": 6
   },
   {
-    "pos": "69",
+    "pos": "70",
     "player": "Andrew Novak",
     "score": "+7",
     "today": "",
@@ -828,7 +840,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "70",
+    "pos": "71",
     "player": "Tom McKibbin",
     "score": "+7",
     "today": "",
@@ -840,7 +852,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "71",
+    "pos": "72",
     "player": "Robert MacIntyre",
     "score": "+7",
     "today": "",
@@ -852,7 +864,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "72",
+    "pos": "73",
     "player": "Johnny Keefer",
     "score": "+7",
     "today": "",
@@ -864,25 +876,13 @@
     "numeric_score": 7
   },
   {
-    "pos": "73",
+    "pos": "74",
     "player": "Ángel Cabrera",
     "score": "+7",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "27.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 7
-  },
-  {
-    "pos": "74",
-    "player": "Rasmus Neergaard-Petersen",
-    "score": "+7",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "29.0",
     "r3": "",
     "r4": "",
     "numeric_score": 7
@@ -985,18 +985,6 @@
   },
   {
     "pos": "83",
-    "player": "Max Greyserman",
-    "score": "+9",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "25.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 9
-  },
-  {
-    "pos": "84",
     "player": "Mike Weir",
     "score": "+10",
     "today": "",
@@ -1008,7 +996,7 @@
     "numeric_score": 10
   },
   {
-    "pos": "85",
+    "pos": "84",
     "player": "Aldrich Potgieter",
     "score": "+10",
     "today": "",
@@ -1020,13 +1008,25 @@
     "numeric_score": 10
   },
   {
-    "pos": "86",
+    "pos": "85",
     "player": "Sami Välimäki",
     "score": "+10",
     "today": "",
     "thru": "",
     "r1": "80.0",
     "r2": "29.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 10
+  },
+  {
+    "pos": "86",
+    "player": "Max Greyserman",
+    "score": "+10",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "25.0",
     "r3": "",
     "r4": "",
     "numeric_score": 10
