@@ -3,13 +3,13 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "20",
         "player": "Matt Fitzpatrick",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "65.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -655,7 +655,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Michael Brennan",
         "score": "-1",
         "today": "",
@@ -705,7 +705,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "68.0",
+        "r2": "72.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
@@ -759,7 +759,7 @@
         "numeric_score": -4
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Nick Taylor",
         "score": "-1",
         "today": "",

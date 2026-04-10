@@ -222,13 +222,25 @@
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "68.0",
+    "r2": "72.0",
     "r3": "",
     "r4": "",
     "numeric_score": -2
   },
   {
     "pos": "20",
+    "player": "Matt Fitzpatrick",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "21",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -240,25 +252,13 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "72.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "22",
-    "player": "Matt Fitzpatrick",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
