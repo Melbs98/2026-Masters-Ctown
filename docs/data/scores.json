@@ -217,18 +217,6 @@
   },
   {
     "pos": "19",
-    "player": "Harris English",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "66.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "20",
     "player": "Dustin Johnson",
     "score": "-1",
     "today": "",
@@ -240,7 +228,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
+    "pos": "20",
     "player": "Cameron Young",
     "score": "-1",
     "today": "",
@@ -252,7 +240,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "22",
+    "pos": "21",
     "player": "Hideki Matsuyama",
     "score": "-1",
     "today": "",
@@ -264,13 +252,25 @@
     "numeric_score": -1
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Ludvig Åberg",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "70.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "23",
+    "player": "Harris English",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -642,7 +642,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "44.0",
+    "r2": "48.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
@@ -750,7 +750,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "62.0",
+    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -762,7 +762,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "48.0",
+    "r2": "53.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -870,7 +870,7 @@
     "today": "",
     "thru": "",
     "r1": "76.0",
-    "r2": "60.0",
+    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -1021,18 +1021,6 @@
   },
   {
     "pos": "86",
-    "player": "Ángel Cabrera",
-    "score": "+11",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "60.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 11
-  },
-  {
-    "pos": "87",
     "player": "Naoyuki Kataoka",
     "score": "+13",
     "today": "",
@@ -1042,6 +1030,18 @@
     "r3": "",
     "r4": "",
     "numeric_score": 13
+  },
+  {
+    "pos": "87",
+    "player": "Ángel Cabrera",
+    "score": "+14",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "68.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 14
   },
   {
     "pos": "88",
