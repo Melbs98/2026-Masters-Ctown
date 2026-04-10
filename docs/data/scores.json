@@ -169,6 +169,18 @@
   },
   {
     "pos": "15",
+    "player": "Jake Knapp",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -2
+  },
+  {
+    "pos": "16",
     "player": "Max Homa",
     "score": "-2",
     "today": "",
@@ -180,7 +192,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "16",
+    "pos": "17",
     "player": "Nick Taylor",
     "score": "-2",
     "today": "",
@@ -192,7 +204,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "17",
+    "pos": "18",
     "player": "Cameron Young",
     "score": "-2",
     "today": "",
@@ -204,25 +216,13 @@
     "numeric_score": -2
   },
   {
-    "pos": "18",
+    "pos": "19",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "71.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "19",
-    "player": "Jake Knapp",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "66.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -810,7 +810,7 @@
     "today": "",
     "thru": "",
     "r1": "74.0",
-    "r2": "73.0",
+    "r2": "77.0",
     "r3": "",
     "r4": "",
     "numeric_score": 7
