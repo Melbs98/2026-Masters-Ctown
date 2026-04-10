@@ -167,19 +167,19 @@
         "numeric_score": 1
       },
       {
-        "pos": "54",
+        "pos": "47",
         "player": "Alex Noren",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "60.0",
+        "r2": "62.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 3
       },
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Rasmus Højgaard",
         "score": "+4",
         "today": "",
@@ -237,14 +237,14 @@
       {
         "pos": "1",
         "player": "Rory McIlroy",
-        "score": "-10",
+        "score": "-11",
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "59.0",
+        "r2": "62.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -10
+        "numeric_score": -11
       },
       {
         "pos": "16",
@@ -259,7 +259,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "51",
+        "pos": "52",
         "player": "Si Woo Kim",
         "score": "+4",
         "today": "",
@@ -343,7 +343,7 @@
         "numeric_score": 9
       }
     ],
-    "best4_total": -11,
+    "best4_total": -12,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -911,7 +911,7 @@
         "numeric_score": 15
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Charl Schwartzel",
         "score": "+4",
         "today": "",
@@ -967,7 +967,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "50",
+        "pos": "51",
         "player": "Corey Conners",
         "score": "+4",
         "today": "",
@@ -991,7 +991,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Brian Harman",
         "score": "+4",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Jon Rahm",
         "score": "+4",
         "today": "",
@@ -1107,7 +1107,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "53",
+        "pos": "54",
         "player": "Kurt Kitayama",
         "score": "+4",
         "today": "",
