@@ -162,7 +162,7 @@
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "20.0",
+    "r2": "23.0",
     "r3": "",
     "r4": "",
     "numeric_score": -2
@@ -222,7 +222,7 @@
     "today": "",
     "thru": "",
     "r1": "73.0",
-    "r2": "30.0",
+    "r2": "34.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -709,6 +709,18 @@
   },
   {
     "pos": "60",
+    "player": "Rasmus Neergaard-Petersen",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "52.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "61",
     "player": "Alex Noren",
     "score": "+5",
     "today": "",
@@ -720,7 +732,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "61",
+    "pos": "62",
     "player": "Nicolai Højgaard",
     "score": "+6",
     "today": "",
@@ -732,7 +744,7 @@
     "numeric_score": 6
   },
   {
-    "pos": "62",
+    "pos": "63",
     "player": "Zach Johnson",
     "score": "+6",
     "today": "",
@@ -744,25 +756,13 @@
     "numeric_score": 6
   },
   {
-    "pos": "63",
+    "pos": "64",
     "player": "Robert MacIntyre",
     "score": "+6",
     "today": "",
     "thru": "",
     "r1": "80.0",
     "r2": "59.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 6
-  },
-  {
-    "pos": "64",
-    "player": "Rasmus Neergaard-Petersen",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "48.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -793,6 +793,18 @@
   },
   {
     "pos": "67",
+    "player": "Bubba Watson",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "42.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 6
+  },
+  {
+    "pos": "68",
     "player": "Andrew Novak",
     "score": "+7",
     "today": "",
@@ -804,7 +816,7 @@
     "numeric_score": 7
   },
   {
-    "pos": "68",
+    "pos": "69",
     "player": "Tom McKibbin",
     "score": "+7",
     "today": "",
@@ -816,25 +828,13 @@
     "numeric_score": 7
   },
   {
-    "pos": "69",
+    "pos": "70",
     "player": "Nico Echavarria",
     "score": "+7",
     "today": "",
     "thru": "",
     "r1": "79.0",
     "r2": "40.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 7
-  },
-  {
-    "pos": "70",
-    "player": "Bubba Watson",
-    "score": "+7",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "39.0",
     "r3": "",
     "r4": "",
     "numeric_score": 7
@@ -1034,14 +1034,14 @@
   {
     "pos": "87",
     "player": "Brandon Holtz",
-    "score": "+11",
+    "score": "+12",
     "today": "",
     "thru": "",
     "r1": "81.0",
-    "r2": "38.0",
+    "r2": "43.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 11
+    "numeric_score": 12
   },
   {
     "pos": "88",
@@ -1057,24 +1057,24 @@
   },
   {
     "pos": "89",
-    "player": "Aldrich Potgieter",
-    "score": "+14",
-    "today": "",
-    "thru": "",
-    "r1": "84.0",
-    "r2": "49.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 14
-  },
-  {
-    "pos": "90",
     "player": "Mateo Pulcini",
     "score": "+15",
     "today": "",
     "thru": "",
     "r1": "81.0",
     "r2": "78.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 15
+  },
+  {
+    "pos": "90",
+    "player": "Aldrich Potgieter",
+    "score": "+15",
+    "today": "",
+    "thru": "",
+    "r1": "84.0",
+    "r2": "55.0",
     "r3": "",
     "r4": "",
     "numeric_score": 15
