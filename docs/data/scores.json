@@ -18,7 +18,7 @@
     "today": "",
     "thru": "",
     "r1": "67.0",
-    "r2": "39.0",
+    "r2": "43.0",
     "r3": "",
     "r4": "",
     "numeric_score": -6
@@ -42,7 +42,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "59.0",
+    "r2": "63.0",
     "r3": "",
     "r4": "",
     "numeric_score": -5
@@ -397,6 +397,18 @@
   },
   {
     "pos": "34",
+    "player": "Matt McCarty",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "35",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -408,25 +420,13 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 1
-  },
-  {
-    "pos": "36",
-    "player": "Matt McCarty",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "69.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -918,7 +918,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "44.0",
+    "r2": "48.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
