@@ -319,19 +319,19 @@
         "numeric_score": 3
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Ángel Cabrera",
         "score": "+9",
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "46.0",
+        "r2": "49.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
       },
       {
-        "pos": "77",
+        "pos": "76",
         "player": "Vijay Singh",
         "score": "+8",
         "today": "",
@@ -411,7 +411,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Rasmus Højgaard",
         "score": "+4",
         "today": "",
@@ -473,7 +473,7 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "16.0",
+        "r2": "20.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -521,7 +521,7 @@
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "41.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -679,7 +679,7 @@
         "numeric_score": 6
       },
       {
-        "pos": "79",
+        "pos": "80",
         "player": "José María Olazábal",
         "score": "+9",
         "today": "",
@@ -893,7 +893,7 @@
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "43.0",
+        "r2": "47.0",
         "r3": "",
         "r4": "",
         "numeric_score": 10
@@ -911,13 +911,13 @@
         "numeric_score": 11
       },
       {
-        "pos": "53",
+        "pos": "52",
         "player": "Charl Schwartzel",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "41.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -961,7 +961,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "8.0",
+        "r2": "12.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -1119,19 +1119,19 @@
         "numeric_score": 4
       },
       {
-        "pos": "76",
+        "pos": "78",
         "player": "Carlos Ortiz",
-        "score": "+8",
+        "score": "+9",
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "47.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 8
+        "numeric_score": 9
       },
       {
-        "pos": "78",
+        "pos": "77",
         "player": "Fred Couples",
         "score": "+9",
         "today": "",
@@ -1157,14 +1157,14 @@
       {
         "pos": "88",
         "player": "Naoyuki Kataoka",
-        "score": "+14",
+        "score": "+13",
         "today": "",
         "thru": "",
         "r1": "84.0",
-        "r2": "49.0",
+        "r2": "53.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 14
+        "numeric_score": 13
       }
     ],
     "best4_total": 13,
