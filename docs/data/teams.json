@@ -27,7 +27,7 @@
         "numeric_score": -2
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -75,7 +75,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Sergio García",
         "score": "+1",
         "today": "",
@@ -155,7 +155,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -191,16 +191,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Michael Brennan",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "62.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
         "pos": "17",
@@ -227,7 +227,7 @@
         "numeric_score": 15
       }
     ],
-    "best4_total": -7,
+    "best4_total": -6,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -259,7 +259,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -351,7 +351,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Tommy Fleetwood",
         "score": "E",
         "today": "",
@@ -375,7 +375,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Justin Thomas",
         "score": "+1",
         "today": "",
@@ -399,13 +399,13 @@
         "numeric_score": -3
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Matt McCarty",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "23.0",
+        "r2": "28.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
@@ -479,7 +479,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Hideki Matsuyama",
         "score": "E",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -545,7 +545,7 @@
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "22.0",
+        "r2": "25.0",
         "r3": "",
         "r4": "",
         "numeric_score": 6
@@ -601,7 +601,7 @@
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "45.0",
+        "r2": "49.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -681,14 +681,14 @@
       {
         "pos": "55",
         "player": "Danny Willett",
-        "score": "+7",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "73.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 7
+        "numeric_score": 5
       }
     ],
     "best4_total": -3,
@@ -723,7 +723,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Jake Knapp",
         "score": "+1",
         "today": "",
@@ -821,7 +821,7 @@
         "today": "",
         "thru": "",
         "r1": "78.0",
-        "r2": "51.0",
+        "r2": "55.0",
         "r3": "",
         "r4": "",
         "numeric_score": 5
@@ -851,7 +851,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Keegan Bradley",
         "score": "+1",
         "today": "",
@@ -943,16 +943,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "38",
+        "pos": "24",
         "player": "Akshay Bhatia",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "4.0",
+        "r2": "8.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 1
+        "numeric_score": 0
       },
       {
         "pos": "39",
@@ -1039,7 +1039,7 @@
         "numeric_score": 4
       }
     ],
-    "best4_total": 7,
+    "best4_total": 6,
     "scores_entered": 8,
     "roster_loaded": 9
   },
