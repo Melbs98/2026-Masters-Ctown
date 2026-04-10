@@ -217,6 +217,18 @@
   },
   {
     "pos": "19",
+    "player": "Xander Schauffele",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "57.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "20",
     "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
@@ -228,7 +240,7 @@
     "numeric_score": -1
   },
   {
-    "pos": "20",
+    "pos": "21",
     "player": "Russell Henley",
     "score": "-1",
     "today": "",
@@ -240,25 +252,13 @@
     "numeric_score": -1
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Hideki Matsuyama",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "51.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "22",
-    "player": "Xander Schauffele",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "53.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -642,7 +642,7 @@
     "today": "",
     "thru": "",
     "r1": "73.0",
-    "r2": "59.0",
+    "r2": "64.0",
     "r3": "",
     "r4": "",
     "numeric_score": 4
