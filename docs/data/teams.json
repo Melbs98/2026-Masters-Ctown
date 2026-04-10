@@ -1,5 +1,121 @@
 [
   {
+    "team": "Seth & Jimmy",
+    "golfers": [
+      {
+        "pos": "18",
+        "player": "Tommy Fleetwood",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "13.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -1
+      },
+      {
+        "pos": "21",
+        "player": "Jordan Spieth",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "56.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "31",
+        "player": "Justin Thomas",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "53.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 1
+      },
+      {
+        "pos": "1",
+        "player": "Tyrrell Hatton",
+        "score": "-5",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "57.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -5
+      },
+      {
+        "pos": "23",
+        "player": "Matt McCarty",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "32.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 0
+      },
+      {
+        "pos": "8",
+        "player": "Ben Griffin",
+        "score": "-3",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "49.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": -3
+      },
+      {
+        "pos": "73",
+        "player": "Michael Kim",
+        "score": "+8",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "77.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 8
+      },
+      {
+        "pos": "70",
+        "player": "Tom McKibbin",
+        "score": "+7",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "76.0",
+        "r3": "",
+        "r4": "",
+        "numeric_score": 7
+      },
+      {
+        "pos": "",
+        "player": "John Keefer",
+        "score": "",
+        "today": "",
+        "thru": "",
+        "r1": "",
+        "r2": "",
+        "r3": "",
+        "r4": "",
+        "numeric_score": null
+      }
+    ],
+    "best4_total": -9,
+    "scores_entered": 8,
+    "roster_loaded": 9
+  },
+  {
     "team": "Joe & Will",
     "golfers": [
       {
@@ -39,7 +155,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Shane Lowry",
         "score": "-3",
         "today": "",
@@ -63,7 +179,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "23",
+        "pos": "25",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -116,122 +232,6 @@
     "roster_loaded": 9
   },
   {
-    "team": "Seth & Jimmy",
-    "golfers": [
-      {
-        "pos": "17",
-        "player": "Tommy Fleetwood",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "71.0",
-        "r2": "9.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -1
-      },
-      {
-        "pos": "20",
-        "player": "Jordan Spieth",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "56.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 0
-      },
-      {
-        "pos": "31",
-        "player": "Justin Thomas",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "53.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "3",
-        "player": "Tyrrell Hatton",
-        "score": "-4",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "55.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -4
-      },
-      {
-        "pos": "33",
-        "player": "Matt McCarty",
-        "score": "+1",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "28.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 1
-      },
-      {
-        "pos": "7",
-        "player": "Ben Griffin",
-        "score": "-3",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "49.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": -3
-      },
-      {
-        "pos": "73",
-        "player": "Michael Kim",
-        "score": "+8",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "77.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 8
-      },
-      {
-        "pos": "70",
-        "player": "Tom McKibbin",
-        "score": "+7",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "76.0",
-        "r3": "",
-        "r4": "",
-        "numeric_score": 7
-      },
-      {
-        "pos": "",
-        "player": "John Keefer",
-        "score": "",
-        "today": "",
-        "thru": "",
-        "r1": "",
-        "r2": "",
-        "r3": "",
-        "r4": "",
-        "numeric_score": null
-      }
-    ],
-    "best4_total": -8,
-    "scores_entered": 8,
-    "roster_loaded": 9
-  },
-  {
     "team": "Skeeg & Forney",
     "golfers": [
       {
@@ -241,7 +241,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "50.0",
+        "r2": "54.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
@@ -259,7 +259,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Jason Day",
         "score": "-3",
         "today": "",
@@ -307,7 +307,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Michael Brennan",
         "score": "E",
         "today": "",
@@ -319,7 +319,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -357,7 +357,7 @@
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "4.0",
+        "r2": "9.0",
         "r3": "",
         "r4": "",
         "numeric_score": -2
@@ -387,19 +387,19 @@
         "numeric_score": 1
       },
       {
-        "pos": "21",
+        "pos": "32",
         "player": "Harris English",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "43.0",
+        "r2": "47.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": 1
       },
       {
-        "pos": "2",
+        "pos": "3",
         "player": "Wyndham Clark",
         "score": "-4",
         "today": "",
@@ -459,7 +459,7 @@
         "numeric_score": 11
       }
     ],
-    "best4_total": -5,
+    "best4_total": -4,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -467,7 +467,7 @@
     "team": "Gregg & Brekken",
     "golfers": [
       {
-        "pos": "1",
+        "pos": "2",
         "player": "Rory McIlroy",
         "score": "-5",
         "today": "",
@@ -497,13 +497,13 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "45.0",
+        "r2": "48.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -533,7 +533,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "12.0",
+        "r2": "15.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -595,13 +595,13 @@
         "numeric_score": 2
       },
       {
-        "pos": "10",
+        "pos": "6",
         "player": "Patrick Reed",
         "score": "-3",
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "9.0",
+        "r2": "12.0",
         "r3": "",
         "r4": "",
         "numeric_score": -3
@@ -711,7 +711,7 @@
         "numeric_score": null
       },
       {
-        "pos": "6",
+        "pos": "7",
         "player": "Brooks Koepka",
         "score": "-3",
         "today": "",
@@ -943,16 +943,16 @@
         "numeric_score": 5
       },
       {
-        "pos": "25",
+        "pos": "17",
         "player": "Akshay Bhatia",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "8.0",
+        "r2": "11.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": -1
       },
       {
         "pos": "37",
@@ -985,7 +985,7 @@
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "42.0",
+        "r2": "45.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -1039,7 +1039,7 @@
         "numeric_score": 4
       }
     ],
-    "best4_total": 6,
+    "best4_total": 5,
     "scores_entered": 8,
     "roster_loaded": 9
   },
@@ -1065,7 +1065,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "0.0",
+        "r2": "4.0",
         "r3": "",
         "r4": "",
         "numeric_score": 1
