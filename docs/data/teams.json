@@ -27,7 +27,7 @@
         "numeric_score": 7
       },
       {
-        "pos": "6",
+        "pos": "7",
         "player": "Jason Day",
         "score": "-3",
         "today": "",
@@ -179,7 +179,7 @@
         "numeric_score": 0
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Ben Griffin",
         "score": "-2",
         "today": "",
@@ -363,7 +363,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Chris Gotterup",
         "score": "-2",
         "today": "",
@@ -387,16 +387,16 @@
         "numeric_score": 2
       },
       {
-        "pos": "11",
+        "pos": "6",
         "player": "Shane Lowry",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "70.0",
-        "r2": "0.0",
+        "r2": "3.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -2
+        "numeric_score": -3
       },
       {
         "pos": "24",
@@ -459,7 +459,7 @@
         "numeric_score": 8
       }
     ],
-    "best4_total": -5,
+    "best4_total": -6,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -595,7 +595,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Patrick Reed",
         "score": "-3",
         "today": "",
@@ -863,7 +863,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Kurt Kitayama",
         "score": "-2",
         "today": "",
@@ -985,7 +985,7 @@
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "30.0",
+        "r2": "34.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
