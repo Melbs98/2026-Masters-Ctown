@@ -74,14 +74,14 @@
   {
     "pos": "7",
     "player": "Haotong Li",
-    "score": "-2",
+    "score": "-4",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "69.0",
     "r3": "",
     "r4": "",
-    "numeric_score": -2
+    "numeric_score": -4
   },
   {
     "pos": "8",
@@ -301,18 +301,6 @@
   },
   {
     "pos": "26",
-    "player": "Matt McCarty",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "64.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 0
-  },
-  {
-    "pos": "27",
     "player": "Matt Fitzpatrick",
     "score": "E",
     "today": "",
@@ -324,7 +312,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Russell Henley",
     "score": "E",
     "today": "",
@@ -336,7 +324,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Cameron Young",
     "score": "E",
     "today": "",
@@ -348,7 +336,7 @@
     "numeric_score": 0
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -360,7 +348,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "31",
+    "pos": "30",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -372,7 +360,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "32",
+    "pos": "31",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
@@ -384,7 +372,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "33",
+    "pos": "32",
     "player": "Jordan Spieth",
     "score": "+1",
     "today": "",
@@ -396,7 +384,7 @@
     "numeric_score": 1
   },
   {
-    "pos": "34",
+    "pos": "33",
     "player": "Aaron Rai",
     "score": "+1",
     "today": "",
@@ -408,13 +396,25 @@
     "numeric_score": 1
   },
   {
-    "pos": "35",
+    "pos": "34",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "74.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "35",
+    "player": "Matt McCarty",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
     "r3": "",
     "r4": "",
     "numeric_score": 1
@@ -638,14 +638,14 @@
   {
     "pos": "54",
     "player": "Charl Schwartzel",
-    "score": "+3",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 3
+    "numeric_score": 4
   },
   {
     "pos": "55",
