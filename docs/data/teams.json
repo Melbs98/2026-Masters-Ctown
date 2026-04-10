@@ -17,14 +17,14 @@
       {
         "pos": "2",
         "player": "Patrick Reed",
-        "score": "-7",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "64.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -7
+        "numeric_score": -6
       },
       {
         "pos": "17",
@@ -111,7 +111,7 @@
         "numeric_score": 8
       }
     ],
-    "best4_total": -14,
+    "best4_total": -13,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -237,14 +237,14 @@
       {
         "pos": "4",
         "player": "Tommy Fleetwood",
-        "score": "-6",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "63.0",
+        "r2": "68.0",
         "r3": "",
         "r4": "",
-        "numeric_score": -6
+        "numeric_score": -5
       },
       {
         "pos": "34",
@@ -343,7 +343,7 @@
         "numeric_score": 11
       }
     ],
-    "best4_total": -12,
+    "best4_total": -11,
     "scores_entered": 9,
     "roster_loaded": 9
   },
