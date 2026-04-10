@@ -73,6 +73,18 @@
   },
   {
     "pos": "7",
+    "player": "Kristoffer Reitan",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "52.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -4
+  },
+  {
+    "pos": "8",
     "player": "Sam Burns",
     "score": "-4",
     "today": "",
@@ -84,7 +96,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Jason Day",
     "score": "-4",
     "today": "",
@@ -96,7 +108,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Tommy Fleetwood",
     "score": "-4",
     "today": "",
@@ -108,7 +120,7 @@
     "numeric_score": -4
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -120,7 +132,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -132,7 +144,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -144,7 +156,7 @@
     "numeric_score": -3
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Max Homa",
     "score": "-3",
     "today": "",
@@ -156,25 +168,13 @@
     "numeric_score": -3
   },
   {
-    "pos": "14",
-    "player": "Kristoffer Reitan",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "49.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -3
-  },
-  {
     "pos": "15",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
     "thru": "",
     "r1": "70.0",
-    "r2": "39.0",
+    "r2": "43.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -762,7 +762,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "65.0",
+    "r2": "69.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -774,7 +774,7 @@
     "today": "",
     "thru": "",
     "r1": "77.0",
-    "r2": "53.0",
+    "r2": "57.0",
     "r3": "",
     "r4": "",
     "numeric_score": 6
@@ -865,24 +865,24 @@
   },
   {
     "pos": "73",
-    "player": "Jackson Herrington",
+    "player": "José María Olazábal",
     "score": "+8",
     "today": "",
     "thru": "",
-    "r1": "76.0",
-    "r2": "68.0",
+    "r1": "74.0",
+    "r2": "74.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
   },
   {
     "pos": "74",
-    "player": "José María Olazábal",
+    "player": "Jackson Herrington",
     "score": "+8",
     "today": "",
     "thru": "",
-    "r1": "74.0",
-    "r2": "70.0",
+    "r1": "76.0",
+    "r2": "68.0",
     "r3": "",
     "r4": "",
     "numeric_score": 8
@@ -1033,6 +1033,18 @@
   },
   {
     "pos": "87",
+    "player": "Aldrich Potgieter",
+    "score": "+14",
+    "today": "",
+    "thru": "",
+    "r1": "84.0",
+    "r2": "70.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 14
+  },
+  {
+    "pos": "88",
     "player": "Ángel Cabrera",
     "score": "+14",
     "today": "",
@@ -1044,25 +1056,13 @@
     "numeric_score": 14
   },
   {
-    "pos": "88",
+    "pos": "89",
     "player": "Mateo Pulcini",
     "score": "+15",
     "today": "",
     "thru": "",
     "r1": "81.0",
     "r2": "78.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 15
-  },
-  {
-    "pos": "89",
-    "player": "Aldrich Potgieter",
-    "score": "+15",
-    "today": "",
-    "thru": "",
-    "r1": "84.0",
-    "r2": "67.0",
     "r3": "",
     "r4": "",
     "numeric_score": 15
