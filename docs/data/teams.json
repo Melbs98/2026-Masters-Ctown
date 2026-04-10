@@ -319,7 +319,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "79",
+        "pos": "80",
         "player": "Ángel Cabrera",
         "score": "+9",
         "today": "",
@@ -595,13 +595,13 @@
         "numeric_score": -8
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Hideki Matsuyama",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "16.0",
+        "r2": "20.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -679,13 +679,13 @@
         "numeric_score": 6
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "José María Olazábal",
         "score": "+9",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "54.0",
+        "r2": "59.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
@@ -741,7 +741,7 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "34.0",
+        "r2": "38.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -845,7 +845,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "15.0",
+        "r2": "19.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -1059,7 +1059,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Cameron Young",
         "score": "E",
         "today": "",
