@@ -25,7 +25,43 @@ function scoreClass(score) {
   return "";
 }
 
-function displayBestFourTotal(value) {
+function formatRelativeTime(date) {
+  const now = new Date();
+  const diffMs = now - date;
+  const diffMinutes = Math.floor(diffMs / 60000);
+
+  if (diffMinutes < 1) return "just now";
+  if (diffMinutes === 1) return "1 minute ago";
+  if (diffMinutes < 60) return `${diffMinutes} minutes ago`;
+
+  const diffHours = Math.floor(diffMinutes / 60);
+  if (diffHours === 1) return "1 hour ago";
+  if (diffHours < 24) return `${diffHours} hours ago`;
+
+  const diffDays = Math.floor(diffHours / 24);
+  if (diffDays === 1) return "1 day ago";
+  return `${diffDays} days ago`;
+}
+
+function formatLastUpdated(isoString) {
+  const date = new Date(isoString);
+
+  const formattedTime = date.toLocaleString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    second: "2-digit",
+    timeZoneName: "short",
+  });
+
+  const relativeTime = formatRelativeTime(date);
+
+  return `Last updated: ${formattedTime} (${relativeTime})`;
+}
+
+function displayBestTotal(value, label = "Best Total") {
   if (value === null || value === undefined || value === "") return "-";
   if (value > 0) return `+${value}`;
   return String(value);
@@ -38,6 +74,12 @@ function renderTeams(teams) {
   teams.forEach((team, index) => {
     const card = document.createElement("div");
     card.className = "team-card";
+
+    const totalValue =
+      team.best3_total ?? team.best4_total ?? null;
+
+    const totalLabel =
+      team.best3_total !== undefined ? "Best 3 Total" : "Best 4 Total";
 
     const golfersRows = team.golfers.map(golfer => {
       const score = golfer.score ?? "";
@@ -70,8 +112,8 @@ function renderTeams(teams) {
         </tbody>
         <tfoot>
           <tr>
-            <td>Best 4 Total</td>
-            <td class="${scoreClass(team.best4_total)}">${displayBestFourTotal(team.best4_total)}</td>
+            <td>${totalLabel}</td>
+            <td class="${scoreClass(totalValue)}">${displayBestTotal(totalValue)}</td>
           </tr>
         </tfoot>
       </table>
@@ -98,6 +140,11 @@ function renderScores(scores) {
   });
 }
 
+function updateTimestamp(meta) {
+  document.getElementById("updated").textContent =
+    formatLastUpdated(meta.last_updated);
+}
+
 async function main() {
   const [teams, scores, meta] = await Promise.all([
     loadJson("./data/teams.json"),
@@ -107,20 +154,10 @@ async function main() {
 
   renderTeams(teams);
   renderScores(scores);
+  updateTimestamp(meta);
 
-const date = new Date(meta.last_updated);
-
-const formatted = date.toLocaleString("en-US", {
-  timeZone: "America/Chicago",
-  year: "numeric",
-  month: "short",
-  day: "numeric",
-  hour: "numeric",
-  minute: "2-digit",
-});
-
-document.getElementById("updated").textContent =
-  `Last updated (CDT): ${formatted}`;
+  // Refresh the "X minutes ago" text every 30 seconds
+  setInterval(() => updateTimestamp(meta), 30000);
 }
 
 main().catch(error => {
