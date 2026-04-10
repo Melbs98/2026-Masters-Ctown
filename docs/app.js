@@ -117,7 +117,6 @@ const formatted = date.toLocaleString("en-US", {
   day: "numeric",
   hour: "numeric",
   minute: "2-digit",
-  second: "2-digit",
 });
 
 document.getElementById("updated").textContent =
