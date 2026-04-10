@@ -1,3 +1,26 @@
 {
-  "items": []
+  "items": [
+    {
+      "label": "Leader after Day 2",
+      "winners": [
+        {
+          "name": "Gregg & Brekken",
+          "amount": 50.0
+        }
+      ]
+    },
+    {
+      "label": "Best 4-Man Team after Day 2",
+      "winners": [
+        {
+          "name": "Doc & Sam",
+          "amount": 25.0
+        },
+        {
+          "name": "Strommens",
+          "amount": 25.0
+        }
+      ]
+    }
+  ]
 }
