@@ -217,6 +217,18 @@
   },
   {
     "pos": "19",
+    "player": "Jake Knapp",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "54.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -1
+  },
+  {
+    "pos": "20",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -228,25 +240,13 @@
     "numeric_score": -1
   },
   {
-    "pos": "20",
+    "pos": "21",
     "player": "Dustin Johnson",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "45.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -1
-  },
-  {
-    "pos": "21",
-    "player": "Russell Henley",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "34.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -325,24 +325,24 @@
   },
   {
     "pos": "28",
-    "player": "Jake Knapp",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "51.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 0
-  },
-  {
-    "pos": "29",
     "player": "Collin Morikawa",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "38.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 0
+  },
+  {
+    "pos": "29",
+    "player": "Russell Henley",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "39.0",
     "r3": "",
     "r4": "",
     "numeric_score": 0
@@ -637,18 +637,6 @@
   },
   {
     "pos": "54",
-    "player": "Cameron Smith",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "54.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "55",
     "player": "Patrick Cantlay",
     "score": "+4",
     "today": "",
@@ -660,7 +648,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "56",
+    "pos": "55",
     "player": "Viktor Hovland",
     "score": "+4",
     "today": "",
@@ -672,7 +660,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "57",
+    "pos": "56",
     "player": "Harry Hall",
     "score": "+5",
     "today": "",
@@ -684,7 +672,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "58",
+    "pos": "57",
     "player": "Danny Willett",
     "score": "+5",
     "today": "",
@@ -696,7 +684,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "59",
+    "pos": "58",
     "player": "J.J. Spaun",
     "score": "+5",
     "today": "",
@@ -708,7 +696,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "60",
+    "pos": "59",
     "player": "Ryan Fox",
     "score": "+5",
     "today": "",
@@ -720,13 +708,25 @@
     "numeric_score": 5
   },
   {
-    "pos": "61",
+    "pos": "60",
     "player": "Bubba Watson",
     "score": "+5",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "57.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "61",
+    "player": "Cameron Smith",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "59.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
@@ -906,7 +906,7 @@
     "today": "",
     "thru": "",
     "r1": "79.0",
-    "r2": "63.0",
+    "r2": "66.0",
     "r3": "",
     "r4": "",
     "numeric_score": 9
