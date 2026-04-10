@@ -186,7 +186,7 @@
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "61.0",
+    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": -3
@@ -265,24 +265,24 @@
   },
   {
     "pos": "23",
-    "player": "Russell Henley",
+    "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "66.0",
+    "r1": "74.0",
+    "r2": "65.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
   },
   {
     "pos": "24",
-    "player": "Collin Morikawa",
+    "player": "Russell Henley",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "74.0",
-    "r2": "61.0",
+    "r1": "73.0",
+    "r2": "66.0",
     "r3": "",
     "r4": "",
     "numeric_score": -1
@@ -445,6 +445,18 @@
   },
   {
     "pos": "38",
+    "player": "Patrick Cantlay",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "57.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 1
+  },
+  {
+    "pos": "39",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -456,7 +468,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "39",
+    "pos": "40",
     "player": "Adam Scott",
     "score": "+2",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Keegan Bradley",
     "score": "+2",
     "today": "",
@@ -492,7 +504,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Gary Woodland",
     "score": "+2",
     "today": "",
@@ -504,25 +516,13 @@
     "numeric_score": 2
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "60.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "44",
-    "player": "Patrick Cantlay",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "53.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
