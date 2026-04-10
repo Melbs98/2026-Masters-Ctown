@@ -169,6 +169,18 @@
   },
   {
     "pos": "15",
+    "player": "Cameron Young",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "52.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -3
+  },
+  {
+    "pos": "16",
     "player": "Jake Knapp",
     "score": "-2",
     "today": "",
@@ -180,7 +192,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "16",
+    "pos": "17",
     "player": "Max Homa",
     "score": "-2",
     "today": "",
@@ -192,7 +204,7 @@
     "numeric_score": -2
   },
   {
-    "pos": "17",
+    "pos": "18",
     "player": "Nick Taylor",
     "score": "-2",
     "today": "",
@@ -204,25 +216,13 @@
     "numeric_score": -2
   },
   {
-    "pos": "18",
+    "pos": "19",
     "player": "Hideki Matsuyama",
     "score": "-2",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "54.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -2
-  },
-  {
-    "pos": "19",
-    "player": "Cameron Young",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "49.0",
     "r3": "",
     "r4": "",
     "numeric_score": -2
@@ -505,24 +505,24 @@
   },
   {
     "pos": "43",
-    "player": "Viktor Hovland",
+    "player": "Patrick Cantlay",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "75.0",
-    "r2": "51.0",
+    "r1": "77.0",
+    "r2": "49.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
   },
   {
     "pos": "44",
-    "player": "Patrick Cantlay",
+    "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "77.0",
-    "r2": "44.0",
+    "r1": "75.0",
+    "r2": "51.0",
     "r3": "",
     "r4": "",
     "numeric_score": 2
@@ -649,6 +649,18 @@
   },
   {
     "pos": "55",
+    "player": "Alex Noren",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "51.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "56",
     "player": "Harry Hall",
     "score": "+5",
     "today": "",
@@ -660,7 +672,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "56",
+    "pos": "57",
     "player": "Ryan Fox",
     "score": "+5",
     "today": "",
@@ -672,7 +684,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "57",
+    "pos": "58",
     "player": "Danny Willett",
     "score": "+5",
     "today": "",
@@ -684,7 +696,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "58",
+    "pos": "59",
     "player": "Bubba Watson",
     "score": "+5",
     "today": "",
@@ -696,7 +708,7 @@
     "numeric_score": 5
   },
   {
-    "pos": "59",
+    "pos": "60",
     "player": "J.J. Spaun",
     "score": "+5",
     "today": "",
@@ -708,25 +720,13 @@
     "numeric_score": 5
   },
   {
-    "pos": "60",
+    "pos": "61",
     "player": "Akshay Bhatia",
     "score": "+5",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "68.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 5
-  },
-  {
-    "pos": "61",
-    "player": "Alex Noren",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "47.0",
     "r3": "",
     "r4": "",
     "numeric_score": 5
