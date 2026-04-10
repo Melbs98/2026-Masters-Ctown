@@ -119,7 +119,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -203,16 +203,16 @@
         "numeric_score": 3
       },
       {
-        "pos": "81",
+        "pos": "86",
         "player": "Ángel Cabrera",
-        "score": "+9",
+        "score": "+11",
         "today": "",
         "thru": "",
         "r1": "79.0",
-        "r2": "49.0",
+        "r2": "56.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 9
+        "numeric_score": 11
       },
       {
         "pos": "75",
@@ -381,7 +381,7 @@
         "today": "",
         "thru": "",
         "r1": "67.0",
-        "r2": "36.0",
+        "r2": "40.0",
         "r3": "",
         "r4": "",
         "numeric_score": -5
@@ -435,7 +435,7 @@
         "numeric_score": -3
       },
       {
-        "pos": "79",
+        "pos": "80",
         "player": "Sami Välimäki",
         "score": "+9",
         "today": "",
@@ -503,7 +503,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Gary Woodland",
         "score": "+2",
         "today": "",
@@ -563,13 +563,13 @@
         "numeric_score": 6
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "José María Olazábal",
         "score": "+9",
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "59.0",
+        "r2": "63.0",
         "r3": "",
         "r4": "",
         "numeric_score": 9
@@ -619,13 +619,13 @@
         "numeric_score": 1
       },
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Harris English",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "60.0",
+        "r2": "63.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -679,7 +679,7 @@
         "numeric_score": 8
       },
       {
-        "pos": "85",
+        "pos": "84",
         "player": "Fifa Laopakdee",
         "score": "+11",
         "today": "",
@@ -705,7 +705,7 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "24.0",
+        "r2": "28.0",
         "r3": "",
         "r4": "",
         "numeric_score": 3
@@ -729,7 +729,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "34.0",
+        "r2": "38.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -741,7 +741,7 @@
         "today": "",
         "thru": "",
         "r1": "74.0",
-        "r2": "38.0",
+        "r2": "42.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -863,13 +863,13 @@
         "numeric_score": 3
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Marco Penge",
         "score": "+2",
         "today": "",
         "thru": "",
         "r1": "76.0",
-        "r2": "59.0",
+        "r2": "62.0",
         "r3": "",
         "r4": "",
         "numeric_score": 2
@@ -887,7 +887,7 @@
         "numeric_score": null
       },
       {
-        "pos": "84",
+        "pos": "83",
         "player": "Max Greyserman",
         "score": "+10",
         "today": "",
@@ -943,7 +943,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "86",
+        "pos": "85",
         "player": "Min Woo Lee",
         "score": "+11",
         "today": "",
@@ -1027,7 +1027,7 @@
         "numeric_score": 18
       },
       {
-        "pos": "82",
+        "pos": "81",
         "player": "Mike Weir",
         "score": "+10",
         "today": "",
