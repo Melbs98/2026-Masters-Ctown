@@ -203,7 +203,7 @@
         "numeric_score": 3
       },
       {
-        "pos": "80",
+        "pos": "79",
         "player": "Ángel Cabrera",
         "score": "+9",
         "today": "",
@@ -253,7 +253,7 @@
         "today": "",
         "thru": "",
         "r1": "80.0",
-        "r2": "46.0",
+        "r2": "51.0",
         "r3": "",
         "r4": "",
         "numeric_score": 7
@@ -369,7 +369,7 @@
         "today": "",
         "thru": "",
         "r1": "69.0",
-        "r2": "12.0",
+        "r2": "15.0",
         "r3": "",
         "r4": "",
         "numeric_score": -4
@@ -777,7 +777,7 @@
         "today": "",
         "thru": "",
         "r1": "71.0",
-        "r2": "45.0",
+        "r2": "48.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
@@ -851,7 +851,7 @@
         "numeric_score": 1
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Maverick McNealy",
         "score": "+3",
         "today": "",
@@ -899,7 +899,7 @@
         "numeric_score": 10
       },
       {
-        "pos": "81",
+        "pos": "80",
         "player": "Brandon Holtz",
         "score": "+9",
         "today": "",
@@ -911,7 +911,7 @@
         "numeric_score": 9
       },
       {
-        "pos": "49",
+        "pos": "48",
         "player": "Charl Schwartzel",
         "score": "+3",
         "today": "",
@@ -955,7 +955,7 @@
         "numeric_score": 11
       },
       {
-        "pos": "50",
+        "pos": "49",
         "player": "Viktor Hovland",
         "score": "+3",
         "today": "",
@@ -1027,7 +1027,7 @@
         "numeric_score": 18
       },
       {
-        "pos": "83",
+        "pos": "82",
         "player": "Mike Weir",
         "score": "+10",
         "today": "",
@@ -1095,19 +1095,19 @@
         "numeric_score": 3
       },
       {
-        "pos": "47",
+        "pos": "51",
         "player": "Harry Hall",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "77.0",
-        "r2": "62.0",
+        "r2": "67.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 3
+        "numeric_score": 4
       },
       {
-        "pos": "51",
+        "pos": "50",
         "player": "Brian Harman",
         "score": "+4",
         "today": "",
@@ -1119,7 +1119,7 @@
         "numeric_score": 4
       },
       {
-        "pos": "79",
+        "pos": "78",
         "player": "Carlos Ortiz",
         "score": "+9",
         "today": "",
@@ -1167,7 +1167,7 @@
         "numeric_score": 11
       }
     ],
-    "best4_total": 11,
+    "best4_total": 12,
     "scores_entered": 10,
     "roster_loaded": 10
   }
