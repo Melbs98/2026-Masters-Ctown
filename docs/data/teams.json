@@ -87,7 +87,7 @@
         "numeric_score": -1
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -119,7 +119,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -479,13 +479,13 @@
         "numeric_score": -7
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Hideki Matsuyama",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
-        "r2": "22.0",
+        "r2": "26.0",
         "r3": "",
         "r4": "",
         "numeric_score": -1
@@ -497,7 +497,7 @@
         "today": "",
         "thru": "",
         "r1": "75.0",
-        "r2": "65.0",
+        "r2": "69.0",
         "r3": "",
         "r4": "",
         "numeric_score": 4
@@ -527,7 +527,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Dustin Johnson",
         "score": "-1",
         "today": "",
@@ -619,16 +619,16 @@
         "numeric_score": 1
       },
       {
-        "pos": "25",
+        "pos": "19",
         "player": "Harris English",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "63.0",
+        "r2": "66.0",
         "r3": "",
         "r4": "",
-        "numeric_score": 0
+        "numeric_score": -1
       },
       {
         "pos": "7",
@@ -691,7 +691,7 @@
         "numeric_score": 11
       }
     ],
-    "best4_total": -6,
+    "best4_total": -7,
     "scores_entered": 9,
     "roster_loaded": 9
   },
@@ -723,7 +723,7 @@
         "numeric_score": -5
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Jake Knapp",
         "score": "-1",
         "today": "",
@@ -845,7 +845,7 @@
         "today": "",
         "thru": "",
         "r1": "73.0",
-        "r2": "22.0",
+        "r2": "26.0",
         "r3": "",
         "r4": "",
         "numeric_score": 0
