@@ -92,19 +92,32 @@
   },
   {
     "pos": "8",
-    "player": "Patrick Reed",
+    "player": "Justin Rose",
     "score": "-7",
     "today": "",
     "thru": "",
-    "r1": "69.0",
+    "r1": "70.0",
     "r2": "69.0",
-    "r3": "26.0",
+    "r3": "30.0",
     "r4": "",
     "numeric_score": -7,
     "day3_total": null
   },
   {
     "pos": "9",
+    "player": "Patrick Reed",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "69.0",
+    "r3": "31.0",
+    "r4": "",
+    "numeric_score": -7,
+    "day3_total": null
+  },
+  {
+    "pos": "10",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -117,7 +130,7 @@
     "day3_total": null
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Russell Henley",
     "score": "-6",
     "today": "",
@@ -125,19 +138,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "66.0",
-    "r4": "",
-    "numeric_score": -6,
-    "day3_total": null
-  },
-  {
-    "pos": "11",
-    "player": "Justin Rose",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "69.0",
-    "r3": "26.0",
     "r4": "",
     "numeric_score": -6,
     "day3_total": null
@@ -163,7 +163,7 @@
     "thru": "",
     "r1": "73.0",
     "r2": "69.0",
-    "r3": "49.0",
+    "r3": "53.0",
     "r4": "",
     "numeric_score": -5,
     "day3_total": null
@@ -293,7 +293,7 @@
     "thru": "",
     "r1": "74.0",
     "r2": "69.0",
-    "r3": "59.0",
+    "r3": "62.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
@@ -306,7 +306,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "72.0",
-    "r3": "59.0",
+    "r3": "62.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
