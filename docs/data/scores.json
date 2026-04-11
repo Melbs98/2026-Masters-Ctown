@@ -553,6 +553,18 @@
   },
   {
     "pos": "47",
+    "player": "Alex Noren",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "71.0",
+    "r3": "9.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "48",
     "player": "Kurt Kitayama",
     "score": "+4",
     "today": "",
@@ -564,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "48",
+    "pos": "49",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -576,20 +588,8 @@
     "numeric_score": 4
   },
   {
-    "pos": "49",
-    "player": "Jon Rahm",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
     "pos": "50",
-    "player": "Rasmus Højgaard",
+    "player": "Jon Rahm",
     "score": "+4",
     "today": "",
     "thru": "",
@@ -625,24 +625,24 @@
   },
   {
     "pos": "53",
+    "player": "Rasmus Højgaard",
+    "score": "+5",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "5.0",
+    "r4": "",
+    "numeric_score": 5
+  },
+  {
+    "pos": "54",
     "player": "Charl Schwartzel",
-    "score": "+4",
+    "score": "+5",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "54",
-    "player": "Alex Noren",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "71.0",
     "r3": "5.0",
     "r4": "",
     "numeric_score": 5

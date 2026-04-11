@@ -167,28 +167,28 @@
         "numeric_score": 0
       },
       {
-        "pos": "54",
+        "pos": "47",
         "player": "Alex Noren",
-        "score": "+5",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "71.0",
-        "r3": "5.0",
+        "r3": "9.0",
         "r4": "",
-        "numeric_score": 5
+        "numeric_score": 4
       },
       {
-        "pos": "50",
+        "pos": "53",
         "player": "Rasmus Højgaard",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "0.0",
+        "r3": "5.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 5
       },
       {
         "pos": "11",
@@ -911,16 +911,16 @@
         "numeric_score": 15
       },
       {
-        "pos": "53",
+        "pos": "54",
         "player": "Charl Schwartzel",
-        "score": "+4",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "0.0",
+        "r3": "5.0",
         "r4": "",
-        "numeric_score": 4
+        "numeric_score": 5
       }
     ],
     "best3_total": 4,
@@ -991,7 +991,7 @@
         "numeric_score": 5
       },
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Brian Harman",
         "score": "+4",
         "today": "",
@@ -1059,7 +1059,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Jon Rahm",
         "score": "+4",
         "today": "",
@@ -1107,7 +1107,7 @@
         "numeric_score": 2
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Kurt Kitayama",
         "score": "+4",
         "today": "",
