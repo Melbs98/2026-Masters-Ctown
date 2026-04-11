@@ -7,7 +7,7 @@
     "thru": "",
     "r1": "67.0",
     "r2": "65.0",
-    "r3": "23.0",
+    "r3": "27.0",
     "r4": "",
     "numeric_score": -12,
     "day3_total": null
@@ -79,6 +79,19 @@
   },
   {
     "pos": "7",
+    "player": "Wyndham Clark",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "33.0",
+    "r4": "",
+    "numeric_score": -7,
+    "day3_total": null
+  },
+  {
+    "pos": "8",
     "player": "Patrick Reed",
     "score": "-7",
     "today": "",
@@ -91,7 +104,7 @@
     "day3_total": null
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -104,7 +117,7 @@
     "day3_total": null
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Russell Henley",
     "score": "-6",
     "today": "",
@@ -112,19 +125,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "66.0",
-    "r4": "",
-    "numeric_score": -6,
-    "day3_total": null
-  },
-  {
-    "pos": "10",
-    "player": "Wyndham Clark",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "30.0",
     "r4": "",
     "numeric_score": -6,
     "day3_total": null
@@ -150,7 +150,7 @@
     "thru": "",
     "r1": "74.0",
     "r2": "69.0",
-    "r3": "61.0",
+    "r3": "64.0",
     "r4": "",
     "numeric_score": -5,
     "day3_total": null
@@ -267,19 +267,19 @@
     "thru": "",
     "r1": "71.0",
     "r2": "73.0",
-    "r3": "61.0",
+    "r3": "65.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
   },
   {
     "pos": "22",
-    "player": "Nick Taylor",
+    "player": "Matt Fitzpatrick",
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "72.0",
+    "r1": "74.0",
+    "r2": "69.0",
     "r3": "59.0",
     "r4": "",
     "numeric_score": -3,
@@ -287,13 +287,13 @@
   },
   {
     "pos": "23",
-    "player": "Matt Fitzpatrick",
+    "player": "Nick Taylor",
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "54.0",
+    "r1": "71.0",
+    "r2": "72.0",
+    "r3": "59.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
