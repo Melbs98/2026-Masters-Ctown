@@ -553,6 +553,18 @@
   },
   {
     "pos": "47",
+    "player": "Kurt Kitayama",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "79.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "48",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -564,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "48",
+    "pos": "49",
     "player": "Jon Rahm",
     "score": "+4",
     "today": "",
@@ -576,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -588,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -600,7 +612,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "52",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -612,25 +624,13 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "53",
-    "player": "Kurt Kitayama",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "79.0",
     "r3": "0.0",
     "r4": "",
     "numeric_score": 4
