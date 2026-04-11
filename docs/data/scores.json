@@ -209,13 +209,13 @@
   },
   {
     "pos": "17",
-    "player": "Matt Fitzpatrick",
+    "player": "Russell Henley",
     "score": "-3",
     "today": "",
     "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "21.0",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "41.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
@@ -287,19 +287,6 @@
   },
   {
     "pos": "23",
-    "player": "Russell Henley",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "38.0",
-    "r4": "",
-    "numeric_score": -2,
-    "day3_total": null
-  },
-  {
-    "pos": "24",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
@@ -312,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "24",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -325,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Collin Morikawa",
     "score": "-2",
     "today": "",
@@ -333,6 +320,19 @@
     "r1": "74.0",
     "r2": "69.0",
     "r3": "31.0",
+    "r4": "",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "26",
+    "player": "Matt Fitzpatrick",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "26.0",
     "r4": "",
     "numeric_score": -2,
     "day3_total": null
@@ -495,12 +495,12 @@
   },
   {
     "pos": "39",
-    "player": "Jacob Bridgeman",
+    "player": "Sungjae Im",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
+    "r1": "76.0",
+    "r2": "69.0",
     "r3": "47.0",
     "r4": "",
     "numeric_score": 1,
@@ -508,13 +508,13 @@
   },
   {
     "pos": "40",
-    "player": "Sungjae Im",
+    "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "44.0",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "47.0",
     "r4": "",
     "numeric_score": 1,
     "day3_total": null
@@ -553,7 +553,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "56.0",
+    "r3": "61.0",
     "r4": "",
     "numeric_score": 2,
     "day3_total": null
