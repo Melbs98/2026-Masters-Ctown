@@ -137,7 +137,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "70.0",
-    "r3": "11.0",
+    "r3": "14.0",
     "r4": "",
     "numeric_score": -4,
     "day3_total": null
@@ -157,6 +157,19 @@
   },
   {
     "pos": "13",
+    "player": "Haotong Li",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": -4,
+    "day3_total": null
+  },
+  {
+    "pos": "14",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
@@ -169,7 +182,7 @@
     "day3_total": null
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Wyndham Clark",
     "score": "-4",
     "today": "",
@@ -182,26 +195,13 @@
     "day3_total": null
   },
   {
-    "pos": "15",
+    "pos": "16",
     "player": "Kristoffer Reitan",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "68.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": -4,
-    "day3_total": null
-  },
-  {
-    "pos": "16",
-    "player": "Haotong Li",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
     "r3": "0.0",
     "r4": "",
     "numeric_score": -4,
@@ -228,7 +228,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "69.0",
-    "r3": "13.0",
+    "r3": "16.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
@@ -300,26 +300,26 @@
   },
   {
     "pos": "24",
-    "player": "Harris English",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "34.0",
-    "r4": "",
-    "numeric_score": -2,
-    "day3_total": null
-  },
-  {
-    "pos": "25",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "72.0",
-    "r3": "34.0",
+    "r3": "38.0",
+    "r4": "",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "25",
+    "player": "Brian Campbell",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "73.0",
+    "r3": "30.0",
     "r4": "",
     "numeric_score": -2,
     "day3_total": null
@@ -332,7 +332,7 @@
     "thru": "",
     "r1": "74.0",
     "r2": "69.0",
-    "r3": "26.0",
+    "r3": "31.0",
     "r4": "",
     "numeric_score": -2,
     "day3_total": null
@@ -391,13 +391,13 @@
   },
   {
     "pos": "31",
-    "player": "Brian Campbell",
+    "player": "Harris English",
     "score": "-1",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "73.0",
-    "r3": "26.0",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "39.0",
     "r4": "",
     "numeric_score": -1,
     "day3_total": null
@@ -456,19 +456,6 @@
   },
   {
     "pos": "36",
-    "player": "Sungjae Im",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "39.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "37",
     "player": "Alex Noren",
     "score": "+1",
     "today": "",
@@ -481,7 +468,7 @@
     "day3_total": null
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Maverick McNealy",
     "score": "+1",
     "today": "",
@@ -494,7 +481,7 @@
     "day3_total": null
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Viktor Hovland",
     "score": "+1",
     "today": "",
@@ -507,7 +494,7 @@
     "day3_total": null
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
@@ -515,6 +502,19 @@
     "r1": "71.0",
     "r2": "74.0",
     "r3": "47.0",
+    "r4": "",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "40",
+    "player": "Sungjae Im",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "44.0",
     "r4": "",
     "numeric_score": 1,
     "day3_total": null
@@ -592,7 +592,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "65.0",
+    "r3": "69.0",
     "r4": "",
     "numeric_score": 3,
     "day3_total": null
@@ -657,7 +657,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "75.0",
-    "r3": "70.0",
+    "r3": "74.0",
     "r4": "",
     "numeric_score": 5,
     "day3_total": null
