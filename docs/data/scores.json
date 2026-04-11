@@ -59,7 +59,7 @@
     "thru": "",
     "r1": "70.0",
     "r2": "69.0",
-    "r3": "41.0",
+    "r3": "44.0",
     "r4": "",
     "numeric_score": -8,
     "day3_total": null
@@ -404,6 +404,19 @@
   },
   {
     "pos": "32",
+    "player": "Kristoffer Reitan",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "68.0",
+    "r3": "58.0",
+    "r4": "",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "33",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -416,7 +429,7 @@
     "day3_total": null
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -429,7 +442,7 @@
     "day3_total": null
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -437,19 +450,6 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "71.0",
-    "r4": "",
-    "numeric_score": -1,
-    "day3_total": null
-  },
-  {
-    "pos": "35",
-    "player": "Kristoffer Reitan",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "68.0",
-    "r3": "55.0",
     "r4": "",
     "numeric_score": -1,
     "day3_total": null
