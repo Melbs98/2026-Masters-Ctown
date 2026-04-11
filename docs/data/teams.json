@@ -42,16 +42,16 @@
         "day3_total": null
       },
       {
-        "pos": "10",
+        "pos": "7",
         "player": "Patrick Cantlay",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "67.0",
-        "r3": "63.0",
+        "r3": "66.0",
         "r4": "",
-        "numeric_score": -5,
+        "numeric_score": -6,
         "day3_total": null
       },
       {
@@ -120,7 +120,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -20,
+    "best3_total": -21,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -129,7 +129,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Scottie Scheffler",
         "score": "-6",
         "today": "",
@@ -401,7 +401,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "43.0",
+        "r3": "46.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -507,14 +507,14 @@
     "team": "Skeeg & Forney",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Justin Rose",
         "score": "-6",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "15.0",
+        "r3": "19.0",
         "r4": "",
         "numeric_score": -6,
         "day3_total": null
@@ -766,7 +766,7 @@
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
-        "r3": "40.0",
+        "r3": "44.0",
         "r4": "",
         "numeric_score": -2,
         "day3_total": null
@@ -811,7 +811,7 @@
         "day3_total": null
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Wyndham Clark",
         "score": "-6",
         "today": "",
