@@ -1,22 +1,3 @@
 {
-  "items": [
-    {
-      "label": "Leader after Day 2",
-      "winners": [
-        {
-          "name": "Gregg & Brekken",
-          "amount": 50.0
-        }
-      ]
-    },
-    {
-      "label": "Best 3-Man Team after Day 2",
-      "winners": [
-        {
-          "name": "Gregg & Brekken",
-          "amount": 50.0
-        }
-      ]
-    }
-  ]
+  "items": []
 }
