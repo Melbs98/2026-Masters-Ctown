@@ -248,6 +248,19 @@
   },
   {
     "pos": "20",
+    "player": "Sepp Straka",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "72.0",
+    "r3": "11.0",
+    "r4": "",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "21",
     "player": "Matt Fitzpatrick",
     "score": "-1",
     "today": "",
@@ -260,7 +273,7 @@
     "day3_total": null
   },
   {
-    "pos": "21",
+    "pos": "22",
     "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
@@ -273,7 +286,7 @@
     "day3_total": null
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -286,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -299,40 +312,27 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Marco Penge",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "69.0",
-    "r3": "12.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "25",
-    "player": "Matt McCarty",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "73.0",
-    "r3": "12.0",
+    "r3": "15.0",
     "r4": "",
     "numeric_score": 0,
     "day3_total": null
   },
   {
     "pos": "26",
-    "player": "Sepp Straka",
+    "player": "Matt McCarty",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "73.0",
-    "r2": "72.0",
-    "r3": "8.0",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "15.0",
     "r4": "",
     "numeric_score": 0,
     "day3_total": null
@@ -345,7 +345,7 @@
     "thru": "",
     "r1": "77.0",
     "r2": "67.0",
-    "r3": "0.0",
+    "r3": "4.0",
     "r4": "",
     "numeric_score": 0,
     "day3_total": null
@@ -469,12 +469,12 @@
   },
   {
     "pos": "37",
-    "player": "Jacob Bridgeman",
+    "player": "Sungjae Im",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
+    "r1": "76.0",
+    "r2": "69.0",
     "r3": "4.0",
     "r4": "",
     "numeric_score": 1,
@@ -482,13 +482,13 @@
   },
   {
     "pos": "38",
-    "player": "Sungjae Im",
+    "player": "Jacob Bridgeman",
     "score": "+1",
     "today": "",
     "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "0.0",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "4.0",
     "r4": "",
     "numeric_score": 1,
     "day3_total": null
