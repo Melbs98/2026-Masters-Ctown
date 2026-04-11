@@ -155,16 +155,16 @@
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "35",
         "player": "Jacob Bridgeman",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "47.0",
+        "r3": "51.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -188,7 +188,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "14.0",
+        "r3": "18.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -346,7 +346,7 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Kristoffer Reitan",
         "score": "-4",
         "today": "",
@@ -381,16 +381,16 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "41",
+        "pos": "36",
         "player": "Ludvig Åberg",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
-        "r3": "37.0",
+        "r3": "40.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "38",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
@@ -459,7 +459,7 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Haotong Li",
         "score": "-4",
         "today": "",
@@ -546,14 +546,14 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "13",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "66.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "42",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -705,7 +705,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "54.0",
+        "r3": "59.0",
         "r4": "",
         "numeric_score": 8,
         "day3_total": null
@@ -731,7 +731,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "73.0",
-        "r3": "30.0",
+        "r3": "34.0",
         "r4": "",
         "numeric_score": -2,
         "day3_total": null
@@ -759,7 +759,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "35",
+        "pos": "37",
         "player": "Xander Schauffele",
         "score": "E",
         "today": "",
@@ -1063,7 +1063,7 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "39",
         "player": "Maverick McNealy",
         "score": "+1",
         "today": "",
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "40",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
@@ -1228,16 +1228,16 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Sam Stevens",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "61.0",
+        "r3": "63.0",
         "r4": "",
-        "numeric_score": 2,
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -1267,7 +1267,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 6,
+    "best3_total": 5,
     "best3_day3_total": null,
     "scores_entered": 5,
     "roster_loaded": 9
