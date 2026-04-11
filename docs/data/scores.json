@@ -481,6 +481,30 @@
   },
   {
     "pos": "41",
+    "player": "Justin Thomas",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "42",
+    "player": "Gary Woodland",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "75.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "43",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -492,37 +516,13 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "44",
     "player": "Adam Scott",
     "score": "+2",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "43",
-    "player": "Justin Thomas",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "44",
-    "player": "Gary Woodland",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "75.0",
     "r3": "0.0",
     "r4": "",
     "numeric_score": 2
