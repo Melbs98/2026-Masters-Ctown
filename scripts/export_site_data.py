@@ -29,6 +29,20 @@ def normalize_player_name(name):
 
     return ALIASES.get(text, text)
 
+def normalize_score_display(pos, score, thru):
+    pos_text = "" if pos is None else str(pos).strip().upper()
+    score_text = "" if score is None else str(score).strip().upper()
+    thru_text = "" if thru is None else str(thru).strip().upper()
+
+    if "CUT" in {pos_text, score_text, thru_text}:
+        return "CUT"
+    if "WD" in {pos_text, score_text, thru_text}:
+        return "WD"
+    if "DQ" in {pos_text, score_text, thru_text}:
+        return "DQ"
+
+    return "" if score is None else str(score).strip()
+
 def score_to_number(value):
     if value is None or value == "":
         return None
@@ -121,12 +135,13 @@ def main():
             continue
 
         lookup_name = normalize_player_name(player)
-        numeric_score = score_to_number(score)
+        display_score = normalize_score_display(pos, score, thru)
+        numeric_score = score_to_number(display_score)
 
         entry = {
             "pos": str(pos).strip(),
             "player": str(player).strip(),
-            "score": str(score).strip(),
+            "score": display_score,
             "today": "" if row[4] is None else str(row[4]).strip(),
             "thru": "" if row[5] is None else str(row[5]).strip(),
             "r1": "" if row[6] is None else str(row[6]).strip(),
@@ -190,7 +205,6 @@ def main():
 
     payouts = []
 
-    # Leader after Day 2 - based on current live player leaderboard
     live_players = [s for s in score_rows if s["numeric_score"] is not None]
     if live_players:
         best_live_score = min(p["numeric_score"] for p in live_players)
@@ -205,7 +219,6 @@ def main():
         if item:
             payouts.append(item)
 
-    # Best 4-Man Team after Day 2 - based on current live team totals
     valid_live_teams = [t for t in teams if t["best4_total"] is not None]
     if valid_live_teams:
         best_team_score = min(t["best4_total"] for t in valid_live_teams)
