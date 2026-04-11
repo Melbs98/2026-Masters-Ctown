@@ -540,13 +540,26 @@
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
-    "r3": "31.0",
+    "r3": "35.0",
     "r4": "",
     "numeric_score": 3,
     "day3_total": null
   },
   {
     "pos": "43",
+    "player": "Si Woo Kim",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "73.0",
+    "r3": "35.0",
+    "r4": "",
+    "numeric_score": 3,
+    "day3_total": null
+  },
+  {
+    "pos": "44",
     "player": "Corey Conners",
     "score": "+3",
     "today": "",
@@ -559,7 +572,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
@@ -572,7 +585,7 @@
     "day3_total": null
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
@@ -585,7 +598,7 @@
     "day3_total": null
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Sam Stevens",
     "score": "+3",
     "today": "",
@@ -598,7 +611,7 @@
     "day3_total": null
   },
   {
-    "pos": "47",
+    "pos": "48",
     "player": "Alex Noren",
     "score": "+4",
     "today": "",
@@ -606,19 +619,6 @@
     "r1": "77.0",
     "r2": "71.0",
     "r3": "40.0",
-    "r4": "",
-    "numeric_score": 4,
-    "day3_total": null
-  },
-  {
-    "pos": "48",
-    "player": "Si Woo Kim",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "73.0",
-    "r3": "35.0",
     "r4": "",
     "numeric_score": 4,
     "day3_total": null
