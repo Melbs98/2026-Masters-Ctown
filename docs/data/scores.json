@@ -517,18 +517,6 @@
   },
   {
     "pos": "44",
-    "player": "Keegan Bradley",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 2
-  },
-  {
-    "pos": "45",
     "player": "Gary Woodland",
     "score": "+2",
     "today": "",
@@ -540,7 +528,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "46",
+    "pos": "45",
     "player": "Alex Noren",
     "score": "+3",
     "today": "",
@@ -552,7 +540,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "47",
+    "pos": "46",
     "player": "Si Woo Kim",
     "score": "+3",
     "today": "",
@@ -564,7 +552,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "48",
+    "pos": "47",
     "player": "Brian Harman",
     "score": "+3",
     "today": "",
@@ -576,7 +564,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "48",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
@@ -586,6 +574,18 @@
     "r3": "4.0",
     "r4": "",
     "numeric_score": 3
+  },
+  {
+    "pos": "49",
+    "player": "Keegan Bradley",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "5.0",
+    "r4": "",
+    "numeric_score": 2
   },
   {
     "pos": "50",
@@ -631,7 +631,7 @@
     "thru": "",
     "r1": "69.0",
     "r2": "79.0",
-    "r3": "22.0",
+    "r3": "25.0",
     "r4": "",
     "numeric_score": 6
   },
