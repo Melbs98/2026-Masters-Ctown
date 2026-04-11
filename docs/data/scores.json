@@ -417,6 +417,19 @@
   },
   {
     "pos": "33",
+    "player": "Jordan Spieth",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "73.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "34",
     "player": "Sungjae Im",
     "score": "+1",
     "today": "",
@@ -429,26 +442,13 @@
     "day3_total": null
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Sepp Straka",
     "score": "+1",
     "today": "",
     "thru": "",
     "r1": "73.0",
     "r2": "72.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "35",
-    "player": "Jordan Spieth",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "73.0",
     "r3": "0.0",
     "r4": "",
     "numeric_score": 1,
@@ -586,19 +586,32 @@
   },
   {
     "pos": "46",
-    "player": "Maverick McNealy",
+    "player": "Corey Conners",
     "score": "+4",
     "today": "",
     "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "21.0",
+    "r1": "75.0",
+    "r2": "73.0",
+    "r3": "27.0",
     "r4": "",
     "numeric_score": 4,
     "day3_total": null
   },
   {
     "pos": "47",
+    "player": "Maverick McNealy",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "24.0",
+    "r4": "",
+    "numeric_score": 4,
+    "day3_total": null
+  },
+  {
+    "pos": "48",
     "player": "Sergio García",
     "score": "+4",
     "today": "",
@@ -611,7 +624,7 @@
     "day3_total": null
   },
   {
-    "pos": "48",
+    "pos": "49",
     "player": "Viktor Hovland",
     "score": "+4",
     "today": "",
@@ -624,7 +637,7 @@
     "day3_total": null
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Keegan Bradley",
     "score": "+4",
     "today": "",
@@ -637,7 +650,7 @@
     "day3_total": null
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Gary Woodland",
     "score": "+4",
     "today": "",
@@ -647,19 +660,6 @@
     "r3": "15.0",
     "r4": "",
     "numeric_score": 4,
-    "day3_total": null
-  },
-  {
-    "pos": "51",
-    "player": "Corey Conners",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "73.0",
-    "r3": "24.0",
-    "r4": "",
-    "numeric_score": 5,
     "day3_total": null
   },
   {
