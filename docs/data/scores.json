@@ -577,18 +577,6 @@
   },
   {
     "pos": "49",
-    "player": "Maverick McNealy",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "0.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "50",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -600,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "50",
     "player": "Brian Harman",
     "score": "+4",
     "today": "",
@@ -612,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -620,6 +608,18 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "4.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "52",
+    "player": "Maverick McNealy",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "5.0",
     "r4": "",
     "numeric_score": 4
   },
