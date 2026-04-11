@@ -222,19 +222,6 @@
   },
   {
     "pos": "18",
-    "player": "Sepp Straka",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "72.0",
-    "r3": "37.0",
-    "r4": "",
-    "numeric_score": -2,
-    "day3_total": null
-  },
-  {
-    "pos": "19",
     "player": "Patrick Cantlay",
     "score": "-2",
     "today": "",
@@ -247,7 +234,7 @@
     "day3_total": null
   },
   {
-    "pos": "20",
+    "pos": "19",
     "player": "Russell Henley",
     "score": "-2",
     "today": "",
@@ -260,7 +247,7 @@
     "day3_total": null
   },
   {
-    "pos": "21",
+    "pos": "20",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
@@ -273,7 +260,7 @@
     "day3_total": null
   },
   {
-    "pos": "22",
+    "pos": "21",
     "player": "Scottie Scheffler",
     "score": "-2",
     "today": "",
@@ -286,7 +273,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -299,7 +286,7 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "23",
     "player": "Collin Morikawa",
     "score": "-2",
     "today": "",
@@ -312,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "24",
     "player": "Nick Taylor",
     "score": "-2",
     "today": "",
@@ -325,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Michael Brennan",
     "score": "-2",
     "today": "",
@@ -338,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "26",
     "player": "Jake Knapp",
     "score": "-2",
     "today": "",
@@ -351,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Xander Schauffele",
     "score": "-2",
     "today": "",
@@ -364,7 +351,7 @@
     "day3_total": null
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Ben Griffin",
     "score": "-2",
     "today": "",
@@ -374,6 +361,19 @@
     "r3": "5.0",
     "r4": "",
     "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "29",
+    "player": "Sepp Straka",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "72.0",
+    "r3": "42.0",
+    "r4": "",
+    "numeric_score": -1,
     "day3_total": null
   },
   {
