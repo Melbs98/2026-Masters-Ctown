@@ -16,7 +16,7 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Hideki Matsuyama",
         "score": "-2",
         "today": "",
@@ -29,16 +29,16 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "47",
         "player": "Si Woo Kim",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "54.0",
+        "r3": "60.0",
         "r4": "",
-        "numeric_score": 2,
+        "numeric_score": 3,
         "day3_total": null
       },
       {
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Patrick Cantlay",
         "score": "-1",
         "today": "",
@@ -194,7 +194,7 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Rasmus Højgaard",
         "score": "+3",
         "today": "",
@@ -281,7 +281,7 @@
         "day3_total": null
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Jake Knapp",
         "score": "-2",
         "today": "",
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Jordan Spieth",
         "score": "-1",
         "today": "",
@@ -546,7 +546,7 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Sungjae Im",
         "score": "-1",
         "today": "",
@@ -585,7 +585,7 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Michael Brennan",
         "score": "-2",
         "today": "",
@@ -633,7 +633,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Scottie Scheffler",
         "score": "-2",
         "today": "",
@@ -685,7 +685,7 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Max Homa",
         "score": "-2",
         "today": "",
@@ -698,16 +698,16 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "16",
         "player": "Ryan Gerard",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "72.0",
-        "r3": "19.0",
+        "r3": "21.0",
         "r4": "",
-        "numeric_score": -1,
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -759,7 +759,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Xander Schauffele",
         "score": "-2",
         "today": "",
@@ -772,7 +772,7 @@
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Collin Morikawa",
         "score": "-2",
         "today": "",
@@ -785,7 +785,7 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -1050,7 +1050,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Russell Henley",
         "score": "-1",
         "today": "",
@@ -1063,7 +1063,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Maverick McNealy",
         "score": "+2",
         "today": "",
