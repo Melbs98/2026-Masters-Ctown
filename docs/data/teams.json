@@ -49,13 +49,13 @@
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "18.0",
+        "r3": "22.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -407,7 +407,7 @@
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Justin Thomas",
         "score": "+2",
         "today": "",
@@ -533,14 +533,14 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "36",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 1,
         "day3_total": null
@@ -592,7 +592,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "75.0",
-        "r3": "23.0",
+        "r3": "27.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -698,16 +698,16 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "41",
         "player": "Aaron Rai",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
-        "r3": "0.0",
+        "r3": "5.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Brian Harman",
         "score": "+2",
         "today": "",
@@ -1183,7 +1183,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "22.0",
+        "r3": "25.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
