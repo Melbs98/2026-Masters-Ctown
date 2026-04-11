@@ -187,20 +187,20 @@ def main():
             if info["numeric_score"] is not None:
                 valid_scores.append(info["numeric_score"])
 
-        best_four = sorted(valid_scores)[:4]
-        best_four_total = sum(best_four) if len(best_four) >= 4 else None
+        best_three = sorted(valid_scores)[:3]
+        best_three_total = sum(best_three) if len(best_three) >= 3 else None
 
         teams.append({
             "team": team_name,
             "golfers": golfer_details,
-            "best4_total": best_four_total,
+            "best3_total": best_three_total,
             "scores_entered": len(valid_scores),
             "roster_loaded": len(golfers),
         })
 
     teams_sorted = sorted(
         teams,
-        key=lambda t: (99999 if t["best4_total"] is None else t["best4_total"], t["team"])
+        key=lambda t: (99999 if t["best3_total"] is None else t["best3_total"], t["team"])
     )
 
     payouts = []
@@ -219,12 +219,12 @@ def main():
         if item:
             payouts.append(item)
 
-    valid_live_teams = [t for t in teams if t["best4_total"] is not None]
+    valid_live_teams = [t for t in teams if t["best3_total"] is not None]
     if valid_live_teams:
-        best_team_score = min(t["best4_total"] for t in valid_live_teams)
-        winners = [t["team"] for t in valid_live_teams if t["best4_total"] == best_team_score]
+        best_team_score = min(t["best3_total"] for t in valid_live_teams)
+        winners = [t["team"] for t in valid_live_teams if t["best3_total"] == best_team_score]
 
-        item = split_payout("Best 4-Man Team after Day 2", winners, 50)
+        item = split_payout("Best 3-Man Team after Day 2", winners, 50)
         if item:
             payouts.append(item)
 
