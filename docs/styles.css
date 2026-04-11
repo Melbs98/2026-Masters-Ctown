@@ -29,89 +29,107 @@ body {
 
 .teams-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+  align-items: start;
 }
 
 .team-card {
-  border: 1px solid #d9d9d9;
-  border-radius: 10px;
+  border: 2px solid #6e6a62;
+  border-radius: 0;
   overflow: hidden;
-  background: #fff;
+  background: #efece6;
+  min-width: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 .team-card-header {
-  background: #123d6b;
+  background: #1c4a7f;
   color: white;
-  padding: 10px 12px;
+  padding: 8px 12px;
+  border-bottom: 2px solid #15385f;
 }
 
 .team-rank {
-  font-size: 12px;
-  opacity: 0.9;
-  margin-bottom: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  opacity: 0.95;
+  margin-bottom: 2px;
 }
 
 .team-name {
-  font-size: 18px;
-  font-weight: 700;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.1;
+  white-space: normal;
+  word-break: break-word;
 }
 
 .team-table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
+  background: #f3f0ea;
 }
 
 .team-table th,
 .team-table td {
-  padding: 8px 10px;
-  border-bottom: 1px solid #e6e6e6;
+  padding: 7px 10px;
+  border: 1px solid #bdb7ae;
   text-align: left;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .team-table th:last-child,
 .team-table td:last-child {
   text-align: right;
-  width: 80px;
+  width: 58px;
+  white-space: nowrap;
+  font-weight: 800;
 }
 
 .team-table thead th {
-  background: #f5f7fa;
-  font-weight: 700;
+  background: #e7e2da;
+  font-weight: 800;
+  color: #111;
 }
 
 .team-table tfoot td {
-  background: #eef6e8;
-  font-weight: 700;
+  background: #dfe8d8;
+  font-weight: 800;
+  border-top: 2px solid #9da892;
 }
 
 .player-name {
-  white-space: nowrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
 }
 
 .score-cell {
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .score-under {
-  color: #14833b;
-  font-weight: 700;
+  color: #0a7a2f;
+  font-weight: 800;
 }
 
 .score-over {
-  color: #b42318;
-  font-weight: 700;
+  color: #c62828;
+  font-weight: 800;
 }
 
 .score-even {
   color: #111;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .score-cut {
   color: #666;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 #scores-table {
@@ -129,16 +147,6 @@ body {
 
 #scores-table th {
   background: #fafafa;
-}
-
-@media (max-width: 700px) {
-  .wrap {
-    padding: 14px;
-  }
-
-  .teams-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 #payouts-list {
@@ -192,4 +200,32 @@ body {
 .payout-empty {
   margin: 0;
   color: #666;
+}
+
+@media (max-width: 1200px) {
+  .teams-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 1000px) {
+  .teams-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .wrap {
+    padding: 14px;
+  }
+
+  .teams-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 500px) {
+  .teams-grid {
+    grid-template-columns: 1fr;
+  }
 }
