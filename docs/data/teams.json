@@ -16,16 +16,16 @@
         "day3_total": null
       },
       {
-        "pos": "11",
+        "pos": "7",
         "player": "Hideki Matsuyama",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "25.0",
+        "r3": "29.0",
         "r4": "",
-        "numeric_score": -4,
+        "numeric_score": -5,
         "day3_total": null
       },
       {
@@ -120,7 +120,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -16,
+    "best3_total": -17,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -129,7 +129,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Ludvig Åberg",
         "score": "-1",
         "today": "",
@@ -142,7 +142,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Brooks Koepka",
         "score": "-2",
         "today": "",
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Patrick Cantlay",
         "score": "-4",
         "today": "",
@@ -268,7 +268,7 @@
         "day3_total": null
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Shane Lowry",
         "score": "-5",
         "today": "",
@@ -381,7 +381,7 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
@@ -407,7 +407,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Jake Knapp",
         "score": "-2",
         "today": "",
@@ -507,7 +507,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -520,7 +520,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Jordan Spieth",
         "score": "-1",
         "today": "",
@@ -553,7 +553,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "66.0",
-        "r3": "4.0",
+        "r3": "9.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Ben Griffin",
         "score": "-3",
         "today": "",
@@ -633,14 +633,14 @@
     "team": "Skeeg & Forney",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Justin Rose",
         "score": "-5",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": -5,
         "day3_total": null
@@ -711,20 +711,20 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "25",
         "player": "Michael Brennan",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
-        "r3": "27.0",
+        "r3": "31.0",
         "r4": "",
-        "numeric_score": -1,
+        "numeric_score": -2,
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -811,20 +811,20 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "16",
         "player": "Wyndham Clark",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "5.0",
+        "r3": "9.0",
         "r4": "",
-        "numeric_score": -3,
+        "numeric_score": -4,
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Nick Taylor",
         "score": "-2",
         "today": "",
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -7,
+    "best3_total": -8,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
@@ -1050,7 +1050,7 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Russell Henley",
         "score": "-3",
         "today": "",
