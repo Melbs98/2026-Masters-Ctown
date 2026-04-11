@@ -142,7 +142,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -155,7 +155,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -333,14 +333,14 @@
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Michael Brennan",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
-        "r3": "58.0",
+        "r3": "61.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -572,16 +572,16 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "30",
         "player": "Nick Taylor",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "62.0",
+        "r3": "67.0",
         "r4": "",
-        "numeric_score": -3,
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -640,7 +640,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
-        "r3": "62.0",
+        "r3": "66.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Tyrrell Hatton",
         "score": "-3",
         "today": "",
