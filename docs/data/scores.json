@@ -601,6 +601,18 @@
   },
   {
     "pos": "51",
+    "player": "Rasmus Højgaard",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "20.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "52",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -610,18 +622,6 @@
     "r3": "13.0",
     "r4": "",
     "numeric_score": 4
-  },
-  {
-    "pos": "52",
-    "player": "Rasmus Højgaard",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "17.0",
-    "r4": "",
-    "numeric_score": 5
   },
   {
     "pos": "53",
@@ -643,7 +643,7 @@
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "18.0",
+    "r3": "22.0",
     "r4": "",
     "numeric_score": 6
   },
