@@ -42,7 +42,7 @@
         "day3_total": null
       },
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -129,16 +129,16 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "8",
+        "pos": "6",
         "player": "Scottie Scheffler",
-        "score": "-6",
+        "score": "-7",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "74.0",
-        "r3": "55.0",
+        "r3": "57.0",
         "r4": "",
-        "numeric_score": -6,
+        "numeric_score": -7,
         "day3_total": null
       },
       {
@@ -175,22 +175,22 @@
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "20.0",
+        "r3": "24.0",
         "r4": "",
         "numeric_score": -8,
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "17",
         "player": "Max Homa",
-        "score": "-5",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "37.0",
+        "r3": "42.0",
         "r4": "",
-        "numeric_score": -5,
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -246,7 +246,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -19,
+    "best3_total": -20,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -394,14 +394,14 @@
         "day3_total": null
       },
       {
-        "pos": "6",
+        "pos": "7",
         "player": "Patrick Reed",
         "score": "-7",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "69.0",
-        "r3": "19.0",
+        "r3": "22.0",
         "r4": "",
         "numeric_score": -7,
         "day3_total": null
@@ -507,7 +507,7 @@
     "team": "Skeeg & Forney",
     "golfers": [
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Justin Rose",
         "score": "-6",
         "today": "",
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Jason Day",
         "score": "-5",
         "today": "",
@@ -633,16 +633,16 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "17",
+        "pos": "15",
         "player": "Tommy Fleetwood",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
-        "r3": "24.0",
+        "r3": "27.0",
         "r4": "",
-        "numeric_score": -4,
+        "numeric_score": -5,
         "day3_total": null
       },
       {
@@ -698,14 +698,14 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "38.0",
+        "r3": "42.0",
         "r4": "",
         "numeric_score": -5,
         "day3_total": null
@@ -750,7 +750,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -12,
+    "best3_total": -13,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -811,7 +811,7 @@
         "day3_total": null
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Wyndham Clark",
         "score": "-6",
         "today": "",
@@ -1050,16 +1050,16 @@
         "day3_total": null
       },
       {
-        "pos": "11",
+        "pos": "9",
         "player": "Russell Henley",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
-        "r3": "63.0",
+        "r3": "66.0",
         "r4": "",
-        "numeric_score": -5,
+        "numeric_score": -6,
         "day3_total": null
       },
       {
@@ -1141,7 +1141,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -4,
+    "best3_total": -5,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
