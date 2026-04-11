@@ -10,15 +10,11 @@
       ]
     },
     {
-      "label": "Best 4-Man Team after Day 2",
+      "label": "Best 3-Man Team after Day 2",
       "winners": [
         {
-          "name": "Doc & Sam",
-          "amount": 25.0
-        },
-        {
-          "name": "Strommens",
-          "amount": 25.0
+          "name": "Gregg & Brekken",
+          "amount": 50.0
         }
       ]
     }
