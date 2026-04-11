@@ -391,6 +391,19 @@
   },
   {
     "pos": "31",
+    "player": "Ludvig Åberg",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "70.0",
+    "r3": "4.0",
+    "r4": "",
+    "numeric_score": 0,
+    "day3_total": null
+  },
+  {
+    "pos": "32",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -403,7 +416,7 @@
     "day3_total": null
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Ryan Gerard",
     "score": "E",
     "today": "",
@@ -411,19 +424,6 @@
     "r1": "72.0",
     "r2": "72.0",
     "r3": "4.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "33",
-    "player": "Ludvig Åberg",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "70.0",
-    "r3": "0.0",
     "r4": "",
     "numeric_score": 0,
     "day3_total": null
@@ -534,19 +534,32 @@
   },
   {
     "pos": "42",
-    "player": "Sergio García",
+    "player": "Maverick McNealy",
     "score": "+2",
     "today": "",
     "thru": "",
-    "r1": "72.0",
-    "r2": "75.0",
-    "r3": "35.0",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "39.0",
     "r4": "",
     "numeric_score": 2,
     "day3_total": null
   },
   {
     "pos": "43",
+    "player": "Sergio García",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "75.0",
+    "r3": "39.0",
+    "r4": "",
+    "numeric_score": 2,
+    "day3_total": null
+  },
+  {
+    "pos": "44",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
@@ -559,7 +572,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -572,7 +585,7 @@
     "day3_total": null
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Alex Noren",
     "score": "+3",
     "today": "",
@@ -585,7 +598,7 @@
     "day3_total": null
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Si Woo Kim",
     "score": "+3",
     "today": "",
@@ -598,7 +611,7 @@
     "day3_total": null
   },
   {
-    "pos": "47",
+    "pos": "48",
     "player": "Corey Conners",
     "score": "+3",
     "today": "",
@@ -611,20 +624,20 @@
     "day3_total": null
   },
   {
-    "pos": "48",
-    "player": "Maverick McNealy",
+    "pos": "49",
+    "player": "Gary Woodland",
     "score": "+3",
     "today": "",
     "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "36.0",
+    "r1": "71.0",
+    "r2": "75.0",
+    "r3": "33.0",
     "r4": "",
     "numeric_score": 3,
     "day3_total": null
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Sam Stevens",
     "score": "+3",
     "today": "",
@@ -634,19 +647,6 @@
     "r3": "28.0",
     "r4": "",
     "numeric_score": 3,
-    "day3_total": null
-  },
-  {
-    "pos": "50",
-    "player": "Gary Woodland",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "75.0",
-    "r3": "29.0",
-    "r4": "",
-    "numeric_score": 4,
     "day3_total": null
   },
   {
