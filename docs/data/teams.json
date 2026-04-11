@@ -29,7 +29,7 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Si Woo Kim",
         "score": "+4",
         "today": "",
@@ -49,7 +49,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "15.0",
+        "r3": "18.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -414,7 +414,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "13.0",
+        "r3": "16.0",
         "r4": "",
         "numeric_score": 2,
         "day3_total": null
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Matt McCarty",
         "score": "+1",
         "today": "",
@@ -585,16 +585,16 @@
         "day3_total": null
       },
       {
-        "pos": "48",
+        "pos": "45",
         "player": "Sergio García",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "75.0",
-        "r3": "21.0",
+        "r3": "23.0",
         "r4": "",
-        "numeric_score": 4,
+        "numeric_score": 3,
         "day3_total": null
       },
       {
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -785,14 +785,14 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "32",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 1,
         "day3_total": null
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Corey Conners",
         "score": "+4",
         "today": "",
@@ -1063,7 +1063,7 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Maverick McNealy",
         "score": "+4",
         "today": "",
