@@ -559,24 +559,36 @@
     "thru": "",
     "r1": "79.0",
     "r2": "69.0",
-    "r3": "8.0",
+    "r3": "12.0",
     "r4": "",
     "numeric_score": 3
   },
   {
     "pos": "48",
+    "player": "Maverick McNealy",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "9.0",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "49",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "75.0",
-    "r3": "4.0",
+    "r3": "9.0",
     "r4": "",
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "50",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
@@ -588,7 +600,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "50",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -596,18 +608,6 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "13.0",
-    "r4": "",
-    "numeric_score": 4
-  },
-  {
-    "pos": "51",
-    "player": "Maverick McNealy",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "5.0",
     "r4": "",
     "numeric_score": 4
   },
