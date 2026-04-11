@@ -3,7 +3,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Ludvig Åberg",
         "score": "-2",
         "today": "",
@@ -16,7 +16,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Brooks Koepka",
         "score": "-2",
         "today": "",
@@ -81,7 +81,7 @@
         "day3_total": null
       },
       {
-        "pos": "6",
+        "pos": "7",
         "player": "Haotong Li",
         "score": "-6",
         "today": "",
@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Shane Lowry",
         "score": "-6",
         "today": "",
@@ -507,14 +507,14 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "8",
         "player": "Tommy Fleetwood",
         "score": "-6",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
-        "r3": "8.0",
+        "r3": "12.0",
         "r4": "",
         "numeric_score": -6,
         "day3_total": null
@@ -659,16 +659,16 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "31",
         "player": "Sepp Straka",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "61.0",
+        "r3": "66.0",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": -1,
         "day3_total": null
       },
       {
@@ -685,14 +685,14 @@
         "day3_total": null
       },
       {
-        "pos": "7",
+        "pos": "6",
         "player": "Wyndham Clark",
         "score": "-6",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "11.0",
+        "r3": "14.0",
         "r4": "",
         "numeric_score": -6,
         "day3_total": null
@@ -837,7 +837,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Michael Brennan",
         "score": "-2",
         "today": "",
@@ -850,7 +850,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
