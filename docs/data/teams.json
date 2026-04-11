@@ -3,7 +3,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -23,7 +23,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "42.0",
+        "r3": "46.0",
         "r4": "",
         "numeric_score": -1,
         "day3_total": null
@@ -36,7 +36,7 @@
         "thru": "",
         "r1": "67.0",
         "r2": "71.0",
-        "r3": "18.0",
+        "r3": "21.0",
         "r4": "",
         "numeric_score": -8,
         "day3_total": null
@@ -88,7 +88,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "69.0",
-        "r3": "27.0",
+        "r3": "31.0",
         "r4": "",
         "numeric_score": -9,
         "day3_total": null
@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -262,7 +262,7 @@
         "thru": "",
         "r1": "67.0",
         "r2": "65.0",
-        "r3": "20.0",
+        "r3": "23.0",
         "r4": "",
         "numeric_score": -12,
         "day3_total": null
@@ -407,14 +407,14 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Jason Day",
         "score": "-5",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "71.0",
-        "r3": "35.0",
+        "r3": "39.0",
         "r4": "",
         "numeric_score": -5,
         "day3_total": null
@@ -472,14 +472,14 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "73.0",
-        "r3": "58.0",
+        "r3": "61.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -633,7 +633,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Tommy Fleetwood",
         "score": "-5",
         "today": "",
@@ -698,16 +698,16 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "19",
         "player": "Ben Griffin",
-        "score": "-5",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "42.0",
+        "r3": "46.0",
         "r4": "",
-        "numeric_score": -5,
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -750,7 +750,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -13,
+    "best3_total": -12,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -772,16 +772,16 @@
         "day3_total": null
       },
       {
-        "pos": "22",
+        "pos": "15",
         "player": "Collin Morikawa",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
-        "r3": "59.0",
+        "r3": "61.0",
         "r4": "",
-        "numeric_score": -3,
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
