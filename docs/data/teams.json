@@ -16,16 +16,16 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "27",
         "player": "Brooks Koepka",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "57.0",
+        "r3": "61.0",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": -3,
         "day3_total": null
       },
       {
@@ -81,16 +81,16 @@
         "day3_total": null
       },
       {
-        "pos": "3",
+        "pos": "4",
         "player": "Haotong Li",
-        "score": "-9",
+        "score": "-8",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "69.0",
-        "r3": "42.0",
+        "r3": "48.0",
         "r4": "",
-        "numeric_score": -9,
+        "numeric_score": -8,
         "day3_total": null
       },
       {
@@ -120,7 +120,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -23,
+    "best3_total": -22,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -142,20 +142,20 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "26",
         "player": "Chris Gotterup",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "57.0",
+        "r3": "61.0",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": -3,
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "31",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -168,16 +168,16 @@
         "day3_total": null
       },
       {
-        "pos": "4",
+        "pos": "5",
         "player": "Shane Lowry",
-        "score": "-9",
+        "score": "-8",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
-        "r3": "36.0",
+        "r3": "41.0",
         "r4": "",
-        "numeric_score": -9,
+        "numeric_score": -8,
         "day3_total": null
       },
       {
@@ -188,13 +188,13 @@
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "59.0",
+        "r3": "62.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -246,7 +246,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -20,
+    "best3_total": -19,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -281,7 +281,7 @@
         "day3_total": null
       },
       {
-        "pos": "5",
+        "pos": "3",
         "player": "Jason Day",
         "score": "-8",
         "today": "",
@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "29",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -479,7 +479,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "50.0",
+        "r3": "55.0",
         "r4": "",
         "numeric_score": -1,
         "day3_total": null
@@ -633,7 +633,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "16",
+        "pos": "18",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "30",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "28",
         "player": "Tyrrell Hatton",
         "score": "-3",
         "today": "",
@@ -824,16 +824,16 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "15",
         "player": "Ben Griffin",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "60.0",
+        "r3": "62.0",
         "r4": "",
-        "numeric_score": -4,
+        "numeric_score": -5,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
