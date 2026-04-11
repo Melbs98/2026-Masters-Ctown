@@ -194,14 +194,14 @@
         "day3_total": null
       },
       {
-        "pos": "54",
+        "pos": "53",
         "player": "Rasmus Højgaard",
         "score": "+6",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "29.0",
+        "r3": "34.0",
         "r4": "",
         "numeric_score": 6,
         "day3_total": null
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Jordan Spieth",
         "score": "+1",
         "today": "",
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Matt McCarty",
         "score": "+1",
         "today": "",
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Jacob Bridgeman",
         "score": "+1",
         "today": "",
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Sungjae Im",
         "score": "+1",
         "today": "",
@@ -698,7 +698,7 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Aaron Rai",
         "score": "+1",
         "today": "",
@@ -785,7 +785,7 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -950,16 +950,16 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "38",
         "player": "Brian Harman",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "79.0",
         "r2": "69.0",
-        "r3": "20.0",
+        "r3": "25.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -1015,7 +1015,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 2,
+    "best3_total": 3,
     "best3_day3_total": null,
     "scores_entered": 10,
     "roster_loaded": 10
@@ -1128,7 +1128,7 @@
         "day3_total": null
       },
       {
-        "pos": "53",
+        "pos": "54",
         "player": "Charl Schwartzel",
         "score": "+6",
         "today": "",
