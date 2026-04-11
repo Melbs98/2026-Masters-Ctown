@@ -57,7 +57,6 @@ function formatLastUpdated(isoString) {
   });
 
   const relativeTime = formatRelativeTime(date);
-
   return `Last updated: ${formattedTime} (${relativeTime})`;
 }
 
@@ -71,29 +70,47 @@ function formatMoney(amount) {
   return `$${Number(amount).toFixed(2).replace(".00", "")}`;
 }
 
-function renderPayouts(payouts) {
+function renderPayouts(data) {
   const container = document.getElementById("payouts-list");
   container.innerHTML = "";
 
-  if (!payouts.items || payouts.items.length === 0) {
+  if (!data.sections || data.sections.length === 0) {
     container.innerHTML = "<p>No payouts available yet.</p>";
     return;
   }
 
-  payouts.items.forEach(item => {
-    const block = document.createElement("div");
-    block.className = "payout-item";
+  data.sections.forEach(section => {
+    const sectionEl = document.createElement("div");
+    sectionEl.className = "payout-section";
 
-    const winnersHtml = item.winners.map(winner => {
-      return `<div class="payout-winner"><span>${winner.name}</span><strong>${formatMoney(winner.amount)}</strong></div>`;
-    }).join("");
+    let itemsHtml = "";
 
-    block.innerHTML = `
-      <h3>${item.label}</h3>
-      <div>${winnersHtml}</div>
+    if (!section.items || section.items.length === 0) {
+      itemsHtml = `<p class="payout-empty">No payouts entered yet.</p>`;
+    } else {
+      itemsHtml = section.items.map(item => {
+        const winnersHtml = item.winners.map(winner => `
+          <div class="payout-winner">
+            <span>${winner.name}</span>
+            <strong>${formatMoney(winner.amount)}</strong>
+          </div>
+        `).join("");
+
+        return `
+          <div class="payout-item">
+            <h3>${item.label}</h3>
+            <div>${winnersHtml}</div>
+          </div>
+        `;
+      }).join("");
+    }
+
+    sectionEl.innerHTML = `
+      <h3 class="payout-section-title">${section.title}</h3>
+      ${itemsHtml}
     `;
 
-    container.appendChild(block);
+    container.appendChild(sectionEl);
   });
 }
 
@@ -176,7 +193,7 @@ async function main() {
   const [teams, scores, payouts, meta] = await Promise.all([
     loadJson("./data/teams.json"),
     loadJson("./data/scores.json"),
-    loadJson("./data/payouts.json"),
+    loadJson("./data/payouts_static.json"),
     loadJson("./data/meta.json")
   ]);
 
