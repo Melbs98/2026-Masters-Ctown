@@ -137,7 +137,7 @@
     "thru": "",
     "r1": "73.0",
     "r2": "71.0",
-    "r3": "59.0",
+    "r3": "63.0",
     "r4": "",
     "numeric_score": -5,
     "day3_total": null
@@ -210,14 +210,14 @@
   {
     "pos": "17",
     "player": "Tommy Fleetwood",
-    "score": "-5",
+    "score": "-4",
     "today": "",
     "thru": "",
     "r1": "71.0",
     "r2": "68.0",
-    "r3": "20.0",
+    "r3": "24.0",
     "r4": "",
-    "numeric_score": -5,
+    "numeric_score": -4,
     "day3_total": null
   },
   {
@@ -241,7 +241,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "71.0",
-    "r3": "42.0",
+    "r3": "45.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
@@ -560,19 +560,6 @@
   },
   {
     "pos": "44",
-    "player": "Dustin Johnson",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "66.0",
-    "r4": "",
-    "numeric_score": 2,
-    "day3_total": null
-  },
-  {
-    "pos": "45",
     "player": "Corey Conners",
     "score": "+3",
     "today": "",
@@ -585,7 +572,7 @@
     "day3_total": null
   },
   {
-    "pos": "46",
+    "pos": "45",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
@@ -593,6 +580,19 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "73.0",
+    "r4": "",
+    "numeric_score": 3,
+    "day3_total": null
+  },
+  {
+    "pos": "46",
+    "player": "Dustin Johnson",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "71.0",
     "r4": "",
     "numeric_score": 3,
     "day3_total": null
