@@ -85,7 +85,7 @@
     "thru": "",
     "r1": "69.0",
     "r2": "69.0",
-    "r3": "22.0",
+    "r3": "26.0",
     "r4": "",
     "numeric_score": -7,
     "day3_total": null
@@ -137,26 +137,13 @@
     "thru": "",
     "r1": "70.0",
     "r2": "69.0",
-    "r3": "22.0",
+    "r3": "26.0",
     "r4": "",
     "numeric_score": -6,
     "day3_total": null
   },
   {
     "pos": "12",
-    "player": "Ryan Gerard",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "72.0",
-    "r3": "63.0",
-    "r4": "",
-    "numeric_score": -5,
-    "day3_total": null
-  },
-  {
-    "pos": "13",
     "player": "Jason Day",
     "score": "-5",
     "today": "",
@@ -169,7 +156,7 @@
     "day3_total": null
   },
   {
-    "pos": "14",
+    "pos": "13",
     "player": "Tommy Fleetwood",
     "score": "-5",
     "today": "",
@@ -179,6 +166,19 @@
     "r3": "27.0",
     "r4": "",
     "numeric_score": -5,
+    "day3_total": null
+  },
+  {
+    "pos": "14",
+    "player": "Ryan Gerard",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "72.0",
+    "r3": "68.0",
+    "r4": "",
+    "numeric_score": -4,
     "day3_total": null
   },
   {
@@ -267,7 +267,7 @@
     "thru": "",
     "r1": "74.0",
     "r2": "70.0",
-    "r3": "61.0",
+    "r3": "65.0",
     "r4": "",
     "numeric_score": -3,
     "day3_total": null
