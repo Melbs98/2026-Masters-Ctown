@@ -1,30 +1,52 @@
 body {
   font-family: Arial, sans-serif;
   margin: 0;
-  background: #f3f3f3;
-  color: #111;
+  background: linear-gradient(to bottom, #f3f0e8 0%, #ece6d8 100%);
+  color: #1b1b1b;
 }
 
 .wrap {
-  max-width: 1300px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 24px;
 }
 
 .page-header {
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 .page-header h1 {
-  margin-bottom: 8px;
+  margin: 0 0 8px 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.7rem;
+  font-weight: 700;
+  color: #1f4d2e;
+  letter-spacing: 0.3px;
+}
+
+#updated {
+  color: #4e5a4f;
+  font-size: 1rem;
 }
 
 .section-card {
-  background: white;
-  border-radius: 14px;
-  padding: 18px;
+  background: rgba(255, 252, 245, 0.96);
+  border: 1px solid #d8cfbc;
+  border-radius: 16px;
+  padding: 20px;
   margin-bottom: 24px;
-  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08);
+  box-shadow:
+    0 8px 18px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.65);
+}
+
+.section-card h2 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  color: #1f4d2e;
+  letter-spacing: 0.2px;
 }
 
 .teams-grid {
@@ -35,69 +57,88 @@ body {
 }
 
 .team-card {
-  border: 2px solid #6e6a62;
-  border-radius: 0;
+  border: 1px solid #b9ad93;
+  border-radius: 10px;
   overflow: hidden;
-  background: #efece6;
+  background: #f7f2e8;
   min-width: 0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.08),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.45);
+  position: relative;
+}
+
+.team-card::before {
+  content: "";
+  display: block;
+  height: 4px;
+  background: #f0c44f;
 }
 
 .team-card-header {
-  background: #1c4a7f;
-  color: white;
-  padding: 8px 12px;
-  border-bottom: 2px solid #15385f;
+  background: linear-gradient(to bottom, #245c3a 0%, #1c4b2f 100%);
+  color: #fffdf7;
+  padding: 10px 12px 12px 12px;
+  border-bottom: 1px solid #143621;
 }
 
 .team-rank {
   font-size: 11px;
   font-weight: 700;
   opacity: 0.95;
-  margin-bottom: 2px;
+  margin-bottom: 4px;
+  letter-spacing: 0.4px;
 }
 
 .team-name {
-  font-size: 17px;
-  font-weight: 800;
-  line-height: 1.1;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.15;
   white-space: normal;
   word-break: break-word;
+  color: #fffdf7;
 }
 
 .team-table {
   width: 100%;
   border-collapse: collapse;
   table-layout: fixed;
-  background: #f3f0ea;
+  background: #f7f2e8;
 }
 
 .team-table th,
 .team-table td {
-  padding: 7px 10px;
-  border: 1px solid #bdb7ae;
+  padding: 8px 10px;
+  border: 1px solid #cdbfa3;
   text-align: left;
   font-size: 13px;
+}
+
+.team-table thead th {
+  background: #ece2cf;
+  color: #2f2a22;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
 }
 
 .team-table th:last-child,
 .team-table td:last-child {
   text-align: right;
-  width: 58px;
+  width: 62px;
   white-space: nowrap;
   font-weight: 800;
 }
 
-.team-table thead th {
-  background: #e7e2da;
-  font-weight: 800;
-  color: #111;
+.team-table tbody tr:nth-child(even) td {
+  background: #f3ecdf;
 }
 
 .team-table tfoot td {
-  background: #dfe8d8;
+  background: #e1ead8;
   font-weight: 800;
-  border-top: 2px solid #9da892;
+  border-top: 2px solid #aab89c;
 }
 
 .player-name {
@@ -106,6 +147,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2px;
+  color: #1f1f1f;
 }
 
 .score-cell {
@@ -113,22 +155,22 @@ body {
 }
 
 .score-under {
-  color: #0a7a2f;
+  color: #15733a;
   font-weight: 800;
 }
 
 .score-over {
-  color: #c62828;
+  color: #b3322b;
   font-weight: 800;
 }
 
 .score-even {
-  color: #111;
+  color: #1f1f1f;
   font-weight: 800;
 }
 
 .score-cut {
-  color: #666;
+  color: #6b6b6b;
   font-weight: 800;
 }
 
@@ -136,17 +178,28 @@ body {
   width: 100%;
   border-collapse: collapse;
   margin-top: 10px;
+  background: #faf7f0;
+  border: 1px solid #d5cab6;
+  overflow: hidden;
 }
 
 #scores-table th,
 #scores-table td {
   padding: 10px 8px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ddd1bc;
   text-align: left;
 }
 
 #scores-table th {
-  background: #fafafa;
+  background: #ece2cf;
+  color: #2f2a22;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+#scores-table tbody tr:nth-child(even) td {
+  background: #f7f2e8;
 }
 
 #payouts-list {
@@ -155,20 +208,23 @@ body {
 }
 
 .payout-section {
-  border: 1px solid #ddd;
+  border: 1px solid #d3c6b0;
   border-radius: 12px;
   padding: 14px 16px;
-  background: #fafafa;
+  background: #f8f4ec;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.65);
 }
 
 .payout-section-title {
   margin-top: 0;
   margin-bottom: 12px;
-  font-size: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 22px;
+  color: #1f4d2e;
 }
 
 .payout-item {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #e1d8c8;
   padding-top: 10px;
   margin-top: 10px;
 }
@@ -183,6 +239,7 @@ body {
   margin-top: 0;
   margin-bottom: 10px;
   font-size: 16px;
+  color: #3a3329;
 }
 
 .payout-winner {
@@ -195,11 +252,12 @@ body {
 
 .payout-winner strong {
   white-space: nowrap;
+  color: #1f4d2e;
 }
 
 .payout-empty {
   margin: 0;
-  color: #666;
+  color: #6f6a5f;
 }
 
 @media (max-width: 1200px) {
@@ -217,6 +275,14 @@ body {
 @media (max-width: 700px) {
   .wrap {
     padding: 14px;
+  }
+
+  .page-header h1 {
+    font-size: 2.1rem;
+  }
+
+  .section-card h2 {
+    font-size: 1.6rem;
   }
 
   .teams-grid {
