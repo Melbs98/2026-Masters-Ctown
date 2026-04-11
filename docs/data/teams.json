@@ -952,14 +952,14 @@
       {
         "pos": "37",
         "player": "Brian Harman",
-        "score": "+1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "79.0",
         "r2": "69.0",
         "r3": "33.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -1015,7 +1015,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 0,
+    "best3_total": 1,
     "best3_day3_total": null,
     "scores_entered": 10,
     "roster_loaded": 10
@@ -1070,7 +1070,7 @@
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "32.0",
+        "r3": "21.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
