@@ -3,7 +3,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Ludvig Åberg",
         "score": "-3",
         "today": "",
@@ -155,7 +155,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Jacob Bridgeman",
         "score": "-2",
         "today": "",
@@ -181,14 +181,14 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "18",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "70.0",
-        "r3": "54.0",
+        "r3": "59.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Sungjae Im",
         "score": "-2",
         "today": "",
@@ -333,20 +333,20 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "25",
         "player": "Michael Brennan",
-        "score": "-4",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
-        "r3": "61.0",
+        "r3": "66.0",
         "r4": "",
-        "numeric_score": -4,
+        "numeric_score": -3,
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -372,7 +372,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -18,
+    "best3_total": -17,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -381,14 +381,14 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "24",
+        "pos": "23",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
-        "r3": "66.0",
+        "r3": "70.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -520,7 +520,7 @@
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -633,14 +633,14 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
-        "r3": "59.0",
+        "r3": "62.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Sepp Straka",
         "score": "-2",
         "today": "",
@@ -698,16 +698,16 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "24",
         "player": "Nick Taylor",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "67.0",
+        "r3": "70.0",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": -3,
         "day3_total": null
       },
       {
@@ -759,7 +759,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "21",
+        "pos": "20",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Tyrrell Hatton",
         "score": "-3",
         "today": "",
@@ -824,14 +824,14 @@
         "day3_total": null
       },
       {
-        "pos": "20",
+        "pos": "19",
         "player": "Ben Griffin",
         "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "55.0",
+        "r3": "60.0",
         "r4": "",
         "numeric_score": -4,
         "day3_total": null
