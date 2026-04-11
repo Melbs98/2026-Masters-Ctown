@@ -287,6 +287,19 @@
   },
   {
     "pos": "23",
+    "player": "Patrick Cantlay",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "67.0",
+    "r3": "22.0",
+    "r4": "",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "24",
     "player": "Sungjae Im",
     "score": "-1",
     "today": "",
@@ -299,19 +312,6 @@
     "day3_total": null
   },
   {
-    "pos": "24",
-    "player": "Patrick Cantlay",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "67.0",
-    "r3": "19.0",
-    "r4": "",
-    "numeric_score": -1,
-    "day3_total": null
-  },
-  {
     "pos": "25",
     "player": "Russell Henley",
     "score": "-1",
@@ -319,7 +319,7 @@
     "thru": "",
     "r1": "73.0",
     "r2": "71.0",
-    "r3": "15.0",
+    "r3": "19.0",
     "r4": "",
     "numeric_score": -1,
     "day3_total": null
@@ -605,7 +605,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "75.0",
-    "r3": "37.0",
+    "r3": "41.0",
     "r4": "",
     "numeric_score": 3,
     "day3_total": null
@@ -626,14 +626,14 @@
   {
     "pos": "49",
     "player": "Corey Conners",
-    "score": "+3",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "46.0",
+    "r3": "52.0",
     "r4": "",
-    "numeric_score": 3,
+    "numeric_score": 4,
     "day3_total": null
   },
   {
