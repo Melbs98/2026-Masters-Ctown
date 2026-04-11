@@ -29,7 +29,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "45",
         "player": "Si Woo Kim",
         "score": "+4",
         "today": "",
@@ -49,7 +49,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "11.0",
+        "r3": "15.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
@@ -1063,16 +1063,16 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Maverick McNealy",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "70.0",
-        "r3": "16.0",
+        "r3": "21.0",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 4,
         "day3_total": null
       },
       {
@@ -1141,7 +1141,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 4,
+    "best3_total": 5,
     "best3_day3_total": null,
     "scores_entered": 9,
     "roster_loaded": 9
