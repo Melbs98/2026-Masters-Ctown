@@ -27,6 +27,19 @@
   },
   {
     "pos": "3",
+    "player": "Jason Day",
+    "score": "-9",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "71.0",
+    "r3": "56.0",
+    "r4": "",
+    "numeric_score": -9,
+    "day3_total": null
+  },
+  {
+    "pos": "4",
     "player": "Haotong Li",
     "score": "-9",
     "today": "",
@@ -36,19 +49,6 @@
     "r3": "51.0",
     "r4": "",
     "numeric_score": -9,
-    "day3_total": null
-  },
-  {
-    "pos": "4",
-    "player": "Jason Day",
-    "score": "-8",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "71.0",
-    "r3": "52.0",
-    "r4": "",
-    "numeric_score": -8,
     "day3_total": null
   },
   {
