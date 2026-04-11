@@ -287,6 +287,19 @@
   },
   {
     "pos": "23",
+    "player": "Matt Fitzpatrick",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "69.0",
+    "r3": "54.0",
+    "r4": "",
+    "numeric_score": -3,
+    "day3_total": null
+  },
+  {
+    "pos": "24",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -299,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Kristoffer Reitan",
     "score": "-3",
     "today": "",
@@ -312,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "26",
     "player": "Tyrrell Hatton",
     "score": "-3",
     "today": "",
@@ -325,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "27",
     "player": "Sungjae Im",
     "score": "-2",
     "today": "",
@@ -338,7 +351,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "28",
     "player": "Sepp Straka",
     "score": "-2",
     "today": "",
@@ -351,7 +364,7 @@
     "day3_total": null
   },
   {
-    "pos": "28",
+    "pos": "29",
     "player": "Jacob Bridgeman",
     "score": "-2",
     "today": "",
@@ -359,19 +372,6 @@
     "r1": "71.0",
     "r2": "74.0",
     "r3": "69.0",
-    "r4": "",
-    "numeric_score": -2,
-    "day3_total": null
-  },
-  {
-    "pos": "29",
-    "player": "Matt Fitzpatrick",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "69.0",
-    "r3": "51.0",
     "r4": "",
     "numeric_score": -2,
     "day3_total": null
