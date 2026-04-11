@@ -458,14 +458,14 @@
   {
     "pos": "39",
     "player": "Alex Noren",
-    "score": "+3",
+    "score": "+2",
     "today": "",
     "thru": "",
     "r1": "77.0",
     "r2": "71.0",
     "r3": "30.0",
     "r4": "",
-    "numeric_score": 3
+    "numeric_score": 2
   },
   {
     "pos": "40",
@@ -487,7 +487,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "4.0",
+    "r3": "9.0",
     "r4": "",
     "numeric_score": 2
   },
@@ -553,30 +553,18 @@
   },
   {
     "pos": "47",
-    "player": "Viktor Hovland",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "71.0",
-    "r3": "10.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "48",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "74.0",
-    "r3": "10.0",
+    "r3": "14.0",
     "r4": "",
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "48",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -588,7 +576,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "50",
+    "pos": "49",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -600,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "50",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
@@ -612,7 +600,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "51",
     "player": "Sergio García",
     "score": "+4",
     "today": "",
@@ -624,6 +612,18 @@
     "numeric_score": 4
   },
   {
+    "pos": "52",
+    "player": "Viktor Hovland",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "71.0",
+    "r3": "15.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
     "pos": "53",
     "player": "Kurt Kitayama",
     "score": "+6",
@@ -631,7 +631,7 @@
     "thru": "",
     "r1": "69.0",
     "r2": "79.0",
-    "r3": "29.0",
+    "r3": "34.0",
     "r4": "",
     "numeric_score": 6
   },
@@ -643,7 +643,7 @@
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "25.0",
+    "r3": "29.0",
     "r4": "",
     "numeric_score": 6
   },
