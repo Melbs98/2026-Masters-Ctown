@@ -85,7 +85,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "68.0",
-    "r3": "33.0",
+    "r3": "37.0",
     "r4": "",
     "numeric_score": -7,
     "day3_total": null
@@ -183,19 +183,6 @@
   },
   {
     "pos": "15",
-    "player": "Max Homa",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "49.0",
-    "r4": "",
-    "numeric_score": -5,
-    "day3_total": null
-  },
-  {
-    "pos": "16",
     "player": "Ryan Gerard",
     "score": "-4",
     "today": "",
@@ -208,7 +195,7 @@
     "day3_total": null
   },
   {
-    "pos": "17",
+    "pos": "16",
     "player": "Michael Brennan",
     "score": "-4",
     "today": "",
@@ -221,7 +208,7 @@
     "day3_total": null
   },
   {
-    "pos": "18",
+    "pos": "17",
     "player": "Hideki Matsuyama",
     "score": "-4",
     "today": "",
@@ -229,6 +216,19 @@
     "r1": "72.0",
     "r2": "70.0",
     "r3": "59.0",
+    "r4": "",
+    "numeric_score": -4,
+    "day3_total": null
+  },
+  {
+    "pos": "18",
+    "player": "Max Homa",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "54.0",
     "r4": "",
     "numeric_score": -4,
     "day3_total": null
@@ -397,7 +397,7 @@
     "thru": "",
     "r1": "72.0",
     "r2": "68.0",
-    "r3": "42.0",
+    "r3": "46.0",
     "r4": "",
     "numeric_score": -2,
     "day3_total": null
