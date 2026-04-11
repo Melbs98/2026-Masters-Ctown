@@ -457,6 +457,18 @@
   },
   {
     "pos": "39",
+    "player": "Brian Harman",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "69.0",
+    "r3": "14.0",
+    "r4": "",
+    "numeric_score": 2
+  },
+  {
+    "pos": "40",
     "player": "Jon Rahm",
     "score": "+2",
     "today": "",
@@ -468,7 +480,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
@@ -480,7 +492,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -492,7 +504,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Gary Woodland",
     "score": "+2",
     "today": "",
@@ -504,7 +516,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -516,7 +528,7 @@
     "numeric_score": 2
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Adam Scott",
     "score": "+2",
     "today": "",
@@ -528,19 +540,19 @@
     "numeric_score": 2
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Alex Noren",
     "score": "+3",
     "today": "",
     "thru": "",
     "r1": "77.0",
     "r2": "71.0",
-    "r3": "22.0",
+    "r3": "26.0",
     "r4": "",
     "numeric_score": 3
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Si Woo Kim",
     "score": "+3",
     "today": "",
@@ -548,18 +560,6 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "15.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "47",
-    "player": "Brian Harman",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "69.0",
-    "r3": "12.0",
     "r4": "",
     "numeric_score": 3
   },
@@ -631,7 +631,7 @@
     "thru": "",
     "r1": "69.0",
     "r2": "79.0",
-    "r3": "25.0",
+    "r3": "29.0",
     "r4": "",
     "numeric_score": 6
   },
