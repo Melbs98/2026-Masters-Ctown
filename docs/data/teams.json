@@ -29,7 +29,7 @@
         "day3_total": null
       },
       {
-        "pos": "4",
+        "pos": "5",
         "player": "Sam Burns",
         "score": "-8",
         "today": "",
@@ -81,16 +81,16 @@
         "day3_total": null
       },
       {
-        "pos": "5",
+        "pos": "2",
         "player": "Haotong Li",
-        "score": "-7",
+        "score": "-9",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "69.0",
-        "r3": "24.0",
+        "r3": "27.0",
         "r4": "",
-        "numeric_score": -7,
+        "numeric_score": -9,
         "day3_total": null
       },
       {
@@ -120,7 +120,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -21,
+    "best3_total": -23,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -149,7 +149,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
-        "r3": "36.0",
+        "r3": "40.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "3",
+        "pos": "4",
         "player": "Shane Lowry",
         "score": "-8",
         "today": "",
@@ -679,7 +679,7 @@
         "thru": "",
         "r1": "74.0",
         "r2": "66.0",
-        "r3": "24.0",
+        "r3": "28.0",
         "r4": "",
         "numeric_score": -3,
         "day3_total": null
@@ -818,7 +818,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
-        "r3": "21.0",
+        "r3": "25.0",
         "r4": "",
         "numeric_score": -6,
         "day3_total": null
@@ -831,7 +831,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "72.0",
-        "r3": "46.0",
+        "r3": "51.0",
         "r4": "",
         "numeric_score": -2,
         "day3_total": null
@@ -898,7 +898,7 @@
         "day3_total": null
       },
       {
-        "pos": "2",
+        "pos": "3",
         "player": "Cameron Young",
         "score": "-8",
         "today": "",
