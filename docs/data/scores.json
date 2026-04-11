@@ -456,19 +456,6 @@
   },
   {
     "pos": "36",
-    "player": "Jacob Bridgeman",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "74.0",
-    "r3": "19.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "37",
     "player": "Ludvig Åberg",
     "score": "E",
     "today": "",
@@ -481,7 +468,7 @@
     "day3_total": null
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Brian Campbell",
     "score": "E",
     "today": "",
@@ -494,7 +481,7 @@
     "day3_total": null
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Alex Noren",
     "score": "+1",
     "today": "",
@@ -507,7 +494,7 @@
     "day3_total": null
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Brian Harman",
     "score": "+1",
     "today": "",
@@ -515,6 +502,19 @@
     "r1": "79.0",
     "r2": "69.0",
     "r3": "44.0",
+    "r4": "",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "40",
+    "player": "Jacob Bridgeman",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "74.0",
+    "r3": "23.0",
     "r4": "",
     "numeric_score": 1,
     "day3_total": null
@@ -534,6 +534,19 @@
   },
   {
     "pos": "42",
+    "player": "Si Woo Kim",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "73.0",
+    "r3": "50.0",
+    "r4": "",
+    "numeric_score": 2,
+    "day3_total": null
+  },
+  {
+    "pos": "43",
     "player": "Viktor Hovland",
     "score": "+2",
     "today": "",
@@ -546,7 +559,7 @@
     "day3_total": null
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -559,7 +572,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Marco Penge",
     "score": "+2",
     "today": "",
@@ -569,19 +582,6 @@
     "r3": "28.0",
     "r4": "",
     "numeric_score": 2,
-    "day3_total": null
-  },
-  {
-    "pos": "45",
-    "player": "Si Woo Kim",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "73.0",
-    "r3": "46.0",
-    "r4": "",
-    "numeric_score": 3,
     "day3_total": null
   },
   {
@@ -644,7 +644,7 @@
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
-    "r3": "47.0",
+    "r3": "52.0",
     "r4": "",
     "numeric_score": 4,
     "day3_total": null
