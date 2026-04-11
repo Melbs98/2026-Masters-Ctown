@@ -66,6 +66,19 @@
   },
   {
     "pos": "6",
+    "player": "Haotong Li",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "8.0",
+    "r4": "",
+    "numeric_score": -5,
+    "day3_total": null
+  },
+  {
+    "pos": "7",
     "player": "Tommy Fleetwood",
     "score": "-5",
     "today": "",
@@ -78,7 +91,7 @@
     "day3_total": null
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Justin Rose",
     "score": "-5",
     "today": "",
@@ -91,7 +104,7 @@
     "day3_total": null
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Shane Lowry",
     "score": "-5",
     "today": "",
@@ -104,7 +117,7 @@
     "day3_total": null
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Hideki Matsuyama",
     "score": "-4",
     "today": "",
@@ -117,7 +130,7 @@
     "day3_total": null
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Max Homa",
     "score": "-4",
     "today": "",
@@ -130,7 +143,7 @@
     "day3_total": null
   },
   {
-    "pos": "11",
+    "pos": "12",
     "player": "Chris Gotterup",
     "score": "-4",
     "today": "",
@@ -143,7 +156,7 @@
     "day3_total": null
   },
   {
-    "pos": "12",
+    "pos": "13",
     "player": "Jason Day",
     "score": "-4",
     "today": "",
@@ -156,7 +169,7 @@
     "day3_total": null
   },
   {
-    "pos": "13",
+    "pos": "14",
     "player": "Kristoffer Reitan",
     "score": "-4",
     "today": "",
@@ -169,26 +182,13 @@
     "day3_total": null
   },
   {
-    "pos": "14",
+    "pos": "15",
     "player": "Tyrrell Hatton",
     "score": "-4",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "66.0",
-    "r3": "4.0",
-    "r4": "",
-    "numeric_score": -4,
-    "day3_total": null
-  },
-  {
-    "pos": "15",
-    "player": "Haotong Li",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
     "r3": "4.0",
     "r4": "",
     "numeric_score": -4,
@@ -618,7 +618,7 @@
     "thru": "",
     "r1": "71.0",
     "r2": "75.0",
-    "r3": "66.0",
+    "r3": "70.0",
     "r4": "",
     "numeric_score": 4,
     "day3_total": null
