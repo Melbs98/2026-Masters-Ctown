@@ -16,9 +16,30 @@ ALIASES = {
     "johnny keefer": "john keefer",
 }
 
+# Add every player who missed the cut here
+STATIC_CUT_PLAYERS = {
+    "Daniel Berger",
+    "Aldrich Potgieter",
+    "Max Greyserman",
+    "Mason Howell",
+    "Jackson Herrington",
+    "Ryan Fox",
+    "Danny Willett",
+    "Bubba Watson",
+    "J.J. Spaun",
+    "Nicolai Hojgaard",
+    "Bryson DeChambeau",
+    "Zach Johnson",
+    "Akshay Bhatia",
+    "Robert MacIntyre",
+    "Rasmus Neergaard-Petersen",
+    "Harry Hall",
+}
+
 def normalize_player_name(name):
     if name is None:
         return ""
+
     text = str(name).strip()
     text = re.sub(r"\s*\((a|A)\)\s*", "", text)
     text = unicodedata.normalize("NFKD", text)
@@ -26,6 +47,8 @@ def normalize_player_name(name):
     text = text.lower().strip()
     text = re.sub(r"\s+", " ", text)
     return ALIASES.get(text, text)
+
+STATIC_CUT_PLAYERS_NORMALIZED = {normalize_player_name(name) for name in STATIC_CUT_PLAYERS}
 
 def normalize_score_display(pos, score, thru, today):
     pos_text = "" if pos is None else str(pos).strip().upper()
@@ -47,6 +70,7 @@ def score_to_number(value):
         return None
 
     text = str(value).strip().upper()
+
     if text in {"E", "(E)"}:
         return 0
     if text in {"CUT", "WD", "DQ"}:
@@ -141,6 +165,7 @@ def main():
     for row in draft_ws.iter_rows(min_row=2, max_row=draft_ws.max_row, min_col=1, max_col=5, values_only=True):
         team = row[3]
         player = row[4]
+
         if not team or not player:
             continue
 
@@ -159,8 +184,13 @@ def main():
             continue
 
         lookup_name = normalize_player_name(player)
-        display_score = normalize_score_display(pos, score, thru, today)
-        numeric_score = score_to_number(display_score)
+
+        if lookup_name in STATIC_CUT_PLAYERS_NORMALIZED:
+            display_score = "CUT"
+            numeric_score = None
+        else:
+            display_score = normalize_score_display(pos, score, thru, today)
+            numeric_score = score_to_number(display_score)
 
         r1 = round_score_to_number(row[col["R1"]])
         r2 = round_score_to_number(row[col["R2"]])
