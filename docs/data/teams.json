@@ -55,7 +55,7 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Adam Scott",
         "score": "+2",
         "today": "",
@@ -68,7 +68,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "28",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -129,7 +129,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Patrick Cantlay",
         "score": "E",
         "today": "",
@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Alex Noren",
         "score": "+3",
         "today": "",
@@ -433,16 +433,16 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "24",
         "player": "Matt McCarty",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "4.0",
+        "r3": "8.0",
         "r4": "",
-        "numeric_score": 1,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -507,7 +507,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Scottie Scheffler",
         "score": "E",
         "today": "",
@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Ryan Gerard",
         "score": "E",
         "today": "",
@@ -585,7 +585,7 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -724,7 +724,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -785,7 +785,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Sepp Straka",
         "score": "+1",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "27",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -1050,7 +1050,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "29",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
@@ -1076,7 +1076,7 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Marco Penge",
         "score": "+1",
         "today": "",
@@ -1150,7 +1150,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Jon Rahm",
         "score": "+3",
         "today": "",
@@ -1196,7 +1196,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "18.0",
+        "r3": "22.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
@@ -1228,16 +1228,16 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "45",
         "player": "Sam Stevens",
-        "score": "+2",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "9.0",
+        "r3": "14.0",
         "r4": "",
-        "numeric_score": 2,
+        "numeric_score": 3,
         "day3_total": null
       },
       {
@@ -1267,7 +1267,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 9,
+    "best3_total": 10,
     "best3_day3_total": null,
     "scores_entered": 9,
     "roster_loaded": 9
