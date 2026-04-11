@@ -287,6 +287,45 @@
   },
   {
     "pos": "23",
+    "player": "Russell Henley",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "12.0",
+    "r4": "",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "24",
+    "player": "Harris English",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "8.0",
+    "r4": "",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "25",
+    "player": "Ryan Gerard",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "72.0",
+    "r3": "8.0",
+    "r4": "",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "26",
     "player": "Matt Fitzpatrick",
     "score": "-1",
     "today": "",
@@ -299,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "27",
     "player": "Collin Morikawa",
     "score": "-1",
     "today": "",
@@ -312,7 +351,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "28",
     "player": "Michael Brennan",
     "score": "-1",
     "today": "",
@@ -325,7 +364,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "29",
     "player": "Nick Taylor",
     "score": "-1",
     "today": "",
@@ -338,7 +377,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "30",
     "player": "Keegan Bradley",
     "score": "E",
     "today": "",
@@ -351,7 +390,7 @@
     "day3_total": null
   },
   {
-    "pos": "28",
+    "pos": "31",
     "player": "Matt McCarty",
     "score": "E",
     "today": "",
@@ -364,7 +403,7 @@
     "day3_total": null
   },
   {
-    "pos": "29",
+    "pos": "32",
     "player": "Jordan Spieth",
     "score": "E",
     "today": "",
@@ -377,7 +416,7 @@
     "day3_total": null
   },
   {
-    "pos": "30",
+    "pos": "33",
     "player": "Jacob Bridgeman",
     "score": "E",
     "today": "",
@@ -390,52 +429,13 @@
     "day3_total": null
   },
   {
-    "pos": "31",
-    "player": "Russell Henley",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "9.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "32",
+    "pos": "34",
     "player": "Ludvig Åberg",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "74.0",
     "r2": "70.0",
-    "r3": "4.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "33",
-    "player": "Harris English",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "8.0",
-    "r4": "",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "34",
-    "player": "Ryan Gerard",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "72.0",
     "r3": "4.0",
     "r4": "",
     "numeric_score": 0,
@@ -644,7 +644,7 @@
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
-    "r3": "44.0",
+    "r3": "47.0",
     "r4": "",
     "numeric_score": 4,
     "day3_total": null
