@@ -42,7 +42,7 @@
         "day3_total": null
       },
       {
-        "pos": "49",
+        "pos": "50",
         "player": "Gary Woodland",
         "score": "+3",
         "today": "",
@@ -175,13 +175,13 @@
         "thru": "",
         "r1": "77.0",
         "r2": "67.0",
-        "r3": "22.0",
+        "r3": "26.0",
         "r4": "",
         "numeric_score": -1,
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
@@ -194,16 +194,16 @@
         "day3_total": null
       },
       {
-        "pos": "50",
+        "pos": "47",
         "player": "Rasmus Højgaard",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "61.0",
+        "r3": "63.0",
         "r4": "",
-        "numeric_score": 4,
+        "numeric_score": 3,
         "day3_total": null
       },
       {
@@ -394,27 +394,27 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "22",
         "player": "Jordan Spieth",
         "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "30.0",
+        "r3": "34.0",
         "r4": "",
         "numeric_score": -1,
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "39",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "38.0",
+        "r3": "43.0",
         "r4": "",
         "numeric_score": 0,
         "day3_total": null
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
@@ -598,7 +598,7 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Brian Campbell",
         "score": "E",
         "today": "",
@@ -711,7 +711,7 @@
         "day3_total": null
       },
       {
-        "pos": "48",
+        "pos": "49",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -785,7 +785,7 @@
         "day3_total": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Corey Conners",
         "score": "+3",
         "today": "",
@@ -1135,7 +1135,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "66.0",
+        "r3": "69.0",
         "r4": "",
         "numeric_score": 9,
         "day3_total": null
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
