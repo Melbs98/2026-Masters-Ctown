@@ -535,7 +535,7 @@
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
-    "r3": "19.0",
+    "r3": "22.0",
     "r4": "",
     "numeric_score": 3
   },
@@ -553,18 +553,6 @@
   },
   {
     "pos": "47",
-    "player": "Sergio García",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "75.0",
-    "r3": "13.0",
-    "r4": "",
-    "numeric_score": 3
-  },
-  {
-    "pos": "48",
     "player": "Viktor Hovland",
     "score": "+3",
     "today": "",
@@ -576,7 +564,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "49",
+    "pos": "48",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
@@ -588,7 +576,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "50",
+    "pos": "49",
     "player": "Rasmus Højgaard",
     "score": "+4",
     "today": "",
@@ -600,7 +588,7 @@
     "numeric_score": 4
   },
   {
-    "pos": "51",
+    "pos": "50",
     "player": "Si Woo Kim",
     "score": "+4",
     "today": "",
@@ -612,14 +600,26 @@
     "numeric_score": 4
   },
   {
-    "pos": "52",
+    "pos": "51",
     "player": "Corey Conners",
     "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
-    "r3": "16.0",
+    "r3": "20.0",
+    "r4": "",
+    "numeric_score": 4
+  },
+  {
+    "pos": "52",
+    "player": "Sergio García",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "75.0",
+    "r3": "17.0",
     "r4": "",
     "numeric_score": 4
   },
