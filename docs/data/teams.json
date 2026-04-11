@@ -29,14 +29,14 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Si Woo Kim",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "23.0",
+        "r3": "27.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
@@ -585,7 +585,7 @@
         "day3_total": null
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Sergio García",
         "score": "+4",
         "today": "",
@@ -1157,7 +1157,7 @@
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "22.0",
+        "r3": "26.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
@@ -1176,29 +1176,29 @@
         "day3_total": null
       },
       {
-        "pos": "49",
+        "pos": "48",
         "player": "Viktor Hovland",
         "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "71.0",
-        "r3": "15.0",
+        "r3": "18.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "49",
         "player": "Keegan Bradley",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "14.0",
+        "r3": "18.0",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 4,
         "day3_total": null
       },
       {
@@ -1267,7 +1267,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 8,
+    "best3_total": 9,
     "best3_day3_total": null,
     "scores_entered": 9,
     "roster_loaded": 9
