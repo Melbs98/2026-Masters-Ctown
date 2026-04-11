@@ -36,7 +36,7 @@
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
-        "r3": "27.0",
+        "r3": "32.0",
         "r4": "",
         "numeric_score": 4,
         "day3_total": null
@@ -62,7 +62,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "9.0",
+        "r3": "13.0",
         "r4": "",
         "numeric_score": 2,
         "day3_total": null
@@ -181,16 +181,16 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "45",
         "player": "Alex Noren",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "71.0",
-        "r3": "35.0",
+        "r3": "40.0",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 4,
         "day3_total": null
       },
       {
@@ -585,7 +585,7 @@
         "day3_total": null
       },
       {
-        "pos": "44",
+        "pos": "43",
         "player": "Sergio García",
         "score": "+3",
         "today": "",
@@ -1150,14 +1150,14 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Jon Rahm",
         "score": "+3",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
-        "r3": "26.0",
+        "r3": "31.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
@@ -1209,7 +1209,7 @@
         "thru": "",
         "r1": "69.0",
         "r2": "79.0",
-        "r3": "38.0",
+        "r3": "42.0",
         "r4": "",
         "numeric_score": 6,
         "day3_total": null
@@ -1228,7 +1228,7 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "44",
         "player": "Sam Stevens",
         "score": "+3",
         "today": "",
