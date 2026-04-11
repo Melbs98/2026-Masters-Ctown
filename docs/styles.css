@@ -143,19 +143,37 @@ body {
 
 #payouts-list {
   display: grid;
-  gap: 12px;
+  gap: 16px;
+}
+
+.payout-section {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 14px 16px;
+  background: #fafafa;
+}
+
+.payout-section-title {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 20px;
 }
 
 .payout-item {
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 12px 16px;
-  background: #fafafa;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.payout-item:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
 }
 
 .payout-item h3 {
   margin-top: 0;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   font-size: 16px;
 }
 
@@ -169,4 +187,9 @@ body {
 
 .payout-winner strong {
   white-space: nowrap;
+}
+
+.payout-empty {
+  margin: 0;
+  color: #666;
 }
