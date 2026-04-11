@@ -529,6 +529,18 @@
   },
   {
     "pos": "45",
+    "player": "Alex Noren",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "71.0",
+    "r3": "15.0",
+    "r4": "",
+    "numeric_score": 3
+  },
+  {
+    "pos": "46",
     "player": "Jon Rahm",
     "score": "+3",
     "today": "",
@@ -540,7 +552,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Maverick McNealy",
     "score": "+3",
     "today": "",
@@ -552,7 +564,7 @@
     "numeric_score": 3
   },
   {
-    "pos": "47",
+    "pos": "48",
     "player": "Sergio García",
     "score": "+3",
     "today": "",
@@ -562,18 +574,6 @@
     "r3": "0.0",
     "r4": "",
     "numeric_score": 3
-  },
-  {
-    "pos": "48",
-    "player": "Alex Noren",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "77.0",
-    "r2": "71.0",
-    "r3": "13.0",
-    "r4": "",
-    "numeric_score": 4
   },
   {
     "pos": "49",
