@@ -664,19 +664,6 @@
   },
   {
     "pos": "52",
-    "player": "Kurt Kitayama",
-    "score": "+6",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "79.0",
-    "r3": "42.0",
-    "r4": "",
-    "numeric_score": 6,
-    "day3_total": null
-  },
-  {
-    "pos": "53",
     "player": "Rasmus Højgaard",
     "score": "+6",
     "today": "",
@@ -689,7 +676,7 @@
     "day3_total": null
   },
   {
-    "pos": "54",
+    "pos": "53",
     "player": "Charl Schwartzel",
     "score": "+6",
     "today": "",
@@ -699,6 +686,19 @@
     "r3": "38.0",
     "r4": "",
     "numeric_score": 6,
+    "day3_total": null
+  },
+  {
+    "pos": "54",
+    "player": "Kurt Kitayama",
+    "score": "+8",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "79.0",
+    "r3": "48.0",
+    "r4": "",
+    "numeric_score": 8,
     "day3_total": null
   },
   {
