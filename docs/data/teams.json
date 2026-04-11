@@ -129,7 +129,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "29",
+        "pos": "30",
         "player": "Ludvig Åberg",
         "score": "E",
         "today": "",
@@ -394,16 +394,16 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Jordan Spieth",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "12.0",
+        "r3": "16.0",
         "r4": "",
-        "numeric_score": 0,
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -433,14 +433,14 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "25",
         "player": "Matt McCarty",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
-        "r3": "15.0",
+        "r3": "19.0",
         "r4": "",
         "numeric_score": 0,
         "day3_total": null
@@ -792,13 +792,13 @@
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "11.0",
+        "r3": "14.0",
         "r4": "",
         "numeric_score": -1,
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "31",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Brian Harman",
         "score": "+1",
         "today": "",
@@ -1050,14 +1050,14 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "29",
         "player": "Russell Henley",
         "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 0,
         "day3_total": null
@@ -1076,7 +1076,7 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Marco Penge",
         "score": "E",
         "today": "",
@@ -1235,7 +1235,7 @@
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
-        "r3": "21.0",
+        "r3": "24.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
