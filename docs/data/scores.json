@@ -437,7 +437,7 @@
     "r1": "72.0",
     "r2": "73.0",
     "r3": "72.0",
-    "r4": "34.0",
+    "r4": "38.0",
     "numeric_score": -1,
     "day3_total": null
   },
@@ -450,7 +450,7 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "70.0",
-    "r4": "22.0",
+    "r4": "26.0",
     "numeric_score": -1,
     "day3_total": null
   },
@@ -495,6 +495,19 @@
   },
   {
     "pos": "39",
+    "player": "Brian Harman",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "79.0",
+    "r2": "69.0",
+    "r3": "67.0",
+    "r4": "21.0",
+    "numeric_score": 0,
+    "day3_total": null
+  },
+  {
+    "pos": "40",
     "player": "Harris English",
     "score": "E",
     "today": "",
@@ -503,19 +516,6 @@
     "r2": "71.0",
     "r3": "71.0",
     "r4": "21.0",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "40",
-    "player": "Brian Harman",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "79.0",
-    "r2": "69.0",
-    "r3": "67.0",
-    "r4": "17.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -573,19 +573,6 @@
   },
   {
     "pos": "45",
-    "player": "Marco Penge",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "71.0",
-    "r4": "24.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "46",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -598,7 +585,7 @@
     "day3_total": null
   },
   {
-    "pos": "47",
+    "pos": "46",
     "player": "Sam Stevens",
     "score": "+2",
     "today": "",
@@ -611,16 +598,29 @@
     "day3_total": null
   },
   {
+    "pos": "47",
+    "player": "Marco Penge",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "71.0",
+    "r4": "30.0",
+    "numeric_score": 3,
+    "day3_total": null
+  },
+  {
     "pos": "48",
     "player": "Si Woo Kim",
-    "score": "+3",
+    "score": "+4",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
     "r3": "72.0",
-    "r4": "43.0",
-    "numeric_score": 3,
+    "r4": "47.0",
+    "numeric_score": 4,
     "day3_total": null
   },
   {
@@ -684,7 +684,7 @@
     "r1": "78.0",
     "r2": "70.0",
     "r3": "73.0",
-    "r4": "47.0",
+    "r4": "50.0",
     "numeric_score": 8,
     "day3_total": null
   },
