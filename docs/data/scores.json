@@ -21,7 +21,7 @@
     "r1": "67.0",
     "r2": "65.0",
     "r3": "73.0",
-    "r4": "4.0",
+    "r4": "9.0",
     "numeric_score": -11,
     "day3_total": null
   },
@@ -47,7 +47,7 @@
     "r1": "70.0",
     "r2": "69.0",
     "r3": "68.0",
-    "r4": "9.0",
+    "r4": "13.0",
     "numeric_score": -9,
     "day3_total": null
   },
@@ -118,19 +118,6 @@
   },
   {
     "pos": "10",
-    "player": "Tyrrell Hatton",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "66.0",
-    "r3": "72.0",
-    "r4": "33.0",
-    "numeric_score": -7,
-    "day3_total": null
-  },
-  {
-    "pos": "11",
     "player": "Patrick Cantlay",
     "score": "-7",
     "today": "",
@@ -143,7 +130,7 @@
     "day3_total": null
   },
   {
-    "pos": "12",
+    "pos": "11",
     "player": "Hideki Matsuyama",
     "score": "-6",
     "today": "",
@@ -156,7 +143,7 @@
     "day3_total": null
   },
   {
-    "pos": "13",
+    "pos": "12",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -165,6 +152,19 @@
     "r2": "70.0",
     "r3": "69.0",
     "r4": "37.0",
+    "numeric_score": -6,
+    "day3_total": null
+  },
+  {
+    "pos": "13",
+    "player": "Tyrrell Hatton",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "66.0",
+    "r3": "72.0",
+    "r4": "38.0",
     "numeric_score": -6,
     "day3_total": null
   },
@@ -411,7 +411,7 @@
     "r1": "71.0",
     "r2": "68.0",
     "r3": "73.0",
-    "r4": "38.0",
+    "r4": "42.0",
     "numeric_score": -2,
     "day3_total": null
   },
