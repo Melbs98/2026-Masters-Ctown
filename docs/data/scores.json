@@ -651,19 +651,6 @@
   },
   {
     "pos": "51",
-    "player": "Sergio García",
-    "score": "+7",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "75.0",
-    "r3": "74.0",
-    "r4": "15.0",
-    "numeric_score": 7,
-    "day3_total": null
-  },
-  {
-    "pos": "52",
     "player": "Aaron Rai",
     "score": "+8",
     "today": "",
@@ -672,6 +659,19 @@
     "r2": "74.0",
     "r3": "78.0",
     "r4": "21.0",
+    "numeric_score": 8,
+    "day3_total": null
+  },
+  {
+    "pos": "52",
+    "player": "Sergio García",
+    "score": "+8",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "75.0",
+    "r3": "74.0",
+    "r4": "19.0",
     "numeric_score": 8,
     "day3_total": null
   },
@@ -691,14 +691,14 @@
   {
     "pos": "54",
     "player": "Charl Schwartzel",
-    "score": "+13",
+    "score": "+12",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "73.0",
     "r3": "77.0",
-    "r4": "24.0",
-    "numeric_score": 13,
+    "r4": "26.0",
+    "numeric_score": 12,
     "day3_total": null
   },
   {
