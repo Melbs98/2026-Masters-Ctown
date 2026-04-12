@@ -42,16 +42,16 @@
         "day3_total": null
       },
       {
-        "pos": "12",
+        "pos": "22",
         "player": "Shane Lowry",
-        "score": "-6",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "43.0",
-        "numeric_score": -6,
+        "r4": "49.0",
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -120,7 +120,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -23,
+    "best3_total": -21,
     "best3_day3_total": null,
     "scores_entered": 7,
     "roster_loaded": 9
@@ -268,7 +268,7 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "13",
         "player": "Hideki Matsuyama",
         "score": "-5",
         "today": "",
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "12",
         "player": "Jordan Spieth",
         "score": "-5",
         "today": "",
@@ -541,7 +541,7 @@
         "r1": "69.0",
         "r2": "71.0",
         "r3": "68.0",
-        "r4": "47.0",
+        "r4": "50.0",
         "numeric_score": -5,
         "day3_total": null
       },
@@ -646,7 +646,7 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Brooks Koepka",
         "score": "-5",
         "today": "",
@@ -711,7 +711,7 @@
         "day3_total": null
       },
       {
-        "pos": "22",
+        "pos": "21",
         "player": "Haotong Li",
         "score": "-4",
         "today": "",
@@ -772,16 +772,16 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "15",
         "player": "Patrick Reed",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "69.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "58.0",
-        "numeric_score": -4,
+        "r4": "62.0",
+        "numeric_score": -5,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -15,
+    "best3_total": -16,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
