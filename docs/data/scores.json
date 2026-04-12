@@ -40,6 +40,19 @@
   },
   {
     "pos": "4",
+    "player": "Scottie Scheffler",
+    "score": "-9",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "74.0",
+    "r3": "65.0",
+    "r4": "11.0",
+    "numeric_score": -9,
+    "day3_total": null
+  },
+  {
+    "pos": "5",
     "player": "Justin Rose",
     "score": "-9",
     "today": "",
@@ -52,7 +65,7 @@
     "day3_total": null
   },
   {
-    "pos": "5",
+    "pos": "6",
     "player": "Russell Henley",
     "score": "-8",
     "today": "",
@@ -65,20 +78,20 @@
     "day3_total": null
   },
   {
-    "pos": "6",
-    "player": "Scottie Scheffler",
+    "pos": "7",
+    "player": "Haotong Li",
     "score": "-8",
     "today": "",
     "thru": "",
-    "r1": "70.0",
-    "r2": "74.0",
-    "r3": "65.0",
-    "r4": "8.0",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "12.0",
     "numeric_score": -8,
     "day3_total": null
   },
   {
-    "pos": "7",
+    "pos": "8",
     "player": "Jason Day",
     "score": "-8",
     "today": "",
@@ -86,12 +99,12 @@
     "r1": "69.0",
     "r2": "71.0",
     "r3": "68.0",
-    "r4": "4.0",
+    "r4": "9.0",
     "numeric_score": -8,
     "day3_total": null
   },
   {
-    "pos": "8",
+    "pos": "9",
     "player": "Shane Lowry",
     "score": "-8",
     "today": "",
@@ -104,7 +117,7 @@
     "day3_total": null
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Tyrrell Hatton",
     "score": "-7",
     "today": "",
@@ -117,7 +130,7 @@
     "day3_total": null
   },
   {
-    "pos": "10",
+    "pos": "11",
     "player": "Patrick Cantlay",
     "score": "-7",
     "today": "",
@@ -125,25 +138,25 @@
     "r1": "77.0",
     "r2": "67.0",
     "r3": "66.0",
-    "r4": "12.0",
-    "numeric_score": -7,
-    "day3_total": null
-  },
-  {
-    "pos": "11",
-    "player": "Haotong Li",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "9.0",
+    "r4": "15.0",
     "numeric_score": -7,
     "day3_total": null
   },
   {
     "pos": "12",
+    "player": "Hideki Matsuyama",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "72.0",
+    "r4": "52.0",
+    "numeric_score": -6,
+    "day3_total": null
+  },
+  {
+    "pos": "13",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -153,19 +166,6 @@
     "r3": "69.0",
     "r4": "33.0",
     "numeric_score": -6,
-    "day3_total": null
-  },
-  {
-    "pos": "13",
-    "player": "Hideki Matsuyama",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "72.0",
-    "r4": "49.0",
-    "numeric_score": -5,
     "day3_total": null
   },
   {
@@ -352,6 +352,19 @@
   },
   {
     "pos": "28",
+    "player": "Sam Stevens",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "70.0",
+    "r4": "62.0",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "29",
     "player": "Chris Gotterup",
     "score": "-2",
     "today": "",
@@ -364,7 +377,7 @@
     "day3_total": null
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Brian Campbell",
     "score": "-2",
     "today": "",
@@ -377,7 +390,7 @@
     "day3_total": null
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -390,7 +403,7 @@
     "day3_total": null
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Wyndham Clark",
     "score": "-2",
     "today": "",
@@ -403,7 +416,7 @@
     "day3_total": null
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -416,19 +429,6 @@
     "day3_total": null
   },
   {
-    "pos": "33",
-    "player": "Sam Stevens",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "70.0",
-    "r4": "60.0",
-    "numeric_score": -1,
-    "day3_total": null
-  },
-  {
     "pos": "34",
     "player": "Harris English",
     "score": "-1",
@@ -437,25 +437,12 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "71.0",
-    "r4": "61.0",
+    "r4": "64.0",
     "numeric_score": -1,
     "day3_total": null
   },
   {
     "pos": "35",
-    "player": "Nick Taylor",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "72.0",
-    "r3": "70.0",
-    "r4": "38.0",
-    "numeric_score": -1,
-    "day3_total": null
-  },
-  {
-    "pos": "36",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -468,7 +455,7 @@
     "day3_total": null
   },
   {
-    "pos": "37",
+    "pos": "36",
     "player": "Gary Woodland",
     "score": "E",
     "today": "",
@@ -481,7 +468,7 @@
     "day3_total": null
   },
   {
-    "pos": "38",
+    "pos": "37",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -494,7 +481,7 @@
     "day3_total": null
   },
   {
-    "pos": "39",
+    "pos": "38",
     "player": "Brian Harman",
     "score": "E",
     "today": "",
@@ -503,6 +490,19 @@
     "r2": "69.0",
     "r3": "67.0",
     "r4": "57.0",
+    "numeric_score": 0,
+    "day3_total": null
+  },
+  {
+    "pos": "39",
+    "player": "Nick Taylor",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "72.0",
+    "r3": "70.0",
+    "r4": "43.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -625,19 +625,6 @@
   },
   {
     "pos": "49",
-    "player": "Marco Penge",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "76.0",
-    "r2": "69.0",
-    "r3": "71.0",
-    "r4": "69.0",
-    "numeric_score": 5,
-    "day3_total": null
-  },
-  {
-    "pos": "50",
     "player": "Corey Conners",
     "score": "+6",
     "today": "",
@@ -646,6 +633,19 @@
     "r2": "73.0",
     "r3": "71.0",
     "r4": "75.0",
+    "numeric_score": 6,
+    "day3_total": null
+  },
+  {
+    "pos": "50",
+    "player": "Marco Penge",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "76.0",
+    "r2": "69.0",
+    "r3": "71.0",
+    "r4": "74.0",
     "numeric_score": 6,
     "day3_total": null
   },
