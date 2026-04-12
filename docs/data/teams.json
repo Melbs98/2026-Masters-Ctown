@@ -3,20 +3,20 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "16",
+        "pos": "13",
         "player": "Ludvig Åberg",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "70.0",
         "r3": "69.0",
-        "r4": "3.0",
-        "numeric_score": -4,
+        "r4": "7.0",
+        "numeric_score": -5,
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "17",
         "player": "Brooks Koepka",
         "score": "-4",
         "today": "",
@@ -24,7 +24,7 @@
         "r1": "72.0",
         "r2": "69.0",
         "r3": "71.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -4,
         "day3_total": null
       },
@@ -194,7 +194,7 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Ryan Gerard",
         "score": "-4",
         "today": "",
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Jake Knapp",
         "score": "-5",
         "today": "",
@@ -633,7 +633,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Tommy Fleetwood",
         "score": "-4",
         "today": "",
@@ -667,12 +667,12 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "71.0",
-        "r4": "48.0",
+        "r4": "51.0",
         "numeric_score": 5,
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Tyrrell Hatton",
         "score": "-4",
         "today": "",
@@ -698,7 +698,7 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
@@ -759,7 +759,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
@@ -772,7 +772,7 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Collin Morikawa",
         "score": "-5",
         "today": "",
