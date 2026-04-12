@@ -190,7 +190,7 @@
     "r1": "70.0",
     "r2": "72.0",
     "r3": "70.0",
-    "r4": "22.0",
+    "r4": "26.0",
     "numeric_score": -5,
     "day3_total": null
   },
@@ -294,7 +294,7 @@
     "r1": "72.0",
     "r2": "69.0",
     "r3": "70.0",
-    "r4": "21.0",
+    "r4": "24.0",
     "numeric_score": -4,
     "day3_total": null
   },
@@ -587,14 +587,14 @@
   {
     "pos": "46",
     "player": "Kristoffer Reitan",
-    "score": "+2",
+    "score": "+3",
     "today": "",
     "thru": "",
     "r1": "72.0",
     "r2": "68.0",
     "r3": "73.0",
-    "r4": "45.0",
-    "numeric_score": 2,
+    "r4": "50.0",
+    "numeric_score": 3,
     "day3_total": null
   },
   {
