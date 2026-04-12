@@ -294,7 +294,7 @@
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Sungjae Im",
         "score": "E",
         "today": "",
@@ -322,14 +322,14 @@
       {
         "pos": "50",
         "player": "Aaron Rai",
-        "score": "+6",
+        "score": "+5",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "78.0",
-        "r4": "60.0",
-        "numeric_score": 6,
+        "r4": "62.0",
+        "numeric_score": 5,
         "day3_total": null
       },
       {
@@ -420,7 +420,7 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Gary Woodland",
         "score": "+1",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Justin Thomas",
         "score": "+3",
         "today": "",
@@ -798,16 +798,16 @@
         "day3_total": null
       },
       {
-        "pos": "44",
+        "pos": "39",
         "player": "Harris English",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "25.0",
-        "numeric_score": 1,
+        "r4": "28.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
@@ -1076,16 +1076,16 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "46",
         "player": "Marco Penge",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "69.0",
         "r3": "71.0",
-        "r4": "30.0",
-        "numeric_score": 3,
+        "r4": "34.0",
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -1130,18 +1130,18 @@
       {
         "pos": "54",
         "player": "Charl Schwartzel",
-        "score": "+12",
+        "score": "+11",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "77.0",
-        "r4": "64.0",
-        "numeric_score": 12,
+        "r4": "66.0",
+        "numeric_score": 11,
         "day3_total": null
       }
     ],
-    "best3_total": -5,
+    "best3_total": -6,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
@@ -1150,7 +1150,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Jon Rahm",
         "score": "+1",
         "today": "",
@@ -1189,7 +1189,7 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "44",
         "player": "Keegan Bradley",
         "score": "+1",
         "today": "",
@@ -1230,14 +1230,14 @@
       {
         "pos": "45",
         "player": "Sam Stevens",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
-        "r4": "25.0",
-        "numeric_score": 2,
+        "r4": "28.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
