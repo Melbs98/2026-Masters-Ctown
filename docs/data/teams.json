@@ -11,21 +11,21 @@
         "r1": "70.0",
         "r2": "74.0",
         "r3": "65.0",
-        "r4": "30.0",
+        "r4": "34.0",
         "numeric_score": -9,
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "30",
         "player": "Chris Gotterup",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "68.0",
-        "numeric_score": -3,
+        "r4": "73.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -42,7 +42,7 @@
         "day3_total": null
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Shane Lowry",
         "score": "-6",
         "today": "",
@@ -76,7 +76,7 @@
         "r1": "72.0",
         "r2": "72.0",
         "r3": "68.0",
-        "r4": "53.0",
+        "r4": "58.0",
         "numeric_score": 2,
         "day3_total": null
       },
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -207,7 +207,7 @@
         "day3_total": null
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Haotong Li",
         "score": "-6",
         "today": "",
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "14",
         "player": "Hideki Matsuyama",
         "score": "-5",
         "today": "",
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Adam Scott",
         "score": "-2",
         "today": "",
@@ -520,7 +520,7 @@
         "day3_total": null
       },
       {
-        "pos": "12",
+        "pos": "13",
         "player": "Jordan Spieth",
         "score": "-5",
         "today": "",
@@ -559,7 +559,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Matt McCarty",
         "score": "-2",
         "today": "",
@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Ben Griffin",
         "score": "-3",
         "today": "",
@@ -759,16 +759,16 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "14",
+        "pos": "9",
         "player": "Xander Schauffele",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
         "r3": "70.0",
-        "r4": "46.0",
-        "numeric_score": -5,
+        "r4": "50.0",
+        "numeric_score": -6,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -12,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -963,7 +963,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Sam Stevens",
         "score": "-2",
         "today": "",
