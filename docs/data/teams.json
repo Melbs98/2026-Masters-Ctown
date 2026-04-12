@@ -3,7 +3,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "5",
+        "pos": "4",
         "player": "Scottie Scheffler",
         "score": "-9",
         "today": "",
@@ -16,7 +16,7 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -50,7 +50,7 @@
         "r1": "70.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "26.0",
+        "r4": "30.0",
         "numeric_score": -6,
         "day3_total": null
       },
@@ -142,16 +142,16 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "23",
         "player": "Brooks Koepka",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
         "r3": "71.0",
-        "r4": "48.0",
-        "numeric_score": -3,
+        "r4": "52.0",
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -163,7 +163,7 @@
         "r1": "67.0",
         "r2": "71.0",
         "r3": "68.0",
-        "r4": "25.0",
+        "r4": "29.0",
         "numeric_score": -8,
         "day3_total": null
       },
@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -381,16 +381,16 @@
     "team": "Gregg & Brekken",
     "golfers": [
       {
-        "pos": "4",
+        "pos": "5",
         "player": "Rory McIlroy",
-        "score": "-10",
+        "score": "-9",
         "today": "",
         "thru": "",
         "r1": "67.0",
         "r2": "65.0",
         "r3": "73.0",
-        "r4": "21.0",
-        "numeric_score": -10,
+        "r4": "25.0",
+        "numeric_score": -9,
         "day3_total": null
       },
       {
@@ -498,7 +498,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -17,
+    "best3_total": -16,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -633,7 +633,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Tommy Fleetwood",
         "score": "-1",
         "today": "",
@@ -772,7 +772,7 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Collin Morikawa",
         "score": "-4",
         "today": "",
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -811,16 +811,16 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "32",
         "player": "Wyndham Clark",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
         "r3": "72.0",
-        "r4": "50.0",
-        "numeric_score": -1,
+        "r4": "54.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -10,
+    "best3_total": -11,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Keegan Bradley",
         "score": "-3",
         "today": "",
