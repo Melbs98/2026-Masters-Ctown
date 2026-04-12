@@ -638,19 +638,6 @@
   },
   {
     "pos": "50",
-    "player": "Rasmus Højgaard",
-    "score": "+5",
-    "today": "",
-    "thru": "",
-    "r1": "78.0",
-    "r2": "70.0",
-    "r3": "73.0",
-    "r4": "0.0",
-    "numeric_score": 5,
-    "day3_total": null
-  },
-  {
-    "pos": "51",
     "player": "Kurt Kitayama",
     "score": "+6",
     "today": "",
@@ -659,6 +646,19 @@
     "r2": "79.0",
     "r3": "75.0",
     "r4": "8.0",
+    "numeric_score": 6,
+    "day3_total": null
+  },
+  {
+    "pos": "51",
+    "player": "Rasmus Højgaard",
+    "score": "+6",
+    "today": "",
+    "thru": "",
+    "r1": "78.0",
+    "r2": "70.0",
+    "r3": "73.0",
+    "r4": "5.0",
     "numeric_score": 6,
     "day3_total": null
   },
