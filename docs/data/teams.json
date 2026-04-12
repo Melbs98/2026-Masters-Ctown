@@ -155,16 +155,16 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "37",
         "player": "Jacob Bridgeman",
-        "score": "-2",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "0.0",
-        "numeric_score": -2,
+        "r4": "5.0",
+        "numeric_score": -1,
         "day3_total": null
       },
       {
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Adam Scott",
         "score": "-1",
         "today": "",
@@ -793,12 +793,12 @@
         "r1": "73.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -2,
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "35",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -806,7 +806,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "71.0",
-        "r4": "9.0",
+        "r4": "13.0",
         "numeric_score": -1,
         "day3_total": null
       },
@@ -1063,7 +1063,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "32",
         "player": "Maverick McNealy",
         "score": "-1",
         "today": "",
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Viktor Hovland",
         "score": "-1",
         "today": "",
@@ -1236,7 +1236,7 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
-        "r4": "9.0",
+        "r4": "13.0",
         "numeric_score": 0,
         "day3_total": null
       },
