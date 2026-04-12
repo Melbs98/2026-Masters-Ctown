@@ -105,6 +105,19 @@
   },
   {
     "pos": "9",
+    "player": "Xander Schauffele",
+    "score": "-7",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "72.0",
+    "r3": "70.0",
+    "r4": "53.0",
+    "numeric_score": -7,
+    "day3_total": null
+  },
+  {
+    "pos": "10",
     "player": "Haotong Li",
     "score": "-7",
     "today": "",
@@ -114,19 +127,6 @@
     "r3": "69.0",
     "r4": "36.0",
     "numeric_score": -7,
-    "day3_total": null
-  },
-  {
-    "pos": "10",
-    "player": "Xander Schauffele",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "72.0",
-    "r3": "70.0",
-    "r4": "50.0",
-    "numeric_score": -6,
     "day3_total": null
   },
   {
@@ -580,7 +580,7 @@
     "r1": "72.0",
     "r2": "72.0",
     "r3": "68.0",
-    "r4": "58.0",
+    "r4": "62.0",
     "numeric_score": 2,
     "day3_total": null
   },
