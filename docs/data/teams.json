@@ -320,7 +320,7 @@
         "day3_total": null
       },
       {
-        "pos": "53",
+        "pos": "52",
         "player": "Aaron Rai",
         "score": "+7",
         "today": "",
@@ -328,7 +328,7 @@
         "r1": "71.0",
         "r2": "74.0",
         "r3": "78.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": 7,
         "day3_total": null
       },
@@ -1136,7 +1136,7 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "77.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": 9,
         "day3_total": null
       }
@@ -1202,7 +1202,7 @@
         "day3_total": null
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Kurt Kitayama",
         "score": "+7",
         "today": "",
