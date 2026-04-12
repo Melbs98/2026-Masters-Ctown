@@ -443,6 +443,19 @@
   },
   {
     "pos": "35",
+    "player": "Adam Scott",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "70.0",
+    "r4": "8.0",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "36",
     "player": "Brian Harman",
     "score": "-1",
     "today": "",
@@ -455,7 +468,7 @@
     "day3_total": null
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Jordan Spieth",
     "score": "-1",
     "today": "",
@@ -468,7 +481,7 @@
     "day3_total": null
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Alex Noren",
     "score": "E",
     "today": "",
@@ -481,7 +494,7 @@
     "day3_total": null
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Justin Thomas",
     "score": "E",
     "today": "",
@@ -490,19 +503,6 @@
     "r2": "74.0",
     "r3": "71.0",
     "r4": "15.0",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "39",
-    "player": "Adam Scott",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "70.0",
-    "r4": "4.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -534,6 +534,19 @@
   },
   {
     "pos": "42",
+    "player": "Keegan Bradley",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "74.0",
+    "r3": "73.0",
+    "r4": "25.0",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "43",
     "player": "Matt McCarty",
     "score": "+1",
     "today": "",
@@ -546,7 +559,7 @@
     "day3_total": null
   },
   {
-    "pos": "43",
+    "pos": "44",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -559,7 +572,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "45",
     "player": "Si Woo Kim",
     "score": "+2",
     "today": "",
@@ -568,19 +581,6 @@
     "r2": "73.0",
     "r3": "72.0",
     "r4": "25.0",
-    "numeric_score": 2,
-    "day3_total": null
-  },
-  {
-    "pos": "45",
-    "player": "Keegan Bradley",
-    "score": "+2",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "74.0",
-    "r3": "73.0",
-    "r4": "22.0",
     "numeric_score": 2,
     "day3_total": null
   },
@@ -632,7 +632,7 @@
     "r1": "69.0",
     "r2": "79.0",
     "r3": "75.0",
-    "r4": "30.0",
+    "r4": "34.0",
     "numeric_score": 5,
     "day3_total": null
   },
@@ -645,7 +645,7 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "71.0",
-    "r4": "22.0",
+    "r4": "25.0",
     "numeric_score": 5,
     "day3_total": null
   },
