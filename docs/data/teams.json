@@ -76,7 +76,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "12.0",
+        "r4": "16.0",
         "numeric_score": 8,
         "day3_total": null
       },
@@ -541,7 +541,7 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "7.0",
+        "r4": "11.0",
         "numeric_score": 2,
         "day3_total": null
       },
@@ -572,16 +572,16 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "45",
         "player": "Dustin Johnson",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "71.0",
         "r3": "75.0",
-        "r4": "4.0",
-        "numeric_score": 3,
+        "r4": "8.0",
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -1150,7 +1150,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Jon Rahm",
         "score": "+3",
         "today": "",
@@ -1189,7 +1189,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Keegan Bradley",
         "score": "+3",
         "today": "",
