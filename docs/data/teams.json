@@ -76,7 +76,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "73.0",
+        "r4": "77.0",
         "numeric_score": 10,
         "day3_total": null
       },
@@ -155,16 +155,16 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "36",
         "player": "Jacob Bridgeman",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "34.0",
-        "numeric_score": 0,
+        "r4": "37.0",
+        "numeric_score": -1,
         "day3_total": null
       },
       {
@@ -320,7 +320,7 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "48",
         "player": "Aaron Rai",
         "score": "+5",
         "today": "",
@@ -407,16 +407,16 @@
         "day3_total": null
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Si Woo Kim",
-        "score": "+5",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "69.0",
-        "numeric_score": 5,
+        "r4": "72.0",
+        "numeric_score": 4,
         "day3_total": null
       },
       {
@@ -454,7 +454,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "75.0",
-        "r4": "61.0",
+        "r4": "65.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -541,7 +541,7 @@
         "r1": "73.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "3.0",
+        "r4": "8.0",
         "numeric_score": -6,
         "day3_total": null
       },
@@ -598,16 +598,16 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "42",
         "player": "Kristoffer Reitan",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "29.0",
-        "numeric_score": -1,
+        "r4": "35.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "41",
         "player": "Sepp Straka",
         "score": "E",
         "today": "",
@@ -667,7 +667,7 @@
         "r1": "73.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "34.0",
+        "r4": "38.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -685,16 +685,16 @@
         "day3_total": null
       },
       {
-        "pos": "26",
+        "pos": "34",
         "player": "Wyndham Clark",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "68.0",
         "r3": "72.0",
-        "r4": "14.0",
-        "numeric_score": -3,
+        "r4": "18.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -750,7 +750,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -14,
+    "best3_total": -13,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -811,16 +811,16 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "27",
         "player": "Matt McCarty",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "59.0",
-        "numeric_score": -1,
+        "r4": "61.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -832,7 +832,7 @@
         "r1": "72.0",
         "r2": "69.0",
         "r3": "70.0",
-        "r4": "4.0",
+        "r4": "9.0",
         "numeric_score": -5,
         "day3_total": null
       },
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "26",
         "player": "Keegan Bradley",
         "score": "-2",
         "today": "",
@@ -1058,7 +1058,7 @@
         "r1": "75.0",
         "r2": "73.0",
         "r3": "71.0",
-        "r4": "63.0",
+        "r4": "66.0",
         "numeric_score": 5,
         "day3_total": null
       },
