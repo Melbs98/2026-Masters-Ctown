@@ -3,7 +3,7 @@
     "team": "Strommens",
     "golfers": [
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Ludvig Åberg",
         "score": "-6",
         "today": "",
@@ -81,7 +81,7 @@
         "day3_total": null
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Haotong Li",
         "score": "-7",
         "today": "",
@@ -129,7 +129,7 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "7",
+        "pos": "8",
         "player": "Scottie Scheffler",
         "score": "-7",
         "today": "",
@@ -142,7 +142,7 @@
         "day3_total": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Chris Gotterup",
         "score": "-3",
         "today": "",
@@ -189,7 +189,7 @@
         "r1": "72.0",
         "r2": "70.0",
         "r3": "71.0",
-        "r4": "26.0",
+        "r4": "31.0",
         "numeric_score": -4,
         "day3_total": null
       },
@@ -333,16 +333,16 @@
         "day3_total": null
       },
       {
-        "pos": "25",
+        "pos": "18",
         "player": "Michael Brennan",
-        "score": "-3",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "71.0",
         "r3": "70.0",
-        "r4": "27.0",
-        "numeric_score": -3,
+        "r4": "31.0",
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -372,7 +372,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -19,
+    "best3_total": -20,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "17",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -454,7 +454,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "75.0",
-        "r4": "65.0",
+        "r4": "69.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -533,16 +533,16 @@
         "day3_total": null
       },
       {
-        "pos": "11",
+        "pos": "7",
         "player": "Jake Knapp",
-        "score": "-6",
+        "score": "-7",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "8.0",
-        "numeric_score": -6,
+        "r4": "11.0",
+        "numeric_score": -7,
         "day3_total": null
       },
       {
@@ -624,7 +624,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -14,
+    "best3_total": -15,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
@@ -633,7 +633,7 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Xander Schauffele",
         "score": "-6",
         "today": "",
@@ -685,7 +685,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Wyndham Clark",
         "score": "-2",
         "today": "",
@@ -693,7 +693,7 @@
         "r1": "72.0",
         "r2": "68.0",
         "r3": "72.0",
-        "r4": "18.0",
+        "r4": "22.0",
         "numeric_score": -2,
         "day3_total": null
       },
@@ -759,7 +759,7 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Tommy Fleetwood",
         "score": "-2",
         "today": "",
@@ -824,16 +824,16 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "23",
         "player": "Ben Griffin",
-        "score": "-5",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "69.0",
         "r3": "70.0",
-        "r4": "9.0",
-        "numeric_score": -5,
+        "r4": "14.0",
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -11,
+    "best3_total": -10,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -911,7 +911,7 @@
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "16",
         "player": "Viktor Hovland",
         "score": "-4",
         "today": "",
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "24",
         "player": "Keegan Bradley",
         "score": "-3",
         "today": "",
