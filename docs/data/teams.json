@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Alex Noren",
         "score": "-1",
         "today": "",
@@ -420,7 +420,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -446,7 +446,7 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -507,16 +507,16 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "33",
+        "pos": "38",
         "player": "Tommy Fleetwood",
-        "score": "-2",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "66.0",
-        "numeric_score": -2,
+        "r4": "72.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -554,7 +554,7 @@
         "r1": "74.0",
         "r2": "66.0",
         "r3": "72.0",
-        "r4": "58.0",
+        "r4": "62.0",
         "numeric_score": -10,
         "day3_total": null
       },
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -1202,7 +1202,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
