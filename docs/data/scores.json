@@ -99,7 +99,7 @@
     "r1": "72.0",
     "r2": "70.0",
     "r3": "71.0",
-    "r4": "53.0",
+    "r4": "58.0",
     "numeric_score": -6,
     "day3_total": null
   },
@@ -190,7 +190,7 @@
     "r1": "70.0",
     "r2": "72.0",
     "r3": "70.0",
-    "r4": "43.0",
+    "r4": "46.0",
     "numeric_score": -5,
     "day3_total": null
   },
@@ -268,7 +268,7 @@
     "r1": "72.0",
     "r2": "71.0",
     "r3": "70.0",
-    "r4": "55.0",
+    "r4": "60.0",
     "numeric_score": -4,
     "day3_total": null
   },
@@ -521,19 +521,6 @@
   },
   {
     "pos": "41",
-    "player": "Ryan Gerard",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "72.0",
-    "r3": "68.0",
-    "r4": "49.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "42",
     "player": "Justin Thomas",
     "score": "+2",
     "today": "",
@@ -546,7 +533,7 @@
     "day3_total": null
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Jacob Bridgeman",
     "score": "+2",
     "today": "",
@@ -559,7 +546,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Sepp Straka",
     "score": "+2",
     "today": "",
@@ -572,7 +559,7 @@
     "day3_total": null
   },
   {
-    "pos": "45",
+    "pos": "44",
     "player": "Kristoffer Reitan",
     "score": "+2",
     "today": "",
@@ -581,6 +568,19 @@
     "r2": "68.0",
     "r3": "73.0",
     "r4": "69.0",
+    "numeric_score": 2,
+    "day3_total": null
+  },
+  {
+    "pos": "45",
+    "player": "Ryan Gerard",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "72.0",
+    "r3": "68.0",
+    "r4": "53.0",
     "numeric_score": 2,
     "day3_total": null
   },
