@@ -3,16 +3,16 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "7",
+        "pos": "4",
         "player": "Scottie Scheffler",
-        "score": "-9",
+        "score": "-10",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "74.0",
         "r3": "65.0",
-        "r4": "54.0",
-        "numeric_score": -9,
+        "r4": "58.0",
+        "numeric_score": -10,
         "day3_total": null
       },
       {
@@ -120,9 +120,135 @@
         "day3_total": null
       }
     ],
-    "best3_total": -21,
+    "best3_total": -22,
     "best3_day3_total": null,
     "scores_entered": 7,
+    "roster_loaded": 9
+  },
+  {
+    "team": "Gregg & Brekken",
+    "golfers": [
+      {
+        "pos": "1",
+        "player": "Rory McIlroy",
+        "score": "-13",
+        "today": "",
+        "thru": "",
+        "r1": "67.0",
+        "r2": "65.0",
+        "r3": "73.0",
+        "r4": "50.0",
+        "numeric_score": -13,
+        "day3_total": null
+      },
+      {
+        "pos": "14",
+        "player": "Hideki Matsuyama",
+        "score": "-5",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "70.0",
+        "r3": "72.0",
+        "r4": "69.0",
+        "numeric_score": -5,
+        "day3_total": null
+      },
+      {
+        "pos": "47",
+        "player": "Si Woo Kim",
+        "score": "+4",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "73.0",
+        "r3": "72.0",
+        "r4": "72.0",
+        "numeric_score": 4,
+        "day3_total": null
+      },
+      {
+        "pos": "33",
+        "player": "Gary Woodland",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "71.0",
+        "r2": "75.0",
+        "r3": "76.0",
+        "r4": "66.0",
+        "numeric_score": 0,
+        "day3_total": null
+      },
+      {
+        "pos": "26",
+        "player": "Adam Scott",
+        "score": "-2",
+        "today": "",
+        "thru": "",
+        "r1": "72.0",
+        "r2": "74.0",
+        "r3": "70.0",
+        "r4": "70.0",
+        "numeric_score": -2,
+        "day3_total": null
+      },
+      {
+        "pos": "34",
+        "player": "Dustin Johnson",
+        "score": "E",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "71.0",
+        "r3": "75.0",
+        "r4": "69.0",
+        "numeric_score": 0,
+        "day3_total": null
+      },
+      {
+        "pos": "58",
+        "player": "Bubba Watson",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "73.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "69",
+        "player": "Casey Jarvis",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "75.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "76",
+        "player": "José María Olazábal",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "74.0",
+        "r2": "79.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      }
+    ],
+    "best3_total": -20,
+    "best3_day3_total": null,
+    "scores_entered": 6,
     "roster_loaded": 9
   },
   {
@@ -142,7 +268,7 @@
         "day3_total": null
       },
       {
-        "pos": "6",
+        "pos": "7",
         "player": "Collin Morikawa",
         "score": "-9",
         "today": "",
@@ -341,7 +467,7 @@
         "r1": "71.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "63.0",
+        "r4": "68.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -375,132 +501,6 @@
     "best3_total": -20,
     "best3_day3_total": null,
     "scores_entered": 7,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Gregg & Brekken",
-    "golfers": [
-      {
-        "pos": "1",
-        "player": "Rory McIlroy",
-        "score": "-12",
-        "today": "",
-        "thru": "",
-        "r1": "67.0",
-        "r2": "65.0",
-        "r3": "73.0",
-        "r4": "46.0",
-        "numeric_score": -12,
-        "day3_total": null
-      },
-      {
-        "pos": "14",
-        "player": "Hideki Matsuyama",
-        "score": "-5",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "70.0",
-        "r3": "72.0",
-        "r4": "69.0",
-        "numeric_score": -5,
-        "day3_total": null
-      },
-      {
-        "pos": "47",
-        "player": "Si Woo Kim",
-        "score": "+4",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "73.0",
-        "r3": "72.0",
-        "r4": "72.0",
-        "numeric_score": 4,
-        "day3_total": null
-      },
-      {
-        "pos": "33",
-        "player": "Gary Woodland",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "71.0",
-        "r2": "75.0",
-        "r3": "76.0",
-        "r4": "66.0",
-        "numeric_score": 0,
-        "day3_total": null
-      },
-      {
-        "pos": "26",
-        "player": "Adam Scott",
-        "score": "-2",
-        "today": "",
-        "thru": "",
-        "r1": "72.0",
-        "r2": "74.0",
-        "r3": "70.0",
-        "r4": "70.0",
-        "numeric_score": -2,
-        "day3_total": null
-      },
-      {
-        "pos": "34",
-        "player": "Dustin Johnson",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "71.0",
-        "r3": "75.0",
-        "r4": "69.0",
-        "numeric_score": 0,
-        "day3_total": null
-      },
-      {
-        "pos": "58",
-        "player": "Bubba Watson",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "73.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "69",
-        "player": "Casey Jarvis",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "75.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "76",
-        "player": "José María Olazábal",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "74.0",
-        "r2": "79.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      }
-    ],
-    "best3_total": -19,
-    "best3_day3_total": null,
-    "scores_entered": 6,
     "roster_loaded": 9
   },
   {
@@ -633,7 +633,7 @@
     "team": "Skeeg & Forney",
     "golfers": [
       {
-        "pos": "4",
+        "pos": "5",
         "player": "Justin Rose",
         "score": "-10",
         "today": "",
@@ -1150,7 +1150,7 @@
         "day3_total": null
       },
       {
-        "pos": "5",
+        "pos": "6",
         "player": "Cameron Young",
         "score": "-10",
         "today": "",
@@ -1158,7 +1158,7 @@
         "r1": "73.0",
         "r2": "67.0",
         "r3": "65.0",
-        "r4": "48.0",
+        "r4": "53.0",
         "numeric_score": -10,
         "day3_total": null
       },

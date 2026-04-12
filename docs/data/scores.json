@@ -2,14 +2,14 @@
   {
     "pos": "1",
     "player": "Rory McIlroy",
-    "score": "-12",
+    "score": "-13",
     "today": "",
     "thru": "",
     "r1": "67.0",
     "r2": "65.0",
     "r3": "73.0",
-    "r4": "46.0",
-    "numeric_score": -12,
+    "r4": "50.0",
+    "numeric_score": -13,
     "day3_total": null
   },
   {
@@ -40,6 +40,19 @@
   },
   {
     "pos": "4",
+    "player": "Scottie Scheffler",
+    "score": "-10",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "74.0",
+    "r3": "65.0",
+    "r4": "58.0",
+    "numeric_score": -10,
+    "day3_total": null
+  },
+  {
+    "pos": "5",
     "player": "Justin Rose",
     "score": "-10",
     "today": "",
@@ -52,7 +65,7 @@
     "day3_total": null
   },
   {
-    "pos": "5",
+    "pos": "6",
     "player": "Cameron Young",
     "score": "-10",
     "today": "",
@@ -60,12 +73,12 @@
     "r1": "73.0",
     "r2": "67.0",
     "r3": "65.0",
-    "r4": "48.0",
+    "r4": "53.0",
     "numeric_score": -10,
     "day3_total": null
   },
   {
-    "pos": "6",
+    "pos": "7",
     "player": "Collin Morikawa",
     "score": "-9",
     "today": "",
@@ -74,19 +87,6 @@
     "r2": "69.0",
     "r3": "68.0",
     "r4": "68.0",
-    "numeric_score": -9,
-    "day3_total": null
-  },
-  {
-    "pos": "7",
-    "player": "Scottie Scheffler",
-    "score": "-9",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "74.0",
-    "r3": "65.0",
-    "r4": "54.0",
     "numeric_score": -9,
     "day3_total": null
   },
@@ -489,7 +489,7 @@
     "r1": "71.0",
     "r2": "69.0",
     "r3": "69.0",
-    "r4": "63.0",
+    "r4": "68.0",
     "numeric_score": 0,
     "day3_total": null
   },
