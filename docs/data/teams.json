@@ -55,16 +55,16 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "38",
         "player": "Alex Noren",
-        "score": "+1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "4.0",
-        "numeric_score": 1,
+        "r4": "8.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -533,20 +533,20 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "44",
         "player": "Si Woo Kim",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "19.0",
-        "numeric_score": 3,
+        "r4": "21.0",
+        "numeric_score": 2,
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Gary Woodland",
         "score": "+3",
         "today": "",
@@ -559,7 +559,7 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Adam Scott",
         "score": "E",
         "today": "",
@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Dustin Johnson",
         "score": "+2",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
@@ -1076,7 +1076,7 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Marco Penge",
         "score": "E",
         "today": "",
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "39",
         "player": "Viktor Hovland",
         "score": "E",
         "today": "",
@@ -1189,7 +1189,7 @@
         "day3_total": null
       },
       {
-        "pos": "44",
+        "pos": "45",
         "player": "Keegan Bradley",
         "score": "+2",
         "today": "",
@@ -1228,7 +1228,7 @@
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Sam Stevens",
         "score": "E",
         "today": "",
