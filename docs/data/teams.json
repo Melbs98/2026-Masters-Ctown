@@ -11,7 +11,7 @@
         "r1": "74.0",
         "r2": "70.0",
         "r3": "69.0",
-        "r4": "17.0",
+        "r4": "20.0",
         "numeric_score": -6,
         "day3_total": null
       },
@@ -42,7 +42,7 @@
         "day3_total": null
       },
       {
-        "pos": "13",
+        "pos": "15",
         "player": "Patrick Cantlay",
         "score": "-6",
         "today": "",
@@ -194,7 +194,7 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "17",
         "player": "Ryan Gerard",
         "score": "-5",
         "today": "",
@@ -346,7 +346,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "31",
         "player": "Brian Campbell",
         "score": "-2",
         "today": "",
@@ -354,7 +354,7 @@
         "r1": "71.0",
         "r2": "73.0",
         "r3": "69.0",
-        "r4": "21.0",
+        "r4": "24.0",
         "numeric_score": -2,
         "day3_total": null
       },
@@ -507,7 +507,7 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Matt Fitzpatrick",
         "score": "-2",
         "today": "",
@@ -520,7 +520,7 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "14",
         "player": "Patrick Reed",
         "score": "-6",
         "today": "",
@@ -528,7 +528,7 @@
         "r1": "69.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -6,
         "day3_total": null
       },
@@ -646,16 +646,16 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "13",
         "player": "Collin Morikawa",
-        "score": "-5",
+        "score": "-6",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "0.0",
-        "numeric_score": -5,
+        "r4": "3.0",
+        "numeric_score": -6,
         "day3_total": null
       },
       {
@@ -698,7 +698,7 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Nick Taylor",
         "score": "-2",
         "today": "",
@@ -750,7 +750,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -13,
+    "best3_total": -14,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -824,7 +824,7 @@
         "day3_total": null
       },
       {
-        "pos": "17",
+        "pos": "18",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
@@ -971,7 +971,7 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
-        "r4": "44.0",
+        "r4": "47.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "16",
         "player": "Russell Henley",
         "score": "-6",
         "today": "",
