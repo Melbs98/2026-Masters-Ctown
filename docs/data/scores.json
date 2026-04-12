@@ -274,6 +274,19 @@
   },
   {
     "pos": "22",
+    "player": "Viktor Hovland",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "71.0",
+    "r3": "71.0",
+    "r4": "28.0",
+    "numeric_score": -3,
+    "day3_total": null
+  },
+  {
+    "pos": "23",
     "player": "Jordan Spieth",
     "score": "-3",
     "today": "",
@@ -286,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -299,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Kristoffer Reitan",
     "score": "-3",
     "today": "",
@@ -312,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "26",
     "player": "Ludvig Åberg",
     "score": "-3",
     "today": "",
@@ -325,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "27",
     "player": "Brian Campbell",
     "score": "-3",
     "today": "",
@@ -338,7 +351,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "28",
     "player": "Matt Fitzpatrick",
     "score": "-3",
     "today": "",
@@ -351,7 +364,7 @@
     "day3_total": null
   },
   {
-    "pos": "28",
+    "pos": "29",
     "player": "Michael Brennan",
     "score": "-3",
     "today": "",
@@ -364,7 +377,7 @@
     "day3_total": null
   },
   {
-    "pos": "29",
+    "pos": "30",
     "player": "Nick Taylor",
     "score": "-3",
     "today": "",
@@ -377,7 +390,7 @@
     "day3_total": null
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Max Homa",
     "score": "-3",
     "today": "",
@@ -387,19 +400,6 @@
     "r3": "71.0",
     "r4": "0.0",
     "numeric_score": -3,
-    "day3_total": null
-  },
-  {
-    "pos": "31",
-    "player": "Viktor Hovland",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "71.0",
-    "r3": "71.0",
-    "r4": "24.0",
-    "numeric_score": -2,
     "day3_total": null
   },
   {
@@ -430,14 +430,14 @@
   },
   {
     "pos": "34",
-    "player": "Keegan Bradley",
+    "player": "Matt McCarty",
     "score": "-1",
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "74.0",
-    "r3": "73.0",
-    "r4": "32.0",
+    "r2": "73.0",
+    "r3": "72.0",
+    "r4": "34.0",
     "numeric_score": -1,
     "day3_total": null
   },
@@ -482,14 +482,14 @@
   },
   {
     "pos": "38",
-    "player": "Matt McCarty",
+    "player": "Keegan Bradley",
     "score": "E",
     "today": "",
     "thru": "",
     "r1": "72.0",
-    "r2": "73.0",
-    "r3": "72.0",
-    "r4": "31.0",
+    "r2": "74.0",
+    "r3": "73.0",
+    "r4": "37.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -528,7 +528,7 @@
     "r1": "76.0",
     "r2": "69.0",
     "r3": "69.0",
-    "r4": "11.0",
+    "r4": "15.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -606,7 +606,7 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "71.0",
-    "r4": "28.0",
+    "r4": "33.0",
     "numeric_score": 2,
     "day3_total": null
   },
@@ -632,7 +632,7 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "71.0",
-    "r4": "33.0",
+    "r4": "37.0",
     "numeric_score": 4,
     "day3_total": null
   },
