@@ -63,12 +63,12 @@
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "19.0",
+        "r4": "22.0",
         "numeric_score": 0,
         "day3_total": null
       },
       {
-        "pos": "52",
+        "pos": "53",
         "player": "Rasmus Højgaard",
         "score": "+7",
         "today": "",
@@ -207,7 +207,7 @@
         "day3_total": null
       },
       {
-        "pos": "53",
+        "pos": "52",
         "player": "Sergio García",
         "score": "+7",
         "today": "",
@@ -215,7 +215,7 @@
         "r1": "72.0",
         "r2": "75.0",
         "r3": "74.0",
-        "r4": "38.0",
+        "r4": "42.0",
         "numeric_score": 7,
         "day3_total": null
       },
@@ -322,14 +322,14 @@
       {
         "pos": "51",
         "player": "Aaron Rai",
-        "score": "+6",
+        "score": "+7",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "78.0",
-        "r4": "43.0",
-        "numeric_score": 6,
+        "r4": "47.0",
+        "numeric_score": 7,
         "day3_total": null
       },
       {
@@ -1063,7 +1063,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "33",
         "player": "Maverick McNealy",
         "score": "-1",
         "today": "",
@@ -1071,7 +1071,7 @@
         "r1": "77.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "18.0",
+        "r4": "21.0",
         "numeric_score": -1,
         "day3_total": null
       },
@@ -1158,7 +1158,7 @@
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
-        "r4": "33.0",
+        "r4": "37.0",
         "numeric_score": 2,
         "day3_total": null
       },
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Viktor Hovland",
         "score": "-1",
         "today": "",
