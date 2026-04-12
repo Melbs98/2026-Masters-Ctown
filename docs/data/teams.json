@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "46",
         "player": "Dustin Johnson",
         "score": "+2",
         "today": "",
@@ -646,7 +646,7 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "35",
         "player": "Jordan Spieth",
         "score": "-1",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "37",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
@@ -685,16 +685,16 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "33",
         "player": "Matt McCarty",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "3.0",
-        "numeric_score": 0,
+        "r4": "7.0",
+        "numeric_score": -1,
         "day3_total": null
       },
       {
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Harris English",
         "score": "-1",
         "today": "",
@@ -926,14 +926,14 @@
       {
         "pos": "48",
         "player": "Corey Conners",
-        "score": "+4",
+        "score": "+3",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "73.0",
         "r3": "71.0",
-        "r4": "5.0",
-        "numeric_score": 4,
+        "r4": "9.0",
+        "numeric_score": 3,
         "day3_total": null
       },
       {
@@ -950,7 +950,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Brian Harman",
         "score": "-1",
         "today": "",
@@ -1015,7 +1015,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -8,
+    "best3_total": -9,
     "best3_day3_total": null,
     "scores_entered": 3,
     "roster_loaded": 10
@@ -1150,7 +1150,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "46",
+        "pos": "47",
         "player": "Jon Rahm",
         "score": "+3",
         "today": "",
@@ -1189,16 +1189,16 @@
         "day3_total": null
       },
       {
-        "pos": "47",
+        "pos": "45",
         "player": "Keegan Bradley",
-        "score": "+3",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "73.0",
-        "r4": "9.0",
-        "numeric_score": 3,
+        "r4": "12.0",
+        "numeric_score": 2,
         "day3_total": null
       },
       {
@@ -1267,7 +1267,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": 4,
+    "best3_total": 3,
     "best3_day3_total": null,
     "scores_entered": 5,
     "roster_loaded": 9
