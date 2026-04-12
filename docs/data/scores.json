@@ -99,7 +99,7 @@
     "r1": "67.0",
     "r2": "71.0",
     "r3": "68.0",
-    "r4": "69.0",
+    "r4": "73.0",
     "numeric_score": -9,
     "day3_total": null
   },
@@ -378,19 +378,6 @@
   },
   {
     "pos": "30",
-    "player": "Shane Lowry",
-    "score": "-2",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "69.0",
-    "r3": "68.0",
-    "r4": "75.0",
-    "numeric_score": -2,
-    "day3_total": null
-  },
-  {
-    "pos": "31",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -403,7 +390,7 @@
     "day3_total": null
   },
   {
-    "pos": "32",
+    "pos": "31",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -412,6 +399,19 @@
     "r2": "71.0",
     "r3": "71.0",
     "r4": "72.0",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "32",
+    "player": "Shane Lowry",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "69.0",
+    "r3": "68.0",
+    "r4": "80.0",
     "numeric_score": -1,
     "day3_total": null
   },
