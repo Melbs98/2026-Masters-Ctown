@@ -54,14 +54,14 @@
   {
     "pos": "5",
     "player": "Justin Rose",
-    "score": "-8",
+    "score": "-9",
     "today": "",
     "thru": "",
     "r1": "70.0",
     "r2": "69.0",
     "r3": "69.0",
     "r4": "22.0",
-    "numeric_score": -8,
+    "numeric_score": -9,
     "day3_total": null
   },
   {
@@ -131,19 +131,6 @@
   },
   {
     "pos": "11",
-    "player": "Jake Knapp",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "35.0",
-    "numeric_score": -6,
-    "day3_total": null
-  },
-  {
-    "pos": "12",
     "player": "Patrick Cantlay",
     "score": "-6",
     "today": "",
@@ -156,20 +143,7 @@
     "day3_total": null
   },
   {
-    "pos": "13",
-    "player": "Haotong Li",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "24.0",
-    "numeric_score": -6,
-    "day3_total": null
-  },
-  {
-    "pos": "14",
+    "pos": "12",
     "player": "Shane Lowry",
     "score": "-6",
     "today": "",
@@ -182,7 +156,7 @@
     "day3_total": null
   },
   {
-    "pos": "15",
+    "pos": "13",
     "player": "Jordan Spieth",
     "score": "-5",
     "today": "",
@@ -195,7 +169,7 @@
     "day3_total": null
   },
   {
-    "pos": "16",
+    "pos": "14",
     "player": "Xander Schauffele",
     "score": "-5",
     "today": "",
@@ -208,7 +182,20 @@
     "day3_total": null
   },
   {
-    "pos": "17",
+    "pos": "15",
+    "player": "Jake Knapp",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "40.0",
+    "numeric_score": -5,
+    "day3_total": null
+  },
+  {
+    "pos": "16",
     "player": "Collin Morikawa",
     "score": "-5",
     "today": "",
@@ -221,7 +208,7 @@
     "day3_total": null
   },
   {
-    "pos": "18",
+    "pos": "17",
     "player": "Patrick Reed",
     "score": "-5",
     "today": "",
@@ -230,6 +217,19 @@
     "r2": "69.0",
     "r3": "72.0",
     "r4": "33.0",
+    "numeric_score": -5,
+    "day3_total": null
+  },
+  {
+    "pos": "18",
+    "player": "Haotong Li",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "29.0",
     "numeric_score": -5,
     "day3_total": null
   },
@@ -300,19 +300,6 @@
   },
   {
     "pos": "24",
-    "player": "Ben Griffin",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "69.0",
-    "r3": "70.0",
-    "r4": "37.0",
-    "numeric_score": -4,
-    "day3_total": null
-  },
-  {
-    "pos": "25",
     "player": "Keegan Bradley",
     "score": "-3",
     "today": "",
@@ -325,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Chris Gotterup",
     "score": "-3",
     "today": "",
@@ -338,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "26",
     "player": "Brooks Koepka",
     "score": "-3",
     "today": "",
@@ -346,7 +333,20 @@
     "r1": "72.0",
     "r2": "69.0",
     "r3": "71.0",
-    "r4": "45.0",
+    "r4": "48.0",
+    "numeric_score": -3,
+    "day3_total": null
+  },
+  {
+    "pos": "27",
+    "player": "Ben Griffin",
+    "score": "-3",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
+    "r3": "70.0",
+    "r4": "42.0",
     "numeric_score": -3,
     "day3_total": null
   },
@@ -398,7 +398,7 @@
     "r1": "71.0",
     "r2": "73.0",
     "r3": "69.0",
-    "r4": "48.0",
+    "r4": "53.0",
     "numeric_score": -2,
     "day3_total": null
   },
@@ -541,7 +541,7 @@
     "r1": "71.0",
     "r2": "72.0",
     "r3": "70.0",
-    "r4": "56.0",
+    "r4": "60.0",
     "numeric_score": 1,
     "day3_total": null
   },
@@ -554,7 +554,7 @@
     "r1": "72.0",
     "r2": "72.0",
     "r3": "68.0",
-    "r4": "45.0",
+    "r4": "49.0",
     "numeric_score": 1,
     "day3_total": null
   },
@@ -580,7 +580,7 @@
     "r1": "72.0",
     "r2": "68.0",
     "r3": "73.0",
-    "r4": "66.0",
+    "r4": "69.0",
     "numeric_score": 2,
     "day3_total": null
   },
