@@ -118,6 +118,19 @@
   },
   {
     "pos": "10",
+    "player": "Sam Burns",
+    "score": "-8",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "71.0",
+    "r3": "68.0",
+    "r4": "54.0",
+    "numeric_score": -8,
+    "day3_total": null
+  },
+  {
+    "pos": "11",
     "player": "Jake Knapp",
     "score": "-7",
     "today": "",
@@ -126,19 +139,6 @@
     "r2": "69.0",
     "r3": "69.0",
     "r4": "70.0",
-    "numeric_score": -7,
-    "day3_total": null
-  },
-  {
-    "pos": "11",
-    "player": "Sam Burns",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "71.0",
-    "r3": "68.0",
-    "r4": "50.0",
     "numeric_score": -7,
     "day3_total": null
   },
@@ -261,6 +261,19 @@
   },
   {
     "pos": "21",
+    "player": "Shane Lowry",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "69.0",
+    "r3": "68.0",
+    "r4": "57.0",
+    "numeric_score": -4,
+    "day3_total": null
+  },
+  {
+    "pos": "22",
     "player": "Keegan Bradley",
     "score": "-3",
     "today": "",
@@ -273,7 +286,7 @@
     "day3_total": null
   },
   {
-    "pos": "22",
+    "pos": "23",
     "player": "Ludvig Åberg",
     "score": "-3",
     "today": "",
@@ -286,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "24",
     "player": "Wyndham Clark",
     "score": "-3",
     "today": "",
@@ -295,19 +308,6 @@
     "r2": "68.0",
     "r3": "72.0",
     "r4": "73.0",
-    "numeric_score": -3,
-    "day3_total": null
-  },
-  {
-    "pos": "24",
-    "player": "Shane Lowry",
-    "score": "-3",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "69.0",
-    "r3": "68.0",
-    "r4": "53.0",
     "numeric_score": -3,
     "day3_total": null
   },
