@@ -38,7 +38,21 @@
     },
     {
       "title": "Day 3",
-      "items": []
+      "items": [
+        {
+          "label": "Leader",
+          "winners": [
+            { "name": "Gregg & Brekken", "amount": 25 },
+            { "name": "Tommy & Danny", "amount": 25 }
+          ]
+        },
+        {
+          "label": "Best 3-Man Team",
+          "winners": [
+            { "name": "Strommens", "amount": 50 }
+          ]
+        }
+      ]
     },
     {
       "title": "Final",
