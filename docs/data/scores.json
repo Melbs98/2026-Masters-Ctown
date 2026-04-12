@@ -482,19 +482,6 @@
   },
   {
     "pos": "38",
-    "player": "Haotong Li",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "71.0",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "39",
     "player": "Jon Rahm",
     "score": "+1",
     "today": "",
@@ -507,7 +494,7 @@
     "day3_total": null
   },
   {
-    "pos": "40",
+    "pos": "39",
     "player": "Ryan Gerard",
     "score": "+1",
     "today": "",
@@ -516,6 +503,19 @@
     "r2": "72.0",
     "r3": "68.0",
     "r4": "77.0",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "40",
+    "player": "Haotong Li",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "76.0",
     "numeric_score": 1,
     "day3_total": null
   },
