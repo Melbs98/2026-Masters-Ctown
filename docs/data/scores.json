@@ -34,7 +34,7 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "66.0",
-    "r4": "32.0",
+    "r4": "36.0",
     "numeric_score": -10,
     "day3_total": null
   },
@@ -261,19 +261,6 @@
   },
   {
     "pos": "21",
-    "player": "Michael Brennan",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "71.0",
-    "r3": "70.0",
-    "r4": "63.0",
-    "numeric_score": -4,
-    "day3_total": null
-  },
-  {
-    "pos": "22",
     "player": "Matt Fitzpatrick",
     "score": "-4",
     "today": "",
@@ -286,7 +273,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Brooks Koepka",
     "score": "-4",
     "today": "",
@@ -294,12 +281,12 @@
     "r1": "72.0",
     "r2": "69.0",
     "r3": "71.0",
-    "r4": "52.0",
+    "r4": "56.0",
     "numeric_score": -4,
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "23",
     "player": "Collin Morikawa",
     "score": "-4",
     "today": "",
@@ -312,7 +299,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "24",
     "player": "Keegan Bradley",
     "score": "-3",
     "today": "",
@@ -325,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "25",
     "player": "Ben Griffin",
     "score": "-3",
     "today": "",
@@ -338,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "27",
+    "pos": "26",
     "player": "Matt McCarty",
     "score": "-2",
     "today": "",
@@ -351,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "28",
+    "pos": "27",
     "player": "Adam Scott",
     "score": "-2",
     "today": "",
@@ -364,7 +351,7 @@
     "day3_total": null
   },
   {
-    "pos": "29",
+    "pos": "28",
     "player": "Sam Stevens",
     "score": "-2",
     "today": "",
@@ -377,7 +364,7 @@
     "day3_total": null
   },
   {
-    "pos": "30",
+    "pos": "29",
     "player": "Chris Gotterup",
     "score": "-2",
     "today": "",
@@ -386,6 +373,19 @@
     "r2": "69.0",
     "r3": "72.0",
     "r4": "73.0",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "30",
+    "player": "Michael Brennan",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "71.0",
+    "r3": "70.0",
+    "r4": "69.0",
     "numeric_score": -2,
     "day3_total": null
   },
@@ -567,7 +567,7 @@
     "r1": "71.0",
     "r2": "72.0",
     "r3": "70.0",
-    "r4": "66.0",
+    "r4": "69.0",
     "numeric_score": 2,
     "day3_total": null
   },
