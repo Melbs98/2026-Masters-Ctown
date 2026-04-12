@@ -560,6 +560,19 @@
   },
   {
     "pos": "44",
+    "player": "Si Woo Kim",
+    "score": "+3",
+    "today": "",
+    "thru": "",
+    "r1": "75.0",
+    "r2": "73.0",
+    "r3": "72.0",
+    "r4": "3.0",
+    "numeric_score": 3,
+    "day3_total": null
+  },
+  {
+    "pos": "45",
     "player": "Corey Conners",
     "score": "+3",
     "today": "",
@@ -572,7 +585,7 @@
     "day3_total": null
   },
   {
-    "pos": "45",
+    "pos": "46",
     "player": "Keegan Bradley",
     "score": "+3",
     "today": "",
@@ -585,7 +598,7 @@
     "day3_total": null
   },
   {
-    "pos": "46",
+    "pos": "47",
     "player": "Dustin Johnson",
     "score": "+3",
     "today": "",
@@ -595,19 +608,6 @@
     "r3": "75.0",
     "r4": "0.0",
     "numeric_score": 3,
-    "day3_total": null
-  },
-  {
-    "pos": "47",
-    "player": "Si Woo Kim",
-    "score": "+4",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "73.0",
-    "r3": "72.0",
-    "r4": "0.0",
-    "numeric_score": 4,
     "day3_total": null
   },
   {
