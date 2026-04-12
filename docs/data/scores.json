@@ -92,6 +92,19 @@
   },
   {
     "pos": "8",
+    "player": "Sam Burns",
+    "score": "-9",
+    "today": "",
+    "thru": "",
+    "r1": "67.0",
+    "r2": "71.0",
+    "r3": "68.0",
+    "r4": "57.0",
+    "numeric_score": -9,
+    "day3_total": null
+  },
+  {
+    "pos": "9",
     "player": "Max Homa",
     "score": "-8",
     "today": "",
@@ -104,7 +117,7 @@
     "day3_total": null
   },
   {
-    "pos": "9",
+    "pos": "10",
     "player": "Xander Schauffele",
     "score": "-8",
     "today": "",
@@ -113,19 +126,6 @@
     "r2": "72.0",
     "r3": "70.0",
     "r4": "68.0",
-    "numeric_score": -8,
-    "day3_total": null
-  },
-  {
-    "pos": "10",
-    "player": "Sam Burns",
-    "score": "-8",
-    "today": "",
-    "thru": "",
-    "r1": "67.0",
-    "r2": "71.0",
-    "r3": "68.0",
-    "r4": "54.0",
     "numeric_score": -8,
     "day3_total": null
   },
@@ -151,7 +151,7 @@
     "r1": "77.0",
     "r2": "67.0",
     "r3": "66.0",
-    "r4": "64.0",
+    "r4": "68.0",
     "numeric_score": -6,
     "day3_total": null
   },
@@ -196,6 +196,19 @@
   },
   {
     "pos": "16",
+    "player": "Patrick Reed",
+    "score": "-5",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "69.0",
+    "r3": "72.0",
+    "r4": "73.0",
+    "numeric_score": -5,
+    "day3_total": null
+  },
+  {
+    "pos": "17",
     "player": "Jason Day",
     "score": "-5",
     "today": "",
@@ -208,7 +221,7 @@
     "day3_total": null
   },
   {
-    "pos": "17",
+    "pos": "18",
     "player": "Maverick McNealy",
     "score": "-4",
     "today": "",
@@ -221,7 +234,7 @@
     "day3_total": null
   },
   {
-    "pos": "18",
+    "pos": "19",
     "player": "Viktor Hovland",
     "score": "-4",
     "today": "",
@@ -234,7 +247,7 @@
     "day3_total": null
   },
   {
-    "pos": "19",
+    "pos": "20",
     "player": "Matt Fitzpatrick",
     "score": "-4",
     "today": "",
@@ -243,19 +256,6 @@
     "r2": "69.0",
     "r3": "70.0",
     "r4": "71.0",
-    "numeric_score": -4,
-    "day3_total": null
-  },
-  {
-    "pos": "20",
-    "player": "Patrick Reed",
-    "score": "-4",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "69.0",
-    "r3": "72.0",
-    "r4": "70.0",
     "numeric_score": -4,
     "day3_total": null
   },
