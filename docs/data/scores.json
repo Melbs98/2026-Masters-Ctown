@@ -424,7 +424,7 @@
     "r1": "72.0",
     "r2": "73.0",
     "r3": "72.0",
-    "r4": "7.0",
+    "r4": "11.0",
     "numeric_score": -1,
     "day3_total": null
   },
@@ -469,14 +469,14 @@
   },
   {
     "pos": "37",
-    "player": "Maverick McNealy",
+    "player": "Viktor Hovland",
     "score": "E",
     "today": "",
     "thru": "",
-    "r1": "77.0",
-    "r2": "70.0",
-    "r3": "70.0",
-    "r4": "3.0",
+    "r1": "75.0",
+    "r2": "71.0",
+    "r3": "71.0",
+    "r4": "8.0",
     "numeric_score": 0,
     "day3_total": null
   },
@@ -489,12 +489,25 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "71.0",
-    "r4": "3.0",
+    "r4": "8.0",
     "numeric_score": 0,
     "day3_total": null
   },
   {
     "pos": "39",
+    "player": "Maverick McNealy",
+    "score": "E",
+    "today": "",
+    "thru": "",
+    "r1": "77.0",
+    "r2": "70.0",
+    "r3": "70.0",
+    "r4": "3.0",
+    "numeric_score": 0,
+    "day3_total": null
+  },
+  {
+    "pos": "40",
     "player": "Sam Stevens",
     "score": "E",
     "today": "",
@@ -507,7 +520,7 @@
     "day3_total": null
   },
   {
-    "pos": "40",
+    "pos": "41",
     "player": "Adam Scott",
     "score": "E",
     "today": "",
@@ -520,7 +533,7 @@
     "day3_total": null
   },
   {
-    "pos": "41",
+    "pos": "42",
     "player": "Marco Penge",
     "score": "E",
     "today": "",
@@ -533,7 +546,7 @@
     "day3_total": null
   },
   {
-    "pos": "42",
+    "pos": "43",
     "player": "Alex Noren",
     "score": "+1",
     "today": "",
@@ -541,19 +554,6 @@
     "r1": "77.0",
     "r2": "71.0",
     "r3": "69.0",
-    "r4": "4.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "43",
-    "player": "Viktor Hovland",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "75.0",
-    "r2": "71.0",
-    "r3": "71.0",
     "r4": "4.0",
     "numeric_score": 1,
     "day3_total": null
@@ -580,7 +580,7 @@
     "r1": "72.0",
     "r2": "74.0",
     "r3": "73.0",
-    "r4": "12.0",
+    "r4": "15.0",
     "numeric_score": 2,
     "day3_total": null
   },
@@ -593,7 +593,7 @@
     "r1": "73.0",
     "r2": "71.0",
     "r3": "75.0",
-    "r4": "12.0",
+    "r4": "15.0",
     "numeric_score": 2,
     "day3_total": null
   },
@@ -606,7 +606,7 @@
     "r1": "75.0",
     "r2": "73.0",
     "r3": "71.0",
-    "r4": "9.0",
+    "r4": "13.0",
     "numeric_score": 3,
     "day3_total": null
   },
@@ -678,14 +678,14 @@
   {
     "pos": "53",
     "player": "Rasmus Højgaard",
-    "score": "+8",
+    "score": "+9",
     "today": "",
     "thru": "",
     "r1": "78.0",
     "r2": "70.0",
     "r3": "73.0",
-    "r4": "19.0",
-    "numeric_score": 8,
+    "r4": "24.0",
+    "numeric_score": 9,
     "day3_total": null
   },
   {
