@@ -142,7 +142,7 @@
         "day3_total": null
       },
       {
-        "pos": "30",
+        "pos": "29",
         "player": "Chris Gotterup",
         "score": "-2",
         "today": "",
@@ -155,16 +155,16 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Jacob Bridgeman",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "74.0",
         "r3": "69.0",
-        "r4": "42.0",
-        "numeric_score": 0,
+        "r4": "47.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "22",
+        "pos": "23",
         "player": "Max Homa",
         "score": "-4",
         "today": "",
@@ -194,16 +194,16 @@
         "day3_total": null
       },
       {
-        "pos": "27",
+        "pos": "31",
         "player": "Ryan Gerard",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "72.0",
         "r3": "68.0",
-        "r4": "21.0",
-        "numeric_score": -3,
+        "r4": "25.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -333,7 +333,7 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "22",
         "player": "Michael Brennan",
         "score": "-4",
         "today": "",
@@ -394,7 +394,7 @@
         "day3_total": null
       },
       {
-        "pos": "20",
+        "pos": "21",
         "player": "Hideki Matsuyama",
         "score": "-4",
         "today": "",
@@ -433,7 +433,7 @@
         "day3_total": null
       },
       {
-        "pos": "29",
+        "pos": "28",
         "player": "Adam Scott",
         "score": "-2",
         "today": "",
@@ -646,7 +646,7 @@
         "day3_total": null
       },
       {
-        "pos": "19",
+        "pos": "20",
         "player": "Jordan Spieth",
         "score": "-4",
         "today": "",
@@ -685,7 +685,7 @@
         "day3_total": null
       },
       {
-        "pos": "28",
+        "pos": "27",
         "player": "Matt McCarty",
         "score": "-2",
         "today": "",
@@ -772,29 +772,29 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "18",
         "player": "Collin Morikawa",
-        "score": "-4",
+        "score": "-5",
         "today": "",
         "thru": "",
         "r1": "74.0",
         "r2": "69.0",
         "r3": "68.0",
-        "r4": "10.0",
-        "numeric_score": -4,
+        "r4": "13.0",
+        "numeric_score": -5,
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Sepp Straka",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "42.0",
-        "numeric_score": 0,
+        "r4": "47.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -824,7 +824,7 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "30",
         "player": "Nick Taylor",
         "score": "-2",
         "today": "",
@@ -876,7 +876,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -12,
+    "best3_total": -13,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -885,7 +885,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "43",
+        "pos": "41",
         "player": "Jon Rahm",
         "score": "+1",
         "today": "",
@@ -965,14 +965,14 @@
       {
         "pos": "39",
         "player": "Sam Stevens",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "74.0",
         "r3": "70.0",
         "r4": "56.0",
-        "numeric_score": -1,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -1002,7 +1002,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -9,
+    "best3_total": -8,
     "best3_day3_total": null,
     "scores_entered": 5,
     "roster_loaded": 9
@@ -1050,7 +1050,7 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "19",
         "player": "Maverick McNealy",
         "score": "-4",
         "today": "",
