@@ -189,7 +189,7 @@
         "r1": "72.0",
         "r2": "70.0",
         "r3": "71.0",
-        "r4": "19.0",
+        "r4": "22.0",
         "numeric_score": -4,
         "day3_total": null
       },
@@ -215,7 +215,7 @@
         "r1": "72.0",
         "r2": "75.0",
         "r3": "74.0",
-        "r4": "67.0",
+        "r4": "71.0",
         "numeric_score": 8,
         "day3_total": null
       },
@@ -302,7 +302,7 @@
         "r1": "76.0",
         "r2": "69.0",
         "r3": "69.0",
-        "r4": "29.0",
+        "r4": "34.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -420,7 +420,7 @@
         "day3_total": null
       },
       {
-        "pos": "36",
+        "pos": "35",
         "player": "Gary Woodland",
         "score": "E",
         "today": "",
@@ -446,7 +446,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Dustin Johnson",
         "score": "E",
         "today": "",
@@ -454,7 +454,7 @@
         "r1": "73.0",
         "r2": "71.0",
         "r3": "75.0",
-        "r4": "53.0",
+        "r4": "58.0",
         "numeric_score": 0,
         "day3_total": null
       },
@@ -641,7 +641,7 @@
         "r1": "71.0",
         "r2": "68.0",
         "r3": "73.0",
-        "r4": "10.0",
+        "r4": "14.0",
         "numeric_score": -3,
         "day3_total": null
       },
@@ -685,16 +685,16 @@
         "day3_total": null
       },
       {
-        "pos": "34",
+        "pos": "38",
         "player": "Matt McCarty",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "50.0",
-        "numeric_score": -1,
+        "r4": "55.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -785,7 +785,7 @@
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "34",
         "player": "Sepp Straka",
         "score": "-1",
         "today": "",
@@ -885,7 +885,7 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "37",
+        "pos": "36",
         "player": "Jon Rahm",
         "score": "E",
         "today": "",
@@ -932,7 +932,7 @@
         "r1": "72.0",
         "r2": "74.0",
         "r3": "73.0",
-        "r4": "52.0",
+        "r4": "57.0",
         "numeric_score": -1,
         "day3_total": null
       },
