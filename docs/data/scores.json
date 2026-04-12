@@ -92,19 +92,6 @@
   },
   {
     "pos": "8",
-    "player": "Jake Knapp",
-    "score": "-7",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "69.0",
-    "r3": "69.0",
-    "r4": "14.0",
-    "numeric_score": -7,
-    "day3_total": null
-  },
-  {
-    "pos": "9",
     "player": "Russell Henley",
     "score": "-7",
     "today": "",
@@ -117,7 +104,7 @@
     "day3_total": null
   },
   {
-    "pos": "10",
+    "pos": "9",
     "player": "Ludvig Åberg",
     "score": "-6",
     "today": "",
@@ -130,7 +117,7 @@
     "day3_total": null
   },
   {
-    "pos": "11",
+    "pos": "10",
     "player": "Tyrrell Hatton",
     "score": "-6",
     "today": "",
@@ -139,6 +126,19 @@
     "r2": "66.0",
     "r3": "72.0",
     "r4": "25.0",
+    "numeric_score": -6,
+    "day3_total": null
+  },
+  {
+    "pos": "11",
+    "player": "Jake Knapp",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "69.0",
+    "r3": "69.0",
+    "r4": "19.0",
     "numeric_score": -6,
     "day3_total": null
   },
@@ -209,19 +209,6 @@
   },
   {
     "pos": "17",
-    "player": "Ben Griffin",
-    "score": "-5",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "69.0",
-    "r3": "70.0",
-    "r4": "16.0",
-    "numeric_score": -5,
-    "day3_total": null
-  },
-  {
-    "pos": "18",
     "player": "Collin Morikawa",
     "score": "-5",
     "today": "",
@@ -234,7 +221,7 @@
     "day3_total": null
   },
   {
-    "pos": "19",
+    "pos": "18",
     "player": "Maverick McNealy",
     "score": "-4",
     "today": "",
@@ -247,7 +234,7 @@
     "day3_total": null
   },
   {
-    "pos": "20",
+    "pos": "19",
     "player": "Jordan Spieth",
     "score": "-4",
     "today": "",
@@ -260,7 +247,7 @@
     "day3_total": null
   },
   {
-    "pos": "21",
+    "pos": "20",
     "player": "Hideki Matsuyama",
     "score": "-4",
     "today": "",
@@ -273,7 +260,7 @@
     "day3_total": null
   },
   {
-    "pos": "22",
+    "pos": "21",
     "player": "Michael Brennan",
     "score": "-4",
     "today": "",
@@ -286,7 +273,7 @@
     "day3_total": null
   },
   {
-    "pos": "23",
+    "pos": "22",
     "player": "Max Homa",
     "score": "-4",
     "today": "",
@@ -295,6 +282,19 @@
     "r2": "70.0",
     "r3": "71.0",
     "r4": "35.0",
+    "numeric_score": -4,
+    "day3_total": null
+  },
+  {
+    "pos": "23",
+    "player": "Ben Griffin",
+    "score": "-4",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "69.0",
+    "r3": "70.0",
+    "r4": "21.0",
     "numeric_score": -4,
     "day3_total": null
   },
@@ -365,6 +365,19 @@
   },
   {
     "pos": "29",
+    "player": "Brian Campbell",
+    "score": "-2",
+    "today": "",
+    "thru": "",
+    "r1": "71.0",
+    "r2": "73.0",
+    "r3": "69.0",
+    "r4": "33.0",
+    "numeric_score": -2,
+    "day3_total": null
+  },
+  {
+    "pos": "30",
     "player": "Nick Taylor",
     "score": "-2",
     "today": "",
@@ -377,7 +390,7 @@
     "day3_total": null
   },
   {
-    "pos": "30",
+    "pos": "31",
     "player": "Brooks Koepka",
     "score": "-2",
     "today": "",
@@ -390,7 +403,7 @@
     "day3_total": null
   },
   {
-    "pos": "31",
+    "pos": "32",
     "player": "Wyndham Clark",
     "score": "-2",
     "today": "",
@@ -403,7 +416,7 @@
     "day3_total": null
   },
   {
-    "pos": "32",
+    "pos": "33",
     "player": "Ryan Gerard",
     "score": "-2",
     "today": "",
@@ -416,7 +429,7 @@
     "day3_total": null
   },
   {
-    "pos": "33",
+    "pos": "34",
     "player": "Alex Noren",
     "score": "-1",
     "today": "",
@@ -429,7 +442,7 @@
     "day3_total": null
   },
   {
-    "pos": "34",
+    "pos": "35",
     "player": "Harris English",
     "score": "-1",
     "today": "",
@@ -438,19 +451,6 @@
     "r2": "71.0",
     "r3": "71.0",
     "r4": "56.0",
-    "numeric_score": -1,
-    "day3_total": null
-  },
-  {
-    "pos": "35",
-    "player": "Brian Campbell",
-    "score": "-1",
-    "today": "",
-    "thru": "",
-    "r1": "71.0",
-    "r2": "73.0",
-    "r3": "69.0",
-    "r4": "29.0",
     "numeric_score": -1,
     "day3_total": null
   },
