@@ -55,7 +55,7 @@
         "day3_total": null
       },
       {
-        "pos": "38",
+        "pos": "37",
         "player": "Alex Noren",
         "score": "E",
         "today": "",
@@ -328,7 +328,7 @@
         "r1": "71.0",
         "r2": "74.0",
         "r3": "78.0",
-        "r4": "35.0",
+        "r4": "39.0",
         "numeric_score": 6,
         "day3_total": null
       },
@@ -554,12 +554,12 @@
         "r1": "71.0",
         "r2": "75.0",
         "r3": "76.0",
-        "r4": "29.0",
+        "r4": "33.0",
         "numeric_score": 3,
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "39",
         "player": "Adam Scott",
         "score": "E",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "38",
         "player": "Justin Thomas",
         "score": "E",
         "today": "",
@@ -685,16 +685,16 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "42",
         "player": "Matt McCarty",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "72.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "19.0",
-        "numeric_score": 0,
+        "r4": "23.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -798,7 +798,7 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "41",
         "player": "Harris English",
         "score": "E",
         "today": "",
@@ -879,132 +879,6 @@
     "best3_total": -13,
     "best3_day3_total": null,
     "scores_entered": 6,
-    "roster_loaded": 9
-  },
-  {
-    "team": "Eric & MB",
-    "golfers": [
-      {
-        "pos": "61",
-        "player": "Bryson DeChambeau",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "74.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "63",
-        "player": "Akshay Bhatia",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "10",
-        "player": "Russell Henley",
-        "score": "-6",
-        "today": "",
-        "thru": "",
-        "r1": "73.0",
-        "r2": "71.0",
-        "r3": "66.0",
-        "r4": "0.0",
-        "numeric_score": -6,
-        "day3_total": null
-      },
-      {
-        "pos": "33",
-        "player": "Maverick McNealy",
-        "score": "-1",
-        "today": "",
-        "thru": "",
-        "r1": "77.0",
-        "r2": "70.0",
-        "r3": "70.0",
-        "r4": "14.0",
-        "numeric_score": -1,
-        "day3_total": null
-      },
-      {
-        "pos": "42",
-        "player": "Marco Penge",
-        "score": "E",
-        "today": "",
-        "thru": "",
-        "r1": "76.0",
-        "r2": "69.0",
-        "r3": "71.0",
-        "r4": "4.0",
-        "numeric_score": 0,
-        "day3_total": null
-      },
-      {
-        "pos": "85",
-        "player": "Nico Echavarria",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "78.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "84",
-        "player": "Max Greyserman",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "79.0",
-        "r2": "77.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "89",
-        "player": "Brandon Holtz",
-        "score": "CUT",
-        "today": "",
-        "thru": "",
-        "r1": "81.0",
-        "r2": "78.0",
-        "r3": "0.0",
-        "r4": "",
-        "numeric_score": null,
-        "day3_total": null
-      },
-      {
-        "pos": "54",
-        "player": "Charl Schwartzel",
-        "score": "+11",
-        "today": "",
-        "thru": "",
-        "r1": "75.0",
-        "r2": "73.0",
-        "r3": "77.0",
-        "r4": "38.0",
-        "numeric_score": 11,
-        "day3_total": null
-      }
-    ],
-    "best3_total": -7,
-    "best3_day3_total": null,
-    "scores_entered": 4,
     "roster_loaded": 9
   },
   {
@@ -1147,6 +1021,132 @@
     "roster_loaded": 10
   },
   {
+    "team": "Eric & MB",
+    "golfers": [
+      {
+        "pos": "61",
+        "player": "Bryson DeChambeau",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "74.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "63",
+        "player": "Akshay Bhatia",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "10",
+        "player": "Russell Henley",
+        "score": "-6",
+        "today": "",
+        "thru": "",
+        "r1": "73.0",
+        "r2": "71.0",
+        "r3": "66.0",
+        "r4": "0.0",
+        "numeric_score": -6,
+        "day3_total": null
+      },
+      {
+        "pos": "33",
+        "player": "Maverick McNealy",
+        "score": "-1",
+        "today": "",
+        "thru": "",
+        "r1": "77.0",
+        "r2": "70.0",
+        "r3": "70.0",
+        "r4": "14.0",
+        "numeric_score": -1,
+        "day3_total": null
+      },
+      {
+        "pos": "43",
+        "player": "Marco Penge",
+        "score": "+1",
+        "today": "",
+        "thru": "",
+        "r1": "76.0",
+        "r2": "69.0",
+        "r3": "71.0",
+        "r4": "10.0",
+        "numeric_score": 1,
+        "day3_total": null
+      },
+      {
+        "pos": "85",
+        "player": "Nico Echavarria",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "78.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "84",
+        "player": "Max Greyserman",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "79.0",
+        "r2": "77.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "89",
+        "player": "Brandon Holtz",
+        "score": "CUT",
+        "today": "",
+        "thru": "",
+        "r1": "81.0",
+        "r2": "78.0",
+        "r3": "0.0",
+        "r4": "",
+        "numeric_score": null,
+        "day3_total": null
+      },
+      {
+        "pos": "54",
+        "player": "Charl Schwartzel",
+        "score": "+12",
+        "today": "",
+        "thru": "",
+        "r1": "75.0",
+        "r2": "73.0",
+        "r3": "77.0",
+        "r4": "43.0",
+        "numeric_score": 12,
+        "day3_total": null
+      }
+    ],
+    "best3_total": -6,
+    "best3_day3_total": null,
+    "scores_entered": 4,
+    "roster_loaded": 9
+  },
+  {
     "team": "Mjoens",
     "golfers": [
       {
@@ -1228,7 +1228,7 @@
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "40",
         "player": "Sam Stevens",
         "score": "E",
         "today": "",
