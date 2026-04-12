@@ -203,7 +203,7 @@
     "r1": "75.0",
     "r2": "71.0",
     "r3": "71.0",
-    "r4": "58.0",
+    "r4": "62.0",
     "numeric_score": -5,
     "day3_total": null
   },
@@ -268,7 +268,7 @@
     "r1": "72.0",
     "r2": "71.0",
     "r3": "70.0",
-    "r4": "31.0",
+    "r4": "35.0",
     "numeric_score": -4,
     "day3_total": null
   },
@@ -281,7 +281,7 @@
     "r1": "72.0",
     "r2": "70.0",
     "r3": "71.0",
-    "r4": "31.0",
+    "r4": "35.0",
     "numeric_score": -4,
     "day3_total": null
   },
@@ -359,7 +359,7 @@
     "r1": "72.0",
     "r2": "73.0",
     "r3": "72.0",
-    "r4": "65.0",
+    "r4": "69.0",
     "numeric_score": -2,
     "day3_total": null
   },
@@ -430,6 +430,19 @@
   },
   {
     "pos": "34",
+    "player": "Harris English",
+    "score": "-1",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "71.0",
+    "r3": "71.0",
+    "r4": "56.0",
+    "numeric_score": -1,
+    "day3_total": null
+  },
+  {
+    "pos": "35",
     "player": "Sam Stevens",
     "score": "-1",
     "today": "",
@@ -442,7 +455,7 @@
     "day3_total": null
   },
   {
-    "pos": "35",
+    "pos": "36",
     "player": "Brian Campbell",
     "score": "-1",
     "today": "",
@@ -455,7 +468,7 @@
     "day3_total": null
   },
   {
-    "pos": "36",
+    "pos": "37",
     "player": "Tommy Fleetwood",
     "score": "-1",
     "today": "",
@@ -468,7 +481,7 @@
     "day3_total": null
   },
   {
-    "pos": "37",
+    "pos": "38",
     "player": "Gary Woodland",
     "score": "E",
     "today": "",
@@ -481,7 +494,7 @@
     "day3_total": null
   },
   {
-    "pos": "38",
+    "pos": "39",
     "player": "Dustin Johnson",
     "score": "E",
     "today": "",
@@ -490,19 +503,6 @@
     "r2": "71.0",
     "r3": "75.0",
     "r4": "69.0",
-    "numeric_score": 0,
-    "day3_total": null
-  },
-  {
-    "pos": "39",
-    "player": "Harris English",
-    "score": "E",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "71.0",
-    "r3": "71.0",
-    "r4": "53.0",
     "numeric_score": 0,
     "day3_total": null
   },
