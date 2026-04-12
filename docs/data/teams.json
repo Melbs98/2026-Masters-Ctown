@@ -55,7 +55,7 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "42",
         "player": "Alex Noren",
         "score": "+1",
         "today": "",
@@ -63,7 +63,7 @@
         "r1": "77.0",
         "r2": "71.0",
         "r3": "69.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": 1,
         "day3_total": null
       },
@@ -546,7 +546,7 @@
         "day3_total": null
       },
       {
-        "pos": "49",
+        "pos": "48",
         "player": "Gary Woodland",
         "score": "+4",
         "today": "",
@@ -924,7 +924,7 @@
         "day3_total": null
       },
       {
-        "pos": "48",
+        "pos": "47",
         "player": "Corey Conners",
         "score": "+3",
         "today": "",
@@ -1150,16 +1150,16 @@
     "team": "Mjoens",
     "golfers": [
       {
-        "pos": "47",
+        "pos": "49",
         "player": "Jon Rahm",
-        "score": "+3",
+        "score": "+4",
         "today": "",
         "thru": "",
         "r1": "78.0",
         "r2": "70.0",
         "r3": "73.0",
         "r4": "19.0",
-        "numeric_score": 3,
+        "numeric_score": 4,
         "day3_total": null
       },
       {
@@ -1176,7 +1176,7 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "43",
         "player": "Viktor Hovland",
         "score": "+1",
         "today": "",
