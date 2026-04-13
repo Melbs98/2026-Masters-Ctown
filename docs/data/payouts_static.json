@@ -58,24 +58,24 @@
       "title": "Final",
       "items": [
         {
-          "label": "Leader",
+          "label": "Winner",
           "winners": [
-            { "name": "Gregg & Brekken", "amount": 275 },
+            { "name": "Gregg & Brekken", "amount": 275 }
           ]
         },
-                {
+        {
           "label": "2nd Place",
           "winners": [
-            { "name": "Joe & Will", "amount": 150 },
+            { "name": "Joe & Will", "amount": 150 }
           ]
         },
-                {
+        {
           "label": "3rd Place",
           "winners": [
             { "name": "Skeeg & Forney", "amount": 25 },
             { "name": "Tommy & Danny", "amount": 25 },
             { "name": "Eric & MB", "amount": 25 },
-            { "name": "Seth & Jimmy", "amount": 25 },
+            { "name": "Seth & Jimmy", "amount": 25 }
           ]
         },
         {
@@ -86,3 +86,5 @@
         }
       ]
     }
+  ]
+}
