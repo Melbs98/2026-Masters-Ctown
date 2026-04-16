@@ -160,7 +160,7 @@
         "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "66.0",
+        "r1": "70.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -685,16 +685,16 @@
         "day3_total": null
       },
       {
-        "pos": "61",
+        "pos": "53",
         "player": "Max Homa",
-        "score": "E",
+        "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "67.0",
+        "r1": "70.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 0,
+        "numeric_score": -1,
         "day3_total": null
       },
       {
@@ -1050,16 +1050,16 @@
         "day3_total": null
       },
       {
-        "pos": "53",
+        "pos": "61",
         "player": "Jake Knapp",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
-        "r1": "66.0",
+        "r1": "71.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
