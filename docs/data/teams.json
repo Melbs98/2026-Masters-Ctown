@@ -3,12 +3,12 @@
     "team": "Slantz & Hawes",
     "golfers": [
       {
-        "pos": "17",
+        "pos": "19",
         "player": "Xander Schauffele",
         "score": "-4",
         "today": "",
         "thru": "",
-        "r1": "44.0",
+        "r1": "56.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -16,12 +16,12 @@
         "day3_total": null
       },
       {
-        "pos": "16",
+        "pos": "18",
         "player": "Collin Morikawa",
         "score": "-4",
         "today": "",
         "thru": "",
-        "r1": "48.0",
+        "r1": "63.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -29,7 +29,7 @@
         "day3_total": null
       },
       {
-        "pos": "10",
+        "pos": "11",
         "player": "Sepp Straka",
         "score": "-5",
         "today": "",
@@ -55,7 +55,7 @@
         "day3_total": null
       },
       {
-        "pos": "21",
+        "pos": "23",
         "player": "Wyndham Clark",
         "score": "-3",
         "today": "",
@@ -68,7 +68,7 @@
         "day3_total": null
       },
       {
-        "pos": "32",
+        "pos": "33",
         "player": "Nick Taylor",
         "score": "-2",
         "today": "",
@@ -142,7 +142,7 @@
         "day3_total": null
       },
       {
-        "pos": "8",
+        "pos": "9",
         "player": "Robert MacIntyre",
         "score": "CUT",
         "today": "",
@@ -155,12 +155,12 @@
         "day3_total": null
       },
       {
-        "pos": "52",
+        "pos": "51",
         "player": "Jason Day",
         "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "35.0",
+        "r1": "51.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -168,7 +168,7 @@
         "day3_total": null
       },
       {
-        "pos": "9",
+        "pos": "10",
         "player": "Sungjae Im",
         "score": "-5",
         "today": "",
@@ -181,7 +181,7 @@
         "day3_total": null
       },
       {
-        "pos": "11",
+        "pos": "12",
         "player": "Daniel Berger",
         "score": "CUT",
         "today": "",
@@ -220,7 +220,7 @@
         "day3_total": null
       },
       {
-        "pos": "18",
+        "pos": "20",
         "player": "Brian Campbell",
         "score": "-3",
         "today": "",
@@ -294,12 +294,12 @@
         "day3_total": null
       },
       {
-        "pos": "15",
+        "pos": "16",
         "player": "Keegan Bradley",
         "score": "-4",
         "today": "",
         "thru": "",
-        "r1": "56.0",
+        "r1": "67.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -307,7 +307,7 @@
         "day3_total": null
       },
       {
-        "pos": "40",
+        "pos": "41",
         "player": "Kurt Kitayama",
         "score": "-2",
         "today": "",
@@ -320,12 +320,12 @@
         "day3_total": null
       },
       {
-        "pos": "12",
+        "pos": "8",
         "player": "Andrew Novak",
         "score": "CUT",
         "today": "",
         "thru": "",
-        "r1": "55.0",
+        "r1": "65.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -407,25 +407,25 @@
         "day3_total": null
       },
       {
-        "pos": "60",
+        "pos": "61",
         "player": "Sam Burns",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
-        "r1": "44.0",
+        "r1": "56.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 0,
+        "numeric_score": 1,
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "42",
         "player": "Patrick Cantlay",
         "score": "-2",
         "today": "",
         "thru": "",
-        "r1": "53.0",
+        "r1": "65.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -472,7 +472,7 @@
         "day3_total": null
       },
       {
-        "pos": "20",
+        "pos": "22",
         "player": "Sami Välimäki",
         "score": "CUT",
         "today": "",
@@ -498,7 +498,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -10,
+    "best3_total": -9,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
@@ -507,20 +507,20 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "77",
+        "pos": "81",
         "player": "Tommy Fleetwood",
-        "score": "+3",
+        "score": "+5",
         "today": "",
         "thru": "",
-        "r1": "47.0",
+        "r1": "60.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 5,
         "day3_total": null
       },
       {
-        "pos": "35",
+        "pos": "36",
         "player": "Jordan Spieth",
         "score": "-2",
         "today": "",
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "81",
+        "pos": "80",
         "player": "Justin Thomas",
         "score": "+5",
         "today": "",
@@ -559,7 +559,7 @@
         "day3_total": null
       },
       {
-        "pos": "31",
+        "pos": "32",
         "player": "Matt McCarty",
         "score": "-2",
         "today": "",
@@ -572,7 +572,7 @@
         "day3_total": null
       },
       {
-        "pos": "33",
+        "pos": "34",
         "player": "Ben Griffin",
         "score": "-2",
         "today": "",
@@ -585,7 +585,7 @@
         "day3_total": null
       },
       {
-        "pos": "39",
+        "pos": "40",
         "player": "Michael Kim",
         "score": "CUT",
         "today": "",
@@ -611,7 +611,7 @@
         "day3_total": null
       },
       {
-        "pos": "37",
+        "pos": "38",
         "player": "Johnny Keefer",
         "score": "CUT",
         "today": "",
@@ -633,16 +633,16 @@
     "team": "Joe & Will",
     "golfers": [
       {
-        "pos": "51",
+        "pos": "43",
         "player": "Scottie Scheffler",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
-        "r1": "39.0",
+        "r1": "53.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -1,
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "80",
+        "pos": "78",
         "player": "Jacob Bridgeman",
         "score": "+4",
         "today": "",
@@ -677,7 +677,7 @@
         "score": "-1",
         "today": "",
         "thru": "",
-        "r1": "51.0",
+        "r1": "66.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -685,12 +685,12 @@
         "day3_total": null
       },
       {
-        "pos": "61",
+        "pos": "60",
         "player": "Max Homa",
         "score": "E",
         "today": "",
         "thru": "",
-        "r1": "36.0",
+        "r1": "52.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -750,7 +750,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -3,
+    "best3_total": -4,
     "best3_day3_total": null,
     "scores_entered": 6,
     "roster_loaded": 9
@@ -759,7 +759,7 @@
     "team": "Tommy & Danny",
     "golfers": [
       {
-        "pos": "34",
+        "pos": "35",
         "player": "J.J. Spaun",
         "score": "CUT",
         "today": "",
@@ -772,7 +772,7 @@
         "day3_total": null
       },
       {
-        "pos": "57",
+        "pos": "56",
         "player": "Cameron Young",
         "score": "E",
         "today": "",
@@ -798,16 +798,16 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "17",
         "player": "Corey Conners",
-        "score": "-2",
+        "score": "-4",
         "today": "",
         "thru": "",
-        "r1": "53.0",
+        "r1": "63.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -816,7 +816,7 @@
         "score": "CUT",
         "today": "",
         "thru": "",
-        "r1": "63.0",
+        "r1": "70.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -824,7 +824,7 @@
         "day3_total": null
       },
       {
-        "pos": "56",
+        "pos": "55",
         "player": "Brian Harman",
         "score": "E",
         "today": "",
@@ -889,7 +889,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -2,
+    "best3_total": -4,
     "best3_day3_total": null,
     "scores_entered": 3,
     "roster_loaded": 10
@@ -911,12 +911,12 @@
         "day3_total": null
       },
       {
-        "pos": "70",
+        "pos": "69",
         "player": "Akshay Bhatia",
         "score": "CUT",
         "today": "",
         "thru": "",
-        "r1": "57.0",
+        "r1": "73.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -924,12 +924,12 @@
         "day3_total": null
       },
       {
-        "pos": "24",
+        "pos": "25",
         "player": "Russell Henley",
         "score": "-3",
         "today": "",
         "thru": "",
-        "r1": "41.0",
+        "r1": "57.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -942,7 +942,7 @@
         "score": "+3",
         "today": "",
         "thru": "",
-        "r1": "63.0",
+        "r1": "74.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -963,12 +963,12 @@
         "day3_total": null
       },
       {
-        "pos": "76",
+        "pos": "79",
         "player": "Nico Echavarria",
         "score": "CUT",
         "today": "",
         "thru": "",
-        "r1": "58.0",
+        "r1": "75.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -1024,12 +1024,12 @@
     "team": "Doc & Sam",
     "golfers": [
       {
-        "pos": "25",
+        "pos": "26",
         "player": "Matt Fitzpatrick",
         "score": "-3",
         "today": "",
         "thru": "",
-        "r1": "37.0",
+        "r1": "52.0",
         "r2": "",
         "r3": "",
         "r4": "",
@@ -1050,16 +1050,16 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "59",
         "player": "Jake Knapp",
-        "score": "-2",
+        "score": "E",
         "today": "",
         "thru": "",
-        "r1": "34.0",
+        "r1": "55.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -2,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -1089,7 +1089,7 @@
         "day3_total": null
       },
       {
-        "pos": "14",
+        "pos": "15",
         "player": "Aldrich Potgieter",
         "score": "CUT",
         "today": "",
@@ -1176,16 +1176,16 @@
         "day3_total": null
       },
       {
-        "pos": "23",
+        "pos": "13",
         "player": "Si Woo Kim",
-        "score": "-3",
+        "score": "-5",
         "today": "",
         "thru": "",
-        "r1": "57.0",
+        "r1": "66.0",
         "r2": "",
         "r3": "",
         "r4": "",
-        "numeric_score": -3,
+        "numeric_score": -5,
         "day3_total": null
       },
       {
