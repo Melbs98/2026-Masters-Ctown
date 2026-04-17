@@ -287,6 +287,19 @@
   },
   {
     "pos": "23",
+    "player": "Sahith Theegala",
+    "score": "-6",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "67.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": -6,
+    "day3_total": null
+  },
+  {
+    "pos": "24",
     "player": "Wyndham Clark",
     "score": "-6",
     "today": "",
@@ -299,7 +312,7 @@
     "day3_total": null
   },
   {
-    "pos": "24",
+    "pos": "25",
     "player": "Russell Henley",
     "score": "-6",
     "today": "",
@@ -312,7 +325,7 @@
     "day3_total": null
   },
   {
-    "pos": "25",
+    "pos": "26",
     "player": "Corey Conners",
     "score": "-6",
     "today": "",
@@ -325,7 +338,7 @@
     "day3_total": null
   },
   {
-    "pos": "26",
+    "pos": "27",
     "player": "Andrew Novak",
     "score": "CUT",
     "today": "",
@@ -335,19 +348,6 @@
     "r3": "",
     "r4": "",
     "numeric_score": null,
-    "day3_total": null
-  },
-  {
-    "pos": "27",
-    "player": "Sahith Theegala",
-    "score": "-6",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "63.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": -6,
     "day3_total": null
   },
   {
@@ -495,19 +495,6 @@
   },
   {
     "pos": "39",
-    "player": "Johnny Keefer",
-    "score": "CUT",
-    "today": "",
-    "thru": "",
-    "r1": "69.0",
-    "r2": "62.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": null,
-    "day3_total": null
-  },
-  {
-    "pos": "40",
     "player": "Andrew Putnam",
     "score": "-3",
     "today": "",
@@ -520,7 +507,7 @@
     "day3_total": null
   },
   {
-    "pos": "41",
+    "pos": "40",
     "player": "Sam Stevens",
     "score": "-3",
     "today": "",
@@ -533,7 +520,7 @@
     "day3_total": null
   },
   {
-    "pos": "42",
+    "pos": "41",
     "player": "Harry Hall",
     "score": "CUT",
     "today": "",
@@ -546,7 +533,7 @@
     "day3_total": null
   },
   {
-    "pos": "43",
+    "pos": "42",
     "player": "Shane Lowry",
     "score": "-3",
     "today": "",
@@ -559,7 +546,7 @@
     "day3_total": null
   },
   {
-    "pos": "44",
+    "pos": "43",
     "player": "Sam Burns",
     "score": "-3",
     "today": "",
@@ -572,7 +559,7 @@
     "day3_total": null
   },
   {
-    "pos": "45",
+    "pos": "44",
     "player": "Nick Taylor",
     "score": "-3",
     "today": "",
@@ -582,6 +569,19 @@
     "r3": "",
     "r4": "",
     "numeric_score": -3,
+    "day3_total": null
+  },
+  {
+    "pos": "45",
+    "player": "Johnny Keefer",
+    "score": "CUT",
+    "today": "",
+    "thru": "",
+    "r1": "69.0",
+    "r2": "70.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": null,
     "day3_total": null
   },
   {
@@ -950,19 +950,6 @@
   },
   {
     "pos": "74",
-    "player": "Marco Penge",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "73.0",
-    "r2": "65.0",
-    "r3": "",
-    "r4": "",
-    "numeric_score": 3,
-    "day3_total": null
-  },
-  {
-    "pos": "75",
     "player": "Jhonattan Vegas",
     "score": "+4",
     "today": "",
@@ -975,8 +962,21 @@
     "day3_total": null
   },
   {
-    "pos": "76",
+    "pos": "75",
     "player": "Alex Noren",
+    "score": "+4",
+    "today": "",
+    "thru": "",
+    "r1": "73.0",
+    "r2": "73.0",
+    "r3": "",
+    "r4": "",
+    "numeric_score": 4,
+    "day3_total": null
+  },
+  {
+    "pos": "76",
+    "player": "Marco Penge",
     "score": "+4",
     "today": "",
     "thru": "",
@@ -1016,14 +1016,14 @@
   {
     "pos": "79",
     "player": "Billy Horschel",
-    "score": "+6",
+    "score": "+5",
     "today": "",
     "thru": "",
     "r1": "71.0",
-    "r2": "73.0",
+    "r2": "76.0",
     "r3": "",
     "r4": "",
-    "numeric_score": 6,
+    "numeric_score": 5,
     "day3_total": null
   },
   {
