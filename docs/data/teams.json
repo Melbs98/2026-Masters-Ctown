@@ -307,16 +307,16 @@
         "day3_total": null
       },
       {
-        "pos": "73",
+        "pos": "61",
         "player": "Alex Noren",
-        "score": "+3",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "73.0",
-        "r3": "3.0",
+        "r3": "17.0",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -546,7 +546,7 @@
         "day3_total": null
       },
       {
-        "pos": "65",
+        "pos": "66",
         "player": "Jason Day",
         "score": "E",
         "today": "",
@@ -659,7 +659,7 @@
         "day3_total": null
       },
       {
-        "pos": "64",
+        "pos": "65",
         "player": "Chris Gotterup",
         "score": "E",
         "today": "",
@@ -718,7 +718,7 @@
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
-        "r3": "0.0",
+        "r3": "16.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
@@ -772,14 +772,14 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "67",
+        "pos": "71",
         "player": "Tommy Fleetwood",
         "score": "+1",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "67.0",
-        "r3": "0.0",
+        "r3": "4.0",
         "r4": "",
         "numeric_score": 1,
         "day3_total": null
@@ -805,7 +805,7 @@
         "thru": "",
         "r1": "76.0",
         "r2": "75.0",
-        "r3": "15.0",
+        "r3": "27.0",
         "r4": "",
         "numeric_score": 8,
         "day3_total": null
@@ -850,7 +850,7 @@
         "day3_total": null
       },
       {
-        "pos": "66",
+        "pos": "67",
         "player": "Michael Kim",
         "score": "CUT",
         "today": "",
@@ -950,27 +950,27 @@
         "day3_total": null
       },
       {
-        "pos": "72",
+        "pos": "68",
         "player": "Marco Penge",
-        "score": "+3",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "73.0",
-        "r3": "8.0",
+        "r3": "22.0",
         "r4": "",
-        "numeric_score": 3,
+        "numeric_score": 1,
         "day3_total": null
       },
       {
-        "pos": "75",
+        "pos": "77",
         "player": "Nico Echavarria",
         "score": "CUT",
         "today": "",
         "thru": "",
         "r1": "75.0",
         "r2": "70.0",
-        "r3": "0.0",
+        "r3": "13.0",
         "r4": "",
         "numeric_score": null,
         "day3_total": null
@@ -1015,7 +1015,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -4,
+    "best3_total": -6,
     "best3_day3_total": null,
     "scores_entered": 3,
     "roster_loaded": 9
@@ -1057,7 +1057,7 @@
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
-        "r3": "3.0",
+        "r3": "20.0",
         "r4": "",
         "numeric_score": 3,
         "day3_total": null
