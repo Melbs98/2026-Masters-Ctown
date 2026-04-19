@@ -68,7 +68,7 @@
         "day3_total": null
       },
       {
-        "pos": "51",
+        "pos": "53",
         "player": "Nick Taylor",
         "score": "-4",
         "today": "",
@@ -76,7 +76,7 @@
         "r1": "69.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": -4,
         "day3_total": null
       },
@@ -181,16 +181,16 @@
         "day3_total": null
       },
       {
-        "pos": "67",
+        "pos": "72",
         "player": "Alex Noren",
-        "score": "-1",
+        "score": "E",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "73.0",
         "r3": "66.0",
-        "r4": "0.0",
-        "numeric_score": -1,
+        "r4": "22.0",
+        "numeric_score": 0,
         "day3_total": null
       },
       {
@@ -394,16 +394,16 @@
         "day3_total": null
       },
       {
-        "pos": "59",
+        "pos": "51",
         "player": "Chris Gotterup",
-        "score": "-2",
+        "score": "-4",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
         "r3": "69.0",
-        "r4": "0.0",
-        "numeric_score": -2,
+        "r4": "14.0",
+        "numeric_score": -4,
         "day3_total": null
       },
       {
@@ -433,29 +433,29 @@
         "day3_total": null
       },
       {
-        "pos": "65",
+        "pos": "62",
         "player": "Max Homa",
-        "score": "-1",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "70.0",
         "r3": "74.0",
-        "r4": "19.0",
-        "numeric_score": -1,
+        "r4": "41.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
-        "pos": "54",
+        "pos": "66",
         "player": "Ryan Gerard",
-        "score": "-3",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "72.0",
         "r3": "65.0",
-        "r4": "0.0",
-        "numeric_score": -3,
+        "r4": "10.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -533,7 +533,7 @@
         "day3_total": null
       },
       {
-        "pos": "60",
+        "pos": "64",
         "player": "Nicolai Højgaard",
         "score": "CUT",
         "today": "",
@@ -541,21 +541,21 @@
         "r1": "73.0",
         "r2": "68.0",
         "r3": "70.0",
-        "r4": "0.0",
+        "r4": "16.0",
         "numeric_score": null,
         "day3_total": null
       },
       {
-        "pos": "53",
+        "pos": "67",
         "player": "Corey Conners",
-        "score": "-4",
+        "score": "-2",
         "today": "",
         "thru": "",
         "r1": "67.0",
         "r2": "69.0",
         "r3": "73.0",
-        "r4": "0.0",
-        "numeric_score": -4,
+        "r4": "11.0",
+        "numeric_score": -2,
         "day3_total": null
       },
       {
@@ -567,7 +567,7 @@
         "r1": "70.0",
         "r2": "69.0",
         "r3": "72.0",
-        "r4": "0.0",
+        "r4": "21.0",
         "numeric_score": null,
         "day3_total": null
       },
@@ -637,7 +637,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -25,
+    "best3_total": -23,
     "best3_day3_total": null,
     "scores_entered": 3,
     "roster_loaded": 10
@@ -646,20 +646,20 @@
     "team": "Seth & Jimmy",
     "golfers": [
       {
-        "pos": "69",
+        "pos": "60",
         "player": "Tommy Fleetwood",
-        "score": "-1",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "76.0",
         "r2": "67.0",
         "r3": "69.0",
-        "r4": "0.0",
-        "numeric_score": -1,
+        "r4": "23.0",
+        "numeric_score": -3,
         "day3_total": null
       },
       {
-        "pos": "41",
+        "pos": "43",
         "player": "Jordan Spieth",
         "score": "-5",
         "today": "",
@@ -672,7 +672,7 @@
         "day3_total": null
       },
       {
-        "pos": "79",
+        "pos": "81",
         "player": "Justin Thomas",
         "score": "+5",
         "today": "",
@@ -680,7 +680,7 @@
         "r1": "76.0",
         "r2": "75.0",
         "r3": "70.0",
-        "r4": "25.0",
+        "r4": "49.0",
         "numeric_score": 5,
         "day3_total": null
       },
@@ -711,7 +711,7 @@
         "day3_total": null
       },
       {
-        "pos": "46",
+        "pos": "48",
         "player": "Ben Griffin",
         "score": "-5",
         "today": "",
@@ -724,7 +724,7 @@
         "day3_total": null
       },
       {
-        "pos": "71",
+        "pos": "41",
         "player": "Michael Kim",
         "score": "CUT",
         "today": "",
@@ -732,7 +732,7 @@
         "r1": "69.0",
         "r2": "73.0",
         "r3": "72.0",
-        "r4": "15.0",
+        "r4": "34.0",
         "numeric_score": null,
         "day3_total": null
       },
@@ -750,7 +750,7 @@
         "day3_total": null
       },
       {
-        "pos": "52",
+        "pos": "54",
         "player": "Johnny Keefer",
         "score": "CUT",
         "today": "",
@@ -758,7 +758,7 @@
         "r1": "69.0",
         "r2": "70.0",
         "r3": "70.0",
-        "r4": "0.0",
+        "r4": "4.0",
         "numeric_score": null,
         "day3_total": null
       }
@@ -798,20 +798,20 @@
         "day3_total": null
       },
       {
-        "pos": "55",
+        "pos": "58",
         "player": "Jason Day",
-        "score": "-2",
+        "score": "-3",
         "today": "",
         "thru": "",
         "r1": "70.0",
         "r2": "72.0",
         "r3": "72.0",
-        "r4": "13.0",
-        "numeric_score": -2,
+        "r4": "36.0",
+        "numeric_score": -3,
         "day3_total": null
       },
       {
-        "pos": "45",
+        "pos": "47",
         "player": "Sungjae Im",
         "score": "-5",
         "today": "",
@@ -824,7 +824,7 @@
         "day3_total": null
       },
       {
-        "pos": "43",
+        "pos": "45",
         "player": "Daniel Berger",
         "score": "CUT",
         "today": "",
@@ -863,16 +863,16 @@
         "day3_total": null
       },
       {
-        "pos": "72",
+        "pos": "73",
         "player": "Brian Campbell",
-        "score": "E",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "68.0",
         "r2": "72.0",
         "r3": "74.0",
-        "r4": "15.0",
-        "numeric_score": 0,
+        "r4": "40.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
@@ -889,7 +889,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -14,
+    "best3_total": -15,
     "best3_day3_total": null,
     "scores_entered": 4,
     "roster_loaded": 9
@@ -937,7 +937,7 @@
         "day3_total": null
       },
       {
-        "pos": "42",
+        "pos": "44",
         "player": "Maverick McNealy",
         "score": "-5",
         "today": "",
@@ -950,20 +950,20 @@
         "day3_total": null
       },
       {
-        "pos": "78",
+        "pos": "74",
         "player": "Marco Penge",
-        "score": "+2",
+        "score": "+1",
         "today": "",
         "thru": "",
         "r1": "73.0",
         "r2": "73.0",
         "r3": "68.0",
-        "r4": "14.0",
-        "numeric_score": 2,
+        "r4": "36.0",
+        "numeric_score": 1,
         "day3_total": null
       },
       {
-        "pos": "74",
+        "pos": "71",
         "player": "Nico Echavarria",
         "score": "CUT",
         "today": "",
@@ -971,7 +971,7 @@
         "r1": "75.0",
         "r2": "70.0",
         "r3": "68.0",
-        "r4": "4.0",
+        "r4": "28.0",
         "numeric_score": null,
         "day3_total": null
       },
@@ -1015,7 +1015,7 @@
         "day3_total": null
       }
     ],
-    "best3_total": -10,
+    "best3_total": -11,
     "best3_day3_total": null,
     "scores_entered": 3,
     "roster_loaded": 9
@@ -1050,16 +1050,16 @@
         "day3_total": null
       },
       {
-        "pos": "64",
+        "pos": "78",
         "player": "Jake Knapp",
-        "score": "-1",
+        "score": "+2",
         "today": "",
         "thru": "",
         "r1": "71.0",
         "r2": "75.0",
         "r3": "69.0",
-        "r4": "18.0",
-        "numeric_score": -1,
+        "r4": "44.0",
+        "numeric_score": 2,
         "day3_total": null
       },
       {
