@@ -885,6 +885,45 @@
   },
   {
     "pos": "69",
+    "player": "Ricky Castillo",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "72.0",
+    "r2": "70.0",
+    "r3": "72.0",
+    "r4": "4.0",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "70",
+    "player": "Max Homa",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "70.0",
+    "r2": "70.0",
+    "r3": "74.0",
+    "r4": "4.0",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "71",
+    "player": "Brian Campbell",
+    "score": "+1",
+    "today": "",
+    "thru": "",
+    "r1": "68.0",
+    "r2": "72.0",
+    "r3": "74.0",
+    "r4": "4.0",
+    "numeric_score": 1,
+    "day3_total": null
+  },
+  {
+    "pos": "72",
     "player": "Marco Penge",
     "score": "+1",
     "today": "",
@@ -897,7 +936,7 @@
     "day3_total": null
   },
   {
-    "pos": "70",
+    "pos": "73",
     "player": "Denny McCarthy",
     "score": "+1",
     "today": "",
@@ -910,20 +949,7 @@
     "day3_total": null
   },
   {
-    "pos": "71",
-    "player": "Ricky Castillo",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "72.0",
-    "r2": "70.0",
-    "r3": "72.0",
-    "r4": "0.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "72",
+    "pos": "74",
     "player": "Michael Kim",
     "score": "CUT",
     "today": "",
@@ -936,7 +962,7 @@
     "day3_total": null
   },
   {
-    "pos": "73",
+    "pos": "75",
     "player": "Jason Day",
     "score": "+1",
     "today": "",
@@ -949,33 +975,20 @@
     "day3_total": null
   },
   {
-    "pos": "74",
-    "player": "Max Homa",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "70.0",
-    "r2": "70.0",
-    "r3": "74.0",
-    "r4": "0.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
-    "pos": "75",
-    "player": "Brian Campbell",
-    "score": "+1",
-    "today": "",
-    "thru": "",
-    "r1": "68.0",
-    "r2": "72.0",
-    "r3": "74.0",
-    "r4": "0.0",
-    "numeric_score": 1,
-    "day3_total": null
-  },
-  {
     "pos": "76",
+    "player": "Austin Smotherman",
+    "score": "+2",
+    "today": "",
+    "thru": "",
+    "r1": "74.0",
+    "r2": "73.0",
+    "r3": "69.0",
+    "r4": "8.0",
+    "numeric_score": 2,
+    "day3_total": null
+  },
+  {
+    "pos": "77",
     "player": "Jhonattan Vegas",
     "score": "+2",
     "today": "",
@@ -983,12 +996,12 @@
     "r1": "77.0",
     "r2": "69.0",
     "r3": "69.0",
-    "r4": "0.0",
+    "r4": "9.0",
     "numeric_score": 2,
     "day3_total": null
   },
   {
-    "pos": "77",
+    "pos": "78",
     "player": "Jake Knapp",
     "score": "+2",
     "today": "",
@@ -996,21 +1009,8 @@
     "r1": "71.0",
     "r2": "75.0",
     "r3": "69.0",
-    "r4": "0.0",
+    "r4": "4.0",
     "numeric_score": 2,
-    "day3_total": null
-  },
-  {
-    "pos": "78",
-    "player": "Austin Smotherman",
-    "score": "+3",
-    "today": "",
-    "thru": "",
-    "r1": "74.0",
-    "r2": "73.0",
-    "r3": "69.0",
-    "r4": "0.0",
-    "numeric_score": 3,
     "day3_total": null
   },
   {
@@ -1022,21 +1022,21 @@
     "r1": "71.0",
     "r2": "76.0",
     "r3": "72.0",
-    "r4": "0.0",
+    "r4": "13.0",
     "numeric_score": 6,
     "day3_total": null
   },
   {
     "pos": "80",
     "player": "Justin Thomas",
-    "score": "+8",
+    "score": "+7",
     "today": "",
     "thru": "",
     "r1": "76.0",
     "r2": "75.0",
     "r3": "70.0",
-    "r4": "0.0",
-    "numeric_score": 8,
+    "r4": "12.0",
+    "numeric_score": 7,
     "day3_total": null
   },
   {
@@ -1048,21 +1048,21 @@
     "r1": "74.0",
     "r2": "75.0",
     "r3": "72.0",
-    "r4": "0.0",
+    "r4": "16.0",
     "numeric_score": 8,
     "day3_total": null
   },
   {
     "pos": "82",
     "player": "Tony Finau",
-    "score": "+12",
+    "score": "+11",
     "today": "",
     "thru": "",
     "r1": "75.0",
     "r2": "75.0",
     "r3": "75.0",
-    "r4": "0.0",
-    "numeric_score": 12,
+    "r4": "15.0",
+    "numeric_score": 11,
     "day3_total": null
   }
 ]
